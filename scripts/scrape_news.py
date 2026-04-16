@@ -142,16 +142,63 @@ def scrape_feeds():
     return articles[:MAX_ITEMS]
 
 
+RETENTION_DAYS = 7  # Keep only last 7 days of data
+
+
+def load_existing(path):
+    """Load existing JSON data, return empty list if not found."""
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return data.get("items", [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+
+def prune_old(articles, days=RETENTION_DAYS):
+    """Remove articles older than N days."""
+    cutoff = datetime.now(WIB) - timedelta(days=days)
+    cutoff_iso = cutoff.isoformat()
+    return [a for a in articles if a.get("published", "") >= cutoff_iso]
+
+
+def merge_dedup(existing, new_items):
+    """Merge new articles with existing, deduplicate by ID, keep newest first."""
+    seen = {}
+    for item in existing + new_items:
+        aid = item.get("id", "")
+        if aid and aid not in seen:
+            seen[aid] = item
+    merged = list(seen.values())
+    merged.sort(key=lambda x: x.get("published", ""), reverse=True)
+    return merged
+
+
 def main():
     print("[RSS News Scraper] Starting...")
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    articles = scrape_feeds()
+    outpath = OUTPUT_DIR / "latest.json"
+
+    # Load existing + scrape new + merge + prune
+    existing = load_existing(outpath)
+    print(f"  Existing articles: {len(existing)}")
+
+    new_articles = scrape_feeds()
+    print(f"  New articles scraped: {len(new_articles)}")
+
+    merged = merge_dedup(existing, new_articles)
+    articles = prune_old(merged)
+    pruned = len(merged) - len(articles)
+    if pruned > 0:
+        print(f"  Pruned {pruned} articles older than {RETENTION_DAYS} days")
+
     now = datetime.now(WIB).isoformat()
 
     output = {
         "updated": now,
         "source": "RSS aggregator",
+        "retention_days": RETENTION_DAYS,
         "count": len(articles),
         "items": articles,
     }

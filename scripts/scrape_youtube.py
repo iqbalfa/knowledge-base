@@ -35,6 +35,7 @@ SEARCH_QUERIES = [
 
 MAX_RESULTS_PER_QUERY = 3  # Videos per query
 MAX_COMMENTS_PER_VIDEO = 50
+MAX_VIDEOS = 100  # Cap total videos in knowledge base
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "youtube"
 
 
@@ -159,6 +160,38 @@ def classify_comment_topics(text):
     return topics if topics else ["umum"]
 
 
+RETENTION_DAYS = 7  # Keep only last 7 days of data
+
+
+def load_existing(path):
+    """Load existing YouTube data, return empty list if not found."""
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return data.get("videos", [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+
+def prune_old_videos(videos, days=RETENTION_DAYS):
+    """Remove videos older than N days based on published date."""
+    cutoff = datetime.now(WIB) - timedelta(days=days)
+    cutoff_iso = cutoff.strftime("%Y-%m-%dT%H:%M:%S")
+    return [v for v in videos if v.get("published", "") >= cutoff_iso]
+
+
+def merge_videos(existing, new_videos):
+    """Merge new videos with existing, deduplicate by video_id."""
+    seen = {}
+    for v in existing + new_videos:
+        vid = v.get("video_id", "")
+        if vid and vid not in seen:
+            seen[vid] = v
+    merged = list(seen.values())
+    merged.sort(key=lambda x: x.get("stats", {}).get("views", 0), reverse=True)
+    return merged
+
+
 def main():
     if not API_KEY:
         print("[YouTube Scraper] ERROR: YOUTUBE_API_KEY not set!", file=sys.stderr)
@@ -167,6 +200,8 @@ def main():
 
     print("[YouTube Scraper] Starting...")
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    outpath = OUTPUT_DIR / "comments.json"
 
     all_videos = []
     seen_video_ids = set()
@@ -223,13 +258,28 @@ def main():
     # Sort by engagement (views)
     results.sort(key=lambda x: x.get("stats", {}).get("views", 0), reverse=True)
 
+    # Load existing + merge + prune
+    existing = load_existing(outpath)
+    print(f"\n  Existing videos: {len(existing)}")
+
+    merged = merge_videos(existing, results)
+    videos = prune_old_videos(merged)
+    # Cap total videos
+    if len(videos) > MAX_VIDEOS:
+        print(f"  Capped at {MAX_VIDEOS} videos (was {len(videos)})")
+        videos = videos[:MAX_VIDEOS]
+    pruned = len(merged) - len(videos)
+    if pruned > 0:
+        print(f"  Pruned {pruned} videos older than {RETENTION_DAYS} days")
+
     now = datetime.now(WIB).isoformat()
     output = {
         "updated": now,
         "source": "YouTube Data API v3",
-        "video_count": len(results),
-        "total_comments": sum(r["comment_count"] for r in results),
-        "videos": results,
+        "retention_days": RETENTION_DAYS,
+        "video_count": len(videos),
+        "total_comments": sum(r.get("comment_count", 0) for r in videos),
+        "videos": videos,
     }
 
     outpath = OUTPUT_DIR / "comments.json"
