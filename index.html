@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indonesia Knowledge Base</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0a0a0a; color: #e0e0e0; padding: 20px; }
+        .container { max-width: 1000px; margin: 0 auto; }
+        h1 { color: #fff; font-size: 1.8em; margin-bottom: 5px; }
+        .subtitle { color: #888; margin-bottom: 30px; font-size: 0.9em; }
+        .section { margin-bottom: 40px; }
+        .section-title { color: #4fc3f7; font-size: 1.2em; margin-bottom: 15px; border-bottom: 1px solid #333; padding-bottom: 8px; }
+        .stats { display: flex; gap: 20px; margin-bottom: 30px; flex-wrap: wrap; }
+        .stat { background: #1a1a1a; padding: 15px 20px; border-radius: 8px; border: 1px solid #333; }
+        .stat-value { font-size: 1.5em; font-weight: bold; color: #4fc3f7; }
+        .stat-label { color: #888; font-size: 0.85em; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 15px; }
+        .topic-card, .video-card { background: #1a1a1a; padding: 15px; border-radius: 8px; border: 1px solid #333; }
+        .topic-name { font-weight: bold; color: #fff; text-transform: capitalize; }
+        .topic-count { color: #4fc3f7; font-size: 0.85em; margin: 4px 0; }
+        .topic-headlines { color: #999; font-size: 0.8em; line-height: 1.4; }
+        .video-card a { color: #4fc3f7; text-decoration: none; font-weight: 500; }
+        .video-card a:hover { text-decoration: underline; }
+        .video-meta { color: #888; font-size: 0.8em; margin-top: 5px; }
+        .endpoint { background: #1a1a1a; padding: 12px 15px; border-radius: 6px; border: 1px solid #333; margin-bottom: 8px; font-family: monospace; font-size: 0.85em; }
+        .endpoint a { color: #81c784; text-decoration: none; }
+        .endpoint a:hover { text-decoration: underline; }
+        .updated { color: #666; font-size: 0.75em; margin-top: 5px; }
+        footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid #333; color: #666; font-size: 0.8em; text-align: center; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🇮🇩 Indonesia Knowledge Base</h1>
+        <p class="subtitle">Real-time Indonesian news & social media data for Pabrik Konten</p>
+
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-value">200</div>
+                <div class="stat-label">News Articles</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">0</div>
+                <div class="stat-label">YouTube Videos</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">0</div>
+                <div class="stat-label">Netizen Comments</div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">📡 JSON Endpoints (for Pabrik Konten)</div>
+            <div class="endpoint">📰 <a href="data/news/latest.json">data/news/latest.json</a> — Latest news articles</div>
+            <div class="endpoint">🔥 <a href="data/news/trending.json">data/news/trending.json</a> — Trending topics</div>
+            <div class="endpoint">💬 <a href="data/youtube/comments.json">data/youtube/comments.json</a> — YouTube comments</div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">🔥 Trending Topics</div>
+            <div class="grid">
+                
+            <div class="topic-card">
+                <div class="topic-name">teknologi</div>
+                <div class="topic-count">95 articles</div>
+                <div class="topic-headlines">• Fitur Mirip AirDrop di Galaxy S26 Bermasalah, Data Foto Hilang<br>• 33 Hari Serangan Air Keras Andrie, KontraS Ungkap Banyak Kejanggalan</div>
+            </div>
+            <div class="topic-card">
+                <div class="topic-name">umum</div>
+                <div class="topic-count">46 articles</div>
+                <div class="topic-headlines">• Anggota DPR: Kasus vape untuk narkoba jangan jadi larang keseluruhan<br>• Oditur Militer hadirkan tujuh saksi dalam sidang kasus kacab bank</div>
+            </div>
+            <div class="topic-card">
+                <div class="topic-name">sosial</div>
+                <div class="topic-count">39 articles</div>
+                <div class="topic-headlines">• 33 Hari Serangan Air Keras Andrie, KontraS Ungkap Banyak Kejanggalan<br>• Kronologi Napi Korupsi Rp233 M Berkeliaran di Coffee Shop, Berawal dari Keluar Lapas untuk Sidang PK</div>
+            </div>
+            <div class="topic-card">
+                <div class="topic-name">ekonomi</div>
+                <div class="topic-count">33 articles</div>
+                <div class="topic-headlines">• Relaksasi Dana BOS untuk Gaji PPPK Paruh Waktu untuk 2026<br>• Rupiah pada Kamis pagi menguat jadi Rp17.141 per dolar AS</div>
+            </div>
+            <div class="topic-card">
+                <div class="topic-name">politik</div>
+                <div class="topic-count">27 articles</div>
+                <div class="topic-headlines">• Gubernur DKI Pramono Lantik 11 Pejabat Pimpinan Tinggi Pratama<br>• Kemnaker ajak dunia usaha dan industri perluas akses kerja lansia</div>
+            </div>
+            <div class="topic-card">
+                <div class="topic-name">internasional</div>
+                <div class="topic-count">17 articles</div>
+                <div class="topic-headlines">• Amerika Serikat Serukan Pengetatan Sanksi Minyak ke Iran<br>• Isi Kesepakatan MDCP Indonesia-AS yang Disepakati Sjafrie dan Hegseth</div>
+            </div>
+            <div class="topic-card">
+                <div class="topic-name">hiburan</div>
+                <div class="topic-count">3 articles</div>
+                <div class="topic-headlines">• Hotman Paris Tak Setuju Aksi Pinkan Mambo Ngamen di Jalan Disebut 'Downgrade', Ini Alasannya<br>• Kemarin, elektrifikasi Mikrotrans hingga Justin Bieber di Coachella</div>
+            </div>
+            <div class="topic-card">
+                <div class="topic-name">olahraga</div>
+                <div class="topic-count">1 articles</div>
+                <div class="topic-headlines">• Bayern Muenchen lolos ke semifinal Liga Champions usai tekuk Real Madrid 4-3</div>
+            </div>
+            </div>
+            <div class="updated">Updated: 2026-04-16T09:46:18.971821+07:00</div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">🎬 Top YouTube Videos</div>
+            <div class="grid">
+                <div class="video-card">No YouTube data yet. Set YOUTUBE_API_KEY and run scrapers.</div>
+            </div>
+            <div class="updated">Updated: N/A</div>
+        </div>
+
+        <footer>
+            Auto-updated via GitHub Actions • Data sources: RSS feeds (Detik, Kompas, Tempo, CNN Indonesia, Tribun, Antara, Suara) + YouTube Data API v3
+        </footer>
+    </div>
+</body>
+</html>

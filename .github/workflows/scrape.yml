@@ -1,0 +1,49 @@
+name: Scrape & Update Knowledge Base
+on:
+  schedule:
+    # 4x daily: 01:00, 07:00, 13:00, 19:00 UTC
+    # = 08:00, 14:00, 20:00, 02:00 WIB
+    - cron: '0 1,7,13,19 * * *'
+  workflow_dispatch:  # Manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Run RSS news scraper
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/scrape_news.py
+
+      - name: Run YouTube comments scraper
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/scrape_youtube.py
+
+      - name: Generate static site
+        run: python scripts/generate_site.py
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "knowledge-base-bot"
+          git config user.email "bot@knowledge-base.local"
+          git add data/ index.html
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
