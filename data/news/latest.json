@@ -1,9 +1,976 @@
 {
-  "updated": "2026-04-17T11:12:10.789792+07:00",
+  "updated": "2026-04-17T13:00:34.241514+07:00",
   "source": "RSS aggregator",
   "retention_days": 7,
-  "count": 727,
+  "count": 885,
   "items": [
+    {
+      "id": "3236b38b16f3",
+      "title": "Menpora: Deregulasi 191 Permenpora hasilkan empat peraturan",
+      "url": "https://www.antaranews.com/berita/5530524/menpora-deregulasi-191-permenporahasilkan-empat-peraturan",
+      "source": "antaranews.com",
+      "summary": "Menteri Pemuda dan Olahraga (Menpora)&nbsp;Erick Thohir&nbsp;menyebut deregulasi terhadap 191 Peraturan Menteri Pemuda ...",
+      "topics": [
+        "politik",
+        "olahraga"
+      ],
+      "published": "2026-04-17T12:58:21+07:00"
+    },
+    {
+      "id": "ca941c2f259e",
+      "title": "Polda Kaltim Siap Kawal Demo Besar 21 April",
+      "url": "https://www.cnnindonesia.com/nasional/20260417111710-12-1349058/polda-kaltim-siap-kawal-demo-besar-21-april",
+      "source": "cnnindonesia.com",
+      "summary": "Aliansi mahasiswa dan masyarakat Kaltim akan menggelar aksi pada 21 April, menuntut pemberantasan KKN dan evaluasi kebijakan anggaran Pemprov.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:57:24+07:00"
+    },
+    {
+      "id": "3ba3793ac9c6",
+      "title": "Surat Terbuka untuk Presiden tentang kasus penyiraman air keras",
+      "url": "https://www.antaranews.com/foto/5530523/surat-terbuka-untuk-presiden-tentang-kasus-penyiraman-air-keras",
+      "source": "antaranews.com",
+      "summary": "Sejumlah pimpinan organisasi masyarakat sipil yang tergabung dalam Koalisi Solidaritas untuk Andrie Yunus membentangkan ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:57:11+07:00"
+    },
+    {
+      "id": "8a3882c8aadc",
+      "title": "Kemenpar diversifikasi pangsa pasar wisman ke Asia dan Oseania",
+      "url": "https://www.antaranews.com/berita/5530521/kemenpar-diversifikasi-pangsa-pasar-wisman-ke-asia-dan-oseania",
+      "source": "antaranews.com",
+      "summary": "Kementerian Pariwisata (Kemenpar) melakukan diversifikasi pangsa pasar wisatawan mancanegara (wisman) dengan fokus ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-04-17T12:56:29+07:00"
+    },
+    {
+      "id": "b63b6deaac39",
+      "title": "Andrie Yunus Tulis Surat untuk Prabowo",
+      "url": "https://nasional.tempo.co/read/2098772/andrie-yunus-tulis-surat-untuk-prabowo",
+      "source": "tempo.co/nasional",
+      "summary": "Dalam surat itu, Andrie Yunus mempertanyakan komitmen pemerintah dalam menuntaskan kasus penyiraman air keras terhadap dirinya.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:54:59+07:00"
+    },
+    {
+      "id": "26dfa90845ee",
+      "title": "Kelompok Sipil Gugat Keikutsertaan Presiden di BoP",
+      "url": "https://nasional.tempo.co/read/2098771/kelompok-sipil-gugat-keikutsertaan-presiden-di-bop",
+      "source": "tempo.co/nasional",
+      "summary": "Keikutsertaan Indonesia di BoP atau Dewan Perdamaian Dunia berdampak pada politik luar negeri, pertahanan, dan geopolitik.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:52:33+07:00"
+    },
+    {
+      "id": "415275d8e88b",
+      "title": "Survei BI indikasikan kinerja dunia usaha terjaga pada triwulan I 2026",
+      "url": "https://www.antaranews.com/berita/5530519/survei-bi-indikasikan-kinerja-dunia-usaha-terjaga-pada-triwulan-i-2026",
+      "source": "antaranews.com",
+      "summary": "Bank Indonesia (BI) melalui hasil Survei Kegiatan Dunia Usaha (SKDU) mencatat kinerja kegiatan dunia usaha ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:51:52+07:00"
+    },
+    {
+      "id": "515d8d79735a",
+      "title": "1,15 juta orang sudah jalani cek kesehatan gratis di Jakarta",
+      "url": "https://www.antaranews.com/berita/5530516/115-juta-orang-sudah-jalani-cek-kesehatan-gratis-di-jakarta",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Provinsi (Pemprov) DKI Jakarta mencatat sebanyak 1.155.647 orang sudah menjalani program cek kesehatan ...",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-04-17T12:51:20+07:00"
+    },
+    {
+      "id": "0417647ca8f0",
+      "title": "Pemohon Mendadak Cabut Gugatan UU APBN 2026 soal MBG di MK",
+      "url": "https://www.tribunnews.com/nasional/7817943/pemohon-mendadak-cabut-gugatan-uu-apbn-2026-soal-mbg-di-mk",
+      "source": "tribunnews.com",
+      "summary": "Sidang perdana dipimpin Wakil Ketua MK Saldi bersama Hakim Konstitusi Adies Kadir dan Liliek Prisbawono Adi.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-04-17T12:50:18+07:00"
+    },
+    {
+      "id": "16ef86319cd6",
+      "title": "Harga Emas Antam Hari Ini, Jumat 17 April 2026: Merosot Rp20.000, Jadi Rp2.868.000 per Gram",
+      "url": "https://www.tribunnews.com/bisnis/7817942/harga-emas-antam-hari-ini-jumat-17-april-2026-merosot-rp20000-jadi-rp2868000-per-gram",
+      "source": "tribunnews.com",
+      "summary": "Harga emas hari ini, Jumat (17/4/2026), merosot di level Rp 2.868.000, simak rincian harga emas terbarunya.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-04-17T12:49:19+07:00"
+    },
+    {
+      "id": "fe0c71d4b483",
+      "title": "2 Balita Meninggal karena Campak di Cirebon, Baru Dirawat di Rumah Sakit 1 Hari",
+      "url": "https://www.tribunnews.com/regional/7817941/2-balita-meninggal-karena-campak-di-cirebon-baru-dirawat-di-rumah-sakit-1-hari",
+      "source": "tribunnews.com",
+      "summary": "Dua balita di Cirebon meninggal akibat campak. Kasus ini jadi peringatan serius pentingnya imunisasi dan kewaspadaan gejala awal.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:46:54+07:00"
+    },
+    {
+      "id": "40b9fdf66f20",
+      "title": "Trump Minta Bank AS Kumpulkan Data Nasabah",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417123518-92-1349099/trump-minta-bank-as-kumpulkan-data-nasabah",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Kebijakan tersebut tengah diproses dalam bentuk executive order (EO) yang sudah dibahas beberapa bulan terakhir dan kini semakin mendekati implementasi.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:46:29+07:00"
+    },
+    {
+      "id": "e0ad9e748cf4",
+      "title": "6 Kode Redeem ML Terbaru 17 April 2026, Buruan Klaim Tambahan Reward untuk Push Rank",
+      "url": "https://www.tribunnews.com/techno/7817940/6-kode-redeem-ml-terbaru-17-april-2026-buruan-klaim-tambahan-reward-untuk-push-rank",
+      "source": "tribunnews.com",
+      "summary": "Deretan kode redeem MLBB terbaru 17 April 2026 yang dapat diklaim tambahan reward untuk melakukan push rank menuju kasta tertinggi.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:45:53+07:00"
+    },
+    {
+      "id": "94c18c0a25e7",
+      "title": "Paus Leo Sebut Pemimpin Dunia Bertindak bak Tiran, Respons Pernyataan Kontroversial Trump",
+      "url": "https://www.tribunnews.com/internasional/7817939/paus-leo-sebut-pemimpin-dunia-bertindak-bak-tiran-respons-pernyataan-kontroversial-trump",
+      "source": "tribunnews.com",
+      "summary": "Paus Leo kecam pemimpin dunia bak “tiran” dan sindir perang, respons pernyataan Trump di tengah konflik global.",
+      "topics": [
+        "internasional"
+      ],
+      "published": "2026-04-17T12:44:50+07:00"
+    },
+    {
+      "id": "592f89932b71",
+      "title": "Libur panjang pengaruhi penerimaan pajak Jakarta pada Maret 2026",
+      "url": "https://www.antaranews.com/berita/5530513/libur-panjang-pengaruhi-penerimaan-pajak-jakarta-pada-maret-2026",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Provinsi (Pemprov) DKI Jakarta mencatat berkurangnya jumlah hari kerja pada Maret 2026 mempengaruhi ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:44:15+07:00"
+    },
+    {
+      "id": "fe2dc1b60871",
+      "title": "Sebut Seruan 'Jatuhkan Prabowo' Saiful Mujani sebagai Makar, Ulta Levenia: Genealoginya Niat Jahat",
+      "url": "https://www.tribunnews.com/nasional/7817938/sebut-seruan-jatuhkan-prabowo-saiful-mujani-sebagai-makar-ulta-levenia-genealoginya-niat-jahat",
+      "source": "tribunnews.com",
+      "summary": "Tenaga Ahli Utama di Kantor Staf Presiden (KSP)  Ulta Levenia menjelaskan letak makar dari seruan 'Jatuhkan Prabowo' oleh Saiful Mujani.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:43:20+07:00"
+    },
+    {
+      "id": "f97c40035c62",
+      "title": "Messi Digugat Rp120 Miliar, Absen di Laga Ekshibisi Timnas Argentina Picu Kerugian Jutaan Dolar",
+      "url": "https://www.tribunnews.com/superskor/7817937/messi-digugat-rp120-miliar-absen-di-laga-ekshibisi-timnas-argentina-picu-kerugian-jutaan-dolar",
+      "source": "tribunnews.com",
+      "summary": "Lionel Messi digugat promotor AS karena absen di laga uji coba Argentina. VID Music Group klaim rugi jutaan dolar akibat pelanggaran kontrak.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:40:12+07:00"
+    },
+    {
+      "id": "2ae625a95938",
+      "title": "FOTO: Perang Jakarta Melawan Serbuan Sapu-Sapu",
+      "url": "https://www.cnnindonesia.com/nasional/20260417115409-22-1349073/foto-perang-jakarta-melawan-serbuan-sapu-sapu",
+      "source": "cnnindonesia.com",
+      "summary": "Pemprov DKI menggelar pembersihan kali serentak, Jumat (17/4), dengan target utama membasmi ikan sapu-sapu yang sudah menguasai sungai-sungai di ibu kota.",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T12:40:07+07:00"
+    },
+    {
+      "id": "211eb280af71",
+      "title": "Pramono berencana bentuk PJLP khusus tangani ikan sapu-sapu",
+      "url": "https://www.antaranews.com/berita/5530511/pramono-berencana-bentuk-pjlp-khusus-tangani-ikan-sapu-sapu",
+      "source": "antaranews.com",
+      "summary": "Gubernur DKI Jakarta Pramono Anung Wibowo berencana membentuk petugas Penyedia Jasa Lainnya Perorangan (PJLP) khusus ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:37:51+07:00"
+    },
+    {
+      "id": "e47136e994d2",
+      "title": "Isi Surat Koalisi Solidaritas Andrie Yunus untuk Prabowo",
+      "url": "https://nasional.tempo.co/read/2098768/isi-surat-koalisi-solidaritas-andrie-yunus-untuk-prabowo",
+      "source": "tempo.co/nasional",
+      "summary": "Ada enam surat yang disampaikan koalisi solidaritas Andrie Yunus untuk Prabowo.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:36:00+07:00"
+    },
+    {
+      "id": "1e0f9f410c37",
+      "title": "Industri cat komitmen hasilkan produk bebas timbal",
+      "url": "https://www.antaranews.com/berita/5530507/industri-cat-komitmen-hasilkan-produk-bebas-timbal",
+      "source": "antaranews.com",
+      "summary": "Kalangan industri cat dalam negeri menyatakan komitmen untuk menghasilkan produk yang bebas timbal sebagai upaya ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:35:09+07:00"
+    },
+    {
+      "id": "e4fc869d3d6f",
+      "title": "Mewaspadai kebocoran fiskal lintas negara di tengah tekanan global",
+      "url": "https://www.antaranews.com/berita/5530504/mewaspadai-kebocoran-fiskal-lintas-negara-di-tengah-tekanan-global",
+      "source": "antaranews.com",
+      "summary": "Tekanan ekonomi global yang semakin kompleks, mulai dari perlambatan ekonomi dunia, fragmentasi geopolitik, hingga ...",
+      "topics": [
+        "ekonomi",
+        "politik",
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T12:33:55+07:00"
+    },
+    {
+      "id": "276d4d140e99",
+      "title": "Eks Suami Clara Shinta Lapor, Komnas PA Akan Bawa Psikolog Pastikan Kondisi Anak sang Selebgram",
+      "url": "https://www.tribunnews.com/seleb/7817936/eks-suami-clara-shinta-lapor-komnas-pa-akan-bawa-psikolog-pastikan-kondisi-anak-sang-selebgram",
+      "source": "tribunnews.com",
+      "summary": "Komnas PA) berencana mendatangi anak Clara Shinta Rencana ini buntut dari laporan eks suami Clara Shinta.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:33:10+07:00"
+    },
+    {
+      "id": "18cbe6fb731f",
+      "title": "322 Sekolah Terdampak Bencana di Sumbar Sudah Diperbaiki, 26 Ruang Kelas Darurat Dibangun",
+      "url": "https://www.tribunnews.com/nasional/7817935/322-sekolah-terdampak-bencana-di-sumbar-sudah-diperbaiki-26-ruang-kelas-darurat-dibangun",
+      "source": "tribunnews.com",
+      "summary": "Menteri Abdul Muti, mengatakan 322 sekolah di Sumatera Barat yang terdampak banjir bandang dan longsor telah diperbaiki.",
+      "topics": [
+        "politik",
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-04-17T12:31:49+07:00"
+    },
+    {
+      "id": "d223e300fe64",
+      "title": "Pendapatan Jakarta capai Rp8,74 triliun pada triwulan I-2026",
+      "url": "https://www.antaranews.com/berita/5530500/pendapatan-jakarta-capai-rp874-triliun-pada-triwulan-i-2026",
+      "source": "antaranews.com",
+      "summary": "Badan Pendapatan Daerah (Bapenda) DKI Jakarta mencatat realisasi pendapatan asli daerah (PAD) Jakarta mencapai Rp8,74 ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:29:09+07:00"
+    },
+    {
+      "id": "eef745d36a33",
+      "title": "BPJPH: Sertifikat halal penting bagi daya saing industri tekstil",
+      "url": "https://www.antaranews.com/berita/5530496/bpjph-sertifikat-halal-penting-bagi-daya-saing-industri-tekstil",
+      "source": "antaranews.com",
+      "summary": "Badan Penyelenggara Jaminan Produk Halal (BPJPH) menegaskan bahwa sertifikat halal menjadi kunci penting dalam ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:29:01+07:00"
+    },
+    {
+      "id": "577132051977",
+      "title": "Pelatihan KSB PDIP, Megawati Intruksikan Disiplin untuk Teguhkan Jalan Ideologi",
+      "url": "https://nasional.tempo.co/read/2098764/pelatihan-ksb-pdip-megawati-intruksikan-disiplin-untuk-teguhkan-jalan-ideologi",
+      "source": "tempo.co/nasional",
+      "summary": "Momentum ini dimanfaatkan Megawati untuk memacu semangat kader di tengah berbagai tantangan yang tidak mudah, serta bagaimana partai selalu hadir sebagai sokoguru negara dan seluruh kader turun ke bawah.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:26:09+07:00"
+    },
+    {
+      "id": "56c459af3887",
+      "title": "Pemkot Jaktim siapkan sidak cegah peredaran ikan sapu-sapu",
+      "url": "https://www.antaranews.com/berita/5530492/pemkot-jaktim-siapkan-sidak-cegah-peredaran-ikan-sapu-sapu",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Kota (Pemkot) Jakarta Timur (Jaktim) menyiapkan inspeksi mendadak (sidak) di sejumlah titik rawan untuk ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:24:37+07:00"
+    },
+    {
+      "id": "87c21c9fc93d",
+      "title": "Keluarga JK Respons Isu Ormas Bakal Geruduk Kantor PSI Sulsel",
+      "url": "https://www.cnnindonesia.com/nasional/20260417121214-20-1349091/keluarga-jk-respons-isu-ormas-bakal-geruduk-kantor-psi-sulsel",
+      "source": "cnnindonesia.com",
+      "summary": "Keluarga JK mengimbau warga dan ormas membatalkan rencana unjuk rasa di Kantor PSI Sulsel. JK minta warga tetap jaga kerukunan dan tidak terprovokasi.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:24:09+07:00"
+    },
+    {
+      "id": "cc2c6414e03d",
+      "title": "Polri sebut Azizah Salsha dan Resbob-Bigmo sepakat berdamai",
+      "url": "https://www.antaranews.com/berita/5530491/polri-sebut-azizah-salsha-dan-resbob-bigmo-sepakat-berdamai",
+      "source": "antaranews.com",
+      "summary": "Direktorat Tindak Pidana Siber Bareskrim Polri menyatakan&nbsp;bahwa Nurul Azizah Rosiade atau Azizah Salsha, putri ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:23:09+07:00"
+    },
+    {
+      "id": "5b9157e501d9",
+      "title": "Evakuasi Tahap Ketiga, 45 WNI dari Iran Dipulangkan",
+      "url": "https://nasional.tempo.co/read/2098761/evakuasi-tahap-ketiga-45-wni-dari-iran-dipulangkan",
+      "source": "tempo.co/nasional",
+      "summary": "Pada tahap ketiga ini, para WNI diberangkatkan dari Teheran pada Ahad, 12 April 2026, melalui jalir darat Azerbaijan.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:22:00+07:00"
+    },
+    {
+      "id": "afecdcafc586",
+      "title": "Adu Argumen Ara-Hercules soal Lahan Sengketa Tanah Abang Buat Rusun",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417115337-92-1349072/adu-argumen-ara-hercules-soal-lahan-sengketa-tanah-abang-buat-rusun",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Maruarar Sirait menegaskan lahan di kawasan Tanah Abang, Jakarta Pusat, merupakan aset negara di bawah PT KAI meski sempat diklaim pihak lain.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:21:06+07:00"
+    },
+    {
+      "id": "fffdccef974b",
+      "title": "Hegseth Peringatkan Blokade Iran Berlanjut Selama Diperlukan, AS Siaga Bom Fasilitas Energi!",
+      "url": "https://www.tribunnews.com/internasional/7817934/hegseth-peringatkan-blokade-iran-berlanjut-selama-diperlukan-as-siaga-bom-fasilitas-energi",
+      "source": "tribunnews.com",
+      "summary": "Hegseth tegaskan blokade Iran berlanjut! AS siap bom infrastruktur energi jika diplomasi gagal. Simak gertakan keras Pentagon di sini.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:19:33+07:00"
+    },
+    {
+      "id": "7b66641177d6",
+      "title": "\"Top Gun 3\" sedang digarap, akan dibintangi oleh Tom Cruise",
+      "url": "https://www.antaranews.com/berita/5530488/top-gun-3-sedang-digarap-akan-dibintangi-oleh-tom-cruise",
+      "source": "antaranews.com",
+      "summary": "Film &quot;Top Gun 3&quot; sedang digarap dan&nbsp;aktor Tom Cruise&nbsp;kembali didapuk&nbsp;untuk membintangi film ...",
+      "topics": [
+        "hiburan"
+      ],
+      "published": "2026-04-17T12:18:04+07:00"
+    },
+    {
+      "id": "1050d6ea8652",
+      "title": "Utusan Iran: Pembicaraan AS mendatang hanya akan diadakan di Pakistan",
+      "url": "https://www.antaranews.com/berita/5530487/utusan-iran-pembicaraan-as-mendatang-hanya-akan-diadakan-di-pakistan",
+      "source": "antaranews.com",
+      "summary": "Duta Besar Iran untuk Pakistan Reza Amiri Moghadam, Kamis (16/4), mengatakan putaran kedua pembicaraan dengan AS hanya ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:16:22+07:00"
+    },
+    {
+      "id": "20e67bb85317",
+      "title": "Andrie Yunus Surati Presiden Prabowo Minta Kasus Air Keras Tak Ditangani Peradilan Militer",
+      "url": "https://www.tribunnews.com/nasional/7817933/andrie-yunus-surati-presiden-prabowo-minta-kasus-air-keras-tak-ditangani-peradilan-militer",
+      "source": "tribunnews.com",
+      "summary": "Surat dari Aktivis Andrie Yunus kepada Presiden Prabowo Subianto, minta kasusnya tidak disidangkan di Pengadilan Militer.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:15:20+07:00"
+    },
+    {
+      "id": "201197231bef",
+      "title": "Kebakaran di Jakbar, polisi sebut ada sepeda listrik sedang diisi daya",
+      "url": "https://www.antaranews.com/berita/5530483/kebakaran-di-jakbar-polisi-sebut-ada-sepeda-listrik-sedang-diisi-daya",
+      "source": "antaranews.com",
+      "summary": "Kepolisian mengungkapkan berdasarkan keterangan petugas pemadam, terdapat sepeda listrik yang tengah diisi daya di ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:14:16+07:00"
+    },
+    {
+      "id": "e9600c3d9aa7",
+      "title": "Aksi Pasukan Oranye Berburu Sapu-sapu di Jakarta",
+      "url": "https://www.cnnindonesia.com/nasional/20260417113637-24-1349065/aksi-pasukan-oranye-berburu-sapu-sapu-di-jakarta",
+      "source": "cnnindonesia.com",
+      "summary": "Pasukan Oranye dikerahkan memburu ribuan ikan sapu-sapu yang keberadaanya semakin mendominasi di sungai-sungai di Jakarta.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T12:05:13+07:00"
+    },
+    {
+      "id": "90acf2efce0b",
+      "title": "Pengamat duga faktor mekanis jadi penyebab kecelakaan heli di Sekadau",
+      "url": "https://www.antaranews.com/berita/5530479/pengamat-duga-faktor-mekanis-jadi-penyebab-kecelakaan-heli-di-sekadau",
+      "source": "antaranews.com",
+      "summary": "Pengamat transportasi udara Kalimantan Barat, Syarif Usmulyani Alqadrie Ah,Pnb, S.E, SSiT, mengatakan faktor mekanis ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:04:00+07:00"
+    },
+    {
+      "id": "1b174a965b4c",
+      "title": "KPKP Jaksel petakan saluran Phb berpotensi dihuni ikan sapu-sapu",
+      "url": "https://www.antaranews.com/berita/5530475/kpkp-jaksel-petakan-saluran-phb-berpotensi-dihuni-ikan-sapu-sapu",
+      "source": "antaranews.com",
+      "summary": "Suku Dinas Ketahanan Pangan, Kelautan, dan Pertanian Jakarta Selatan (Sudin KPKP Jaksel) memetakan saluran penghubung ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:03:29+07:00"
+    },
+    {
+      "id": "4bd9e009eb23",
+      "title": "Koalisi Sipil Serahkan Surat Andrie Yunus untuk Prabowo",
+      "url": "https://nasional.tempo.co/read/2098760/koalisi-sipil-serahkan-surat-andrie-yunus-untuk-prabowo",
+      "source": "tempo.co/nasional",
+      "summary": "Sekitar 15 orang perwakilan koalisi menyambangi Istana untuk mengantarkan surat Andrie Yunus kepada Presiden Prabowo.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-04-17T12:02:00+07:00"
+    },
+    {
+      "id": "fb6289a7c1ea",
+      "title": "Undana jadi wakil tunggal RI Ikuti diklat panas bumi di Selandia Baru",
+      "url": "https://www.antaranews.com/berita/5530473/undana-jadi-wakil-tunggal-ri-ikuti-diklat-panas-bumi-di-selandia-baru",
+      "source": "antaranews.com",
+      "summary": "Universitas Nusa Cendana (Undana) Kupang, NTT menjadi satu-satunya perguruan tinggi di Indonesia yang mengirimkan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T12:00:58+07:00"
+    },
+    {
+      "id": "813076b6f119",
+      "title": "Bank Mandiri Kunjungi PLTGU Muara Tawar, Dukung Transisi Energi",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417112941-625-1349060/bank-mandiri-kunjungi-pltgu-muara-tawar-dukung-transisi-energi",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Tak hanya dari sisi pembiayaan, Bank Mandiri juga mendukung transisi energi melalui partisipasi dalam ekosistem karbon yang sedang berkembang di Indonesia",
+      "topics": [
+        "hiburan"
+      ],
+      "published": "2026-04-17T11:58:58+07:00"
+    },
+    {
+      "id": "6d2da4cfbdc5",
+      "title": "Detik-Detik Bocah 12 Tahun Ditemukan Tewas di Kebun Karet OKI, Ada Luka di Sekujur Tubuh",
+      "url": "https://www.tribunnews.com/regional/7817932/detik-detik-bocah-12-tahun-ditemukan-tewas-di-kebun-karet-oki-ada-luka-di-sekujur-tubuh",
+      "source": "tribunnews.com",
+      "summary": "Bocah 12 tahun ditemukan tewas di kebun karet OKI. Korban MSA ditemukan tengkurap dengan luka, polisi masih selidiki penyebabnya.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T11:58:03+07:00"
+    },
+    {
+      "id": "5dfbf31b105b",
+      "title": "Anggota DPR Minta Pelaksanaan KUHAP Diawasi Ketat Agar Aparat Tak Sewenang-wenang",
+      "url": "https://www.tribunnews.com/nasional/7817931/anggota-dpr-minta-pelaksanaan-kuhap-diawasi-ketat-agar-aparat-tak-sewenang-wenang",
+      "source": "tribunnews.com",
+      "summary": "Anggota Komisi III DPR RI I Wayan Sudirta mendorong evaluasi menyeluruh terhadap implementasi KUHAP yang baru.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T11:54:28+07:00"
+    },
+    {
+      "id": "b673a2e3226b",
+      "title": "KontraS Datangi Istana Minta TGPF dan Peradilan Umum untuk Andrie Yunus",
+      "url": "https://www.cnnindonesia.com/nasional/20260417113746-20-1349069/kontras-datangi-istana-minta-tgpf-peradilan-umum-untuk-andrie-yunus",
+      "source": "cnnindonesia.com",
+      "summary": "Perwakilan masyarakat sipil, dipimpin KontraS, mendesak pembentukan TGPF dan pengadilan umum untuk kasus penyiraman air keras Andrie Yunus.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:51:09+07:00"
+    },
+    {
+      "id": "5df04ba7e921",
+      "title": "Kementerian Haji dan Umrah lepas PPIH 2026 ke tanah suci",
+      "url": "https://www.antaranews.com/foto/5530472/kementerian-haji-dan-umrah-lepas-ppih-2026-ke-tanah-suci",
+      "source": "antaranews.com",
+      "summary": "Sejumlah petugas haji mengikuti apel pelepasan Petugas Penyelenggara Ibadah Haji (PPIH) 2026 di Asrama Haji Pondok ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-04-17T11:50:20+07:00"
+    },
+    {
+      "id": "c722e7ea4c9a",
+      "title": "Kejati tetapkan Kepala Dinas ESDM Jatim tersangka kasus pungli",
+      "url": "https://www.antaranews.com/berita/5530468/kejati-tetapkan-kepala-dinas-esdm-jatim-tersangka-kasus-pungli",
+      "source": "antaranews.com",
+      "summary": "Kejaksaan Tinggi Jawa Timur menetapkan Kepala Dinas Energi dan Sumber Daya Mineral (ESDM) ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T11:49:53+07:00"
+    },
+    {
+      "id": "0a7725591678",
+      "title": "Prabowo Bentuk Satgas Percepatan Pertumbuhan Ekonomi, Ketua Airlangga",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417105344-532-1349048/prabowo-bentuk-satgas-percepatan-pertumbuhan-ekonomi-ketua-airlangga",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Satgas dipimpin Menteri Koordinator Bidang Perekonomian Airlangga Hartarto sebagai Ketua I dan Menteri Sekretaris Negara Prasetyo Hadi sebagai Ketua II.",
+      "topics": [
+        "ekonomi",
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:48:28+07:00"
+    },
+    {
+      "id": "d8cae27419ef",
+      "title": "Kajian KPK: Dominasi BGN dalam Program MBG Pinggirkan Pemda dan Lemahkan Checks and Balances",
+      "url": "https://www.tribunnews.com/nasional/7817930/kajian-kpk-dominasi-bgn-dalam-program-mbg-pinggirkan-pemda-dan-lemahkan-checks-and-balances",
+      "source": "tribunnews.com",
+      "summary": "Pendekatan sentralistik ini dinilai meminggirkan peran strategis pemerintah daerah dan melumpuhkan mekanisme saling uji (checks and balances)",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:46:37+07:00"
+    },
+    {
+      "id": "7e61348ddc10",
+      "title": "Bertemu Dubes Saudi, MUI tegaskan Indonesia menentang penjajahan",
+      "url": "https://www.antaranews.com/berita/5530467/bertemu-dubes-saudi-mui-tegaskan-indonesia-menentang-penjajahan",
+      "source": "antaranews.com",
+      "summary": "Ketua Umum Majelis Ulama Indonesia (MUI) Anwar Iskandar menegaskan Indonesia tidak membenarkan penjajahan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T11:45:13+07:00"
+    },
+    {
+      "id": "1e9878eefb95",
+      "title": "Menkum serahkan proses hukum kasus korupsi Ketua Ombudsman ke aparat",
+      "url": "https://www.antaranews.com/berita/5530464/menkum-serahkan-proses-hukum-kasus-korupsi-ketua-ombudsman-ke-aparat",
+      "source": "antaranews.com",
+      "summary": "Menteri Hukum Supratman Andi Agtas menyerahkan proses hukum terkait Ketua Ombudsman RI Hery Susanto, yang telah ...",
+      "topics": [
+        "politik",
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-04-17T11:45:08+07:00"
+    },
+    {
+      "id": "9b31b96a9420",
+      "title": "Eropa sambut baik gencatan senjata 10 hari antara Israel dan Lebanon",
+      "url": "https://www.antaranews.com/berita/5530460/eropa-sambut-baik-gencatan-senjata-10-hari-antara-israel-dan-lebanon",
+      "source": "antaranews.com",
+      "summary": "Para pemimpin Eropa pada Kamis menyambut pengumuman gencatan senjata 10 hari antara Lebanon dan Israel, serta ...",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T11:43:29+07:00"
+    },
+    {
+      "id": "e355de4cfb0a",
+      "title": "Andrie Yunus bersurat ke Prabowo minta peradilan umum dan bentuk TGPF",
+      "url": "https://www.antaranews.com/berita/5530457/andrie-yunus-bersurat-ke-prabowo-minta-peradilan-umum-dan-bentuk-tgpf",
+      "source": "antaranews.com",
+      "summary": "Wakil Koordinator KontraS Andrie Yunus Andrie Yunus menyurati Presiden RI Prabowo Subianto untuk meminta penyelesaian ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:42:49+07:00"
+    },
+    {
+      "id": "179daf483742",
+      "title": "Prakiraan Cuaca Papua Barat Sabtu 18 April 2026, BMKG: Manokwari Selatan Hujan di Siang Hari",
+      "url": "https://www.tribunnews.com/regional/7817929/prakiraan-cuaca-papua-barat-sabtu-18-april-2026-bmkg-manokwari-selatan-hujan-di-siang-hari",
+      "source": "tribunnews.com",
+      "summary": "Prakiraan Cuaca Papua Barat Sabtu 18 April 2026 berpotensi mengalami cuaca berawan hingga hujan ringan, terutama pada siang hingga malam hari.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T11:42:43+07:00"
+    },
+    {
+      "id": "034af3bf3d6b",
+      "title": "4 Hal soal Helikopter Jatuh di Sekadau Kalbar, Seluruh Korban Meninggal hingga Kronologi Kecelakaan",
+      "url": "https://www.tribunnews.com/regional/7817928/4-hal-soal-helikopter-jatuh-di-sekadau-kalbar-seluruh-korban-meninggal-hingga-kronologi-kecelakaan",
+      "source": "tribunnews.com",
+      "summary": "Seluruh korban jatuhnya Helikopter PK-CFX di wilayah Kabupaten Sekadau, Kalimantan Barat, pada Kamis (17/4/2026), meninggal dunia.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T11:41:06+07:00"
+    },
+    {
+      "id": "5635eebe5995",
+      "title": "Ikan sapu-sapu yang ditangkap segera dikubur karena tak layak konsumsi",
+      "url": "https://www.antaranews.com/berita/5530456/ikan-sapu-sapu-yang-ditangkap-segera-dikubur-karena-tak-layak-konsumsi",
+      "source": "antaranews.com",
+      "summary": "Gubernur DKI Jakarta Pramono Anung Wibowo menegaskan ikan sapu-sapu yang telah ditangkap dari seluruh sungai di ibu ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:40:24+07:00"
+    },
+    {
+      "id": "d771cd0a7385",
+      "title": "Leapmotor D19 diluncurkan dengan baterai EREV berkapasitas terbesar",
+      "url": "https://otomotif.antaranews.com/berita/5530452/leapmotor-d19-diluncurkan-dengan-baterai-erev-berkapasitas-terbesar",
+      "source": "antaranews.com",
+      "summary": "SUV&nbsp;berukuran penuh Leapmotor D19 diluncurkan di China dengan baterai EREV&nbsp;berkapasitas 80,3 kWh, yang ...",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T11:37:33+07:00"
+    },
+    {
+      "id": "1109591e7d01",
+      "title": "Deplu AS: Gencatan senjata Lebanon-Israel dapat diperpanjang",
+      "url": "https://www.antaranews.com/berita/5530449/deplu-as-gencatan-senjata-lebanon-israel-dapat-diperpanjang",
+      "source": "antaranews.com",
+      "summary": "Departemen Luar Negeri AS menyatakan bahwa gencatan senjata antara Israel dan Lebanon dapat diperpanjang atas ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T11:36:37+07:00"
+    },
+    {
+      "id": "54e6feb6e423",
+      "title": "Delapan penumpang heli jatuh di Kalbar dievakuasi kondisi meninggal",
+      "url": "https://www.antaranews.com/berita/5530445/delapan-penumpang-heli-jatuh-di-kalbar-dievakuasi-kondisi-meninggal",
+      "source": "antaranews.com",
+      "summary": "Basarnas menyatakan delapan penumpang termasuk pilot helikopter Airbus H130 PK-CFX yang jatuh di wilayah hutan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:35:41+07:00"
+    },
+    {
+      "id": "449278223a45",
+      "title": "Kunci Gitar Mungkin di Depan Buram - Idgitaf: Mungkin di Depan Buram Mungkin di Depan Seram",
+      "url": "https://www.tribunnews.com/musik/7817927/kunci-gitar-mungkin-di-depan-buram-idgitaf-mungkin-di-depan-buram-mungkin-di-depan-seram",
+      "source": "tribunnews.com",
+      "summary": "Kunci gitar lagu Mungkin di Depan Buram - Idgitaf chord dasar mudah dimainkan: mungkin di depan buram mungkin di depan seram tapi tak bisa kubaca.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:35:17+07:00"
+    },
+    {
+      "id": "0e43821d8781",
+      "title": "60 Soal PAS PJOK Kelas 3 Semester 2 Kurikulum Merdeka Lengkap dengan Kunci Jawaban ASAT, PAT",
+      "url": "https://www.tribunnews.com/pendidikan/7817926/60-soal-pas-pjok-kelas-3-semester-2-kurikulum-merdeka-lengkap-dengan-kunci-jawaban-asat-pat",
+      "source": "tribunnews.com",
+      "summary": "Artikel Soal PAS PJOK Kelas 3 Semester 2 Kurikulum Merdeka disusun sebagai bahan latihan yang dapat dimanfaatkan oleh siswa, guru, maupun orang tua.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:33:37+07:00"
+    },
+    {
+      "id": "53c360a4d107",
+      "title": "Kekerasan Seksual di IPB Diduga Melibatkan 16 Mahasiswa",
+      "url": "https://nasional.tempo.co/read/2098756/kekerasan-seksual-di-ipb-diduga-melibatkan-16-mahasiswa",
+      "source": "tempo.co/nasional",
+      "summary": "Dugaan kekerasan seksual ini menjadi sorotan publik setelah tangkapan layar percakapan para pelaku beredar luas di media sosial.",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-04-17T11:32:00+07:00"
+    },
+    {
+      "id": "d535c4a7c5bc",
+      "title": "Harganya hanya Rp1.500 per Kilo, Wali Kota Jakpus Ingatkan Bahaya Ikan Sapu-Sapu untuk Siomay",
+      "url": "https://www.tribunnews.com/metropolitan/7817925/harganya-hanya-rp1500-per-kilo-wali-kota-jakpus-ingatkan-bahaya-ikan-sapu-sapu-untuk-siomay",
+      "source": "tribunnews.com",
+      "summary": "Wali Kota Jakarta Pusat, Arifin beri peringatan keras ke warga mengenai bahaya ikan sapu-sapu sebagai bahan olahan makanan seperti siomay.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:31:25+07:00"
+    },
+    {
+      "id": "bff8d9f4b68f",
+      "title": "13 Kali Donald Trump Isyaratkan Perang Iran Segera Berakhir",
+      "url": "https://www.tribunnews.com/internasional/7817924/13-kali-donald-trump-isyaratkan-perang-iran-segera-berakhir",
+      "source": "tribunnews.com",
+      "summary": "Donald Trump berulang kali menyatakan perang Iran akan segera berakhir sejak awal konflik pada Februari 2026.",
+      "topics": [
+        "internasional"
+      ],
+      "published": "2026-04-17T11:31:03+07:00"
+    },
+    {
+      "id": "258bb3d39dbe",
+      "title": "Jamin keamanan pangan, KPKP Jaksel telusuri olahan ikan sapu-sapu",
+      "url": "https://www.antaranews.com/berita/5530441/jamin-keamanan-pangan-kpkp-jaksel-telusuri-olahan-ikan-sapu-sapu",
+      "source": "antaranews.com",
+      "summary": "Suku Dinas Ketahanan Pangan, Kelautan, dan Pertanian (Sudin KPKP) Jakarta Selatan (Jaksel) menelusuri olahan ikan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T11:27:07+07:00"
+    },
+    {
+      "id": "cf87547f0a03",
+      "title": "Wali Kota Samarinda Putus Sewa Mobil Dinas Tiga Tahun Rp7,3 M",
+      "url": "https://www.cnnindonesia.com/nasional/20260417110426-20-1349053/wali-kota-samarinda-putus-sewa-mobil-dinas-tiga-tahun-rp73-m",
+      "source": "cnnindonesia.com",
+      "summary": "Wali Kota Samarinda, Andi Harun, menghentikan kontrak sewa mobil dinas Land Rover setelah audit temukan ketidaksesuaian.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:26:49+07:00"
+    },
+    {
+      "id": "6f1eeeefb6a6",
+      "title": "Kemenhub: Pilot, engineer, 6 penumpang heli jatuh di Sekadau meninggal",
+      "url": "https://www.antaranews.com/berita/5530439/kemenhub-pilot-engineer-6-penumpang-heli-jatuh-di-sekadau-meninggal",
+      "source": "antaranews.com",
+      "summary": "Kementerian Perhubungan menyatakan seorang pilot, engineer&nbsp;dan enam penumpang helikopter Airbus H130 dengan nomor ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:23:30+07:00"
+    },
+    {
+      "id": "dc8b6ca11974",
+      "title": "Kementan dukung investasi susu di Jateng demi swasembada",
+      "url": "https://www.antaranews.com/berita/5530435/kementan-dukung-investasi-susu-di-jateng-demi-swasembada",
+      "source": "antaranews.com",
+      "summary": "Kementerian Pertanian (Kementan) mendukung investasi peternakan sapi perah di Jawa Tengah (Jateng) guna meningkatkan ...",
+      "topics": [
+        "ekonomi",
+        "politik"
+      ],
+      "published": "2026-04-17T11:22:44+07:00"
+    },
+    {
+      "id": "a0d28261366d",
+      "title": "Wamenpar: Insentif fiskal hulu hilir dongkrak keberlanjutan pariwisata",
+      "url": "https://www.antaranews.com/berita/5530432/wamenpar-insentif-fiskal-hulu-hilir-dongkrak-keberlanjutan-pariwisata",
+      "source": "antaranews.com",
+      "summary": "Wakil Menteri Pariwisata (Wamenpar) Ni Luh Puspa menyebutkan insentif fiskal hulu hingga hilir yang disediakan ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-04-17T11:18:44+07:00"
+    },
+    {
+      "id": "81985897ef85",
+      "title": "G20 sepakat bantu negara-negara miskin terdampak perang Iran",
+      "url": "https://www.antaranews.com/berita/5530431/g20-sepakat-bantu-negara-negara-miskin-terdampak-perang-iran",
+      "source": "antaranews.com",
+      "summary": "Para menteri keuangan dari Kelompok 20 (G20) negara ekonomi utama, Kamis (16/4), sepakat tentang perlunya memberikan ...",
+      "topics": [
+        "ekonomi",
+        "politik",
+        "internasional"
+      ],
+      "published": "2026-04-17T11:16:14+07:00"
+    },
+    {
+      "id": "c7b3008d60ff",
+      "title": "Pertamina: Kami Koordinasi dengan Pemerintah soal Harga BBM Nonsubsidi",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416161253-85-1348747/pertamina-kami-koordinasi-dengan-pemerintah-soal-harga-bbm-nonsubsidi",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Pertamina masih terus mengkaji penyesuaian harga BBM nonsubsidi di tengah gejolak minyak dunia. Perseroan juga berkoordinasi dengan pemerintah.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:15:43+07:00"
+    },
+    {
+      "id": "f70be2bd836d",
+      "title": "Mendag Sebut Pasokan Bahan Baku Plastik dari India-AS Sedang Menuju RI",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416200104-92-1348876/mendag-sebut-pasokan-bahan-baku-plastik-dari-india-as-sedang-menuju-ri",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Mendag Budi Santoso menyebut pasokan bahan baku plastik berupa nafta dari sejumlah negara alternatif tengah dalam perjalanan menuju Indonesia.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T11:15:13+07:00"
+    },
+    {
+      "id": "00f0aa7bedd2",
+      "title": "Pendapatan Iran dari 'pengelolaan' Selat Hormuz diperkirakan Rp258 T",
+      "url": "https://www.antaranews.com/berita/5530428/pendapatan-iran-dari-pengelolaan-selat-hormuz-diperkirakan-rp258-t",
+      "source": "antaranews.com",
+      "summary": "Parlemen Iran memperkirakan pendapatan negara dari &quot;pengelolaan&quot; Selat Hormuz mencapai 10 hingga 15 miliar ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:14:08+07:00"
+    },
+    {
+      "id": "55bc713b0a99",
+      "title": "Legislator: Antisipasi lonjakan harga pangan dan dampak kekeringan",
+      "url": "https://www.antaranews.com/berita/5530427/legislator-antisipasi-lonjakan-harga-pangan-dan-dampak-kekeringan",
+      "source": "antaranews.com",
+      "summary": "Anggota Komisi IV DPR RI Eko Wahyudi mengingatkan&nbsp;pemerintah untuk mengantisipasi lonjakan harga pangan dan dampak ...",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-04-17T11:14:06+07:00"
+    },
+    {
+      "id": "deebd36b0086",
+      "title": "Nilai transaksi QRIS Tap pembayaran PKB di Jakarta capai Rp7,4 miliar",
+      "url": "https://www.antaranews.com/berita/5530425/nilai-transaksi-qris-tap-pembayaran-pkb-di-jakarta-capai-rp74-miliar",
+      "source": "antaranews.com",
+      "summary": "Badan Pendapatan Daerah (Bapenda) DKI Jakarta mengungkapkan implementasi inovasi QRIS Tap pada pembayaran pajak ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:13:50+07:00"
+    },
+    {
+      "id": "4c49731255ad",
+      "title": "YLBHI Mendesak KPAI Selidiki Korban Anak di Papua Tengah",
+      "url": "https://nasional.tempo.co/read/2098754/ylbhi-mendesak-kpai-selidiki-korban-anak-di-papua-tengah",
+      "source": "tempo.co/nasional",
+      "summary": "Pengurus YLBHI Emanuel Gobay mengatakan setidaknya ada 8 korban sipil tewas dan seorang anak mengalami luka tembak",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:12:31+07:00"
+    },
+    {
+      "id": "de75e0f4072c",
+      "title": "Jenazah korban helikopter PK-CFX dievakuasi ke Pontianak",
+      "url": "https://www.antaranews.com/berita/5530424/jenazah-korban-helikopter-pk-cfx-dievakuasi-ke-pontianak",
+      "source": "antaranews.com",
+      "summary": "Personel Batalyon Komando 466 Pasukan Gerak Cepat (Yonko 466 Pasgat) bersama Basarnas mengevakuasi jenazah korban ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T11:11:33+07:00"
+    },
+    {
+      "id": "f5c7be4d5683",
+      "title": "Toshiba Memulai Pengiriman Sampel Produk Seri \"SmartMCD™\" Baru yang Mengintegrasikan Mikrokontroler dan Driver Motor",
+      "url": "https://www.antaranews.com/berita/5530421/toshiba-memulai-pengiriman-sampel-produk-seri-smartmcd-baru-yang-mengintegrasikan-mikrokontroler-dan-driver-motor",
+      "source": "antaranews.com",
+      "summary": "- Toshiba Electronic Devices &amp; Storage Corporation (&ldquo;Toshiba&rdquo;) mulai mengirimkan sampel teknik &ldquo; ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:10:45+07:00"
+    },
+    {
+      "id": "99304b959fb2",
+      "title": "Kiat mengurangi gejala infeksi saluran pernapasan",
+      "url": "https://www.antaranews.com/berita/5530420/kiat-mengurangi-gejala-infeksi-saluran-pernapasan",
+      "source": "antaranews.com",
+      "summary": "Ketua Majelis Kehormatan Perhimpunan Dokter Paru Indonesia Prof. Tjandra Yoga Aditama menyampaikan bahwa sebagian ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T11:04:49+07:00"
+    },
+    {
+      "id": "6c323a92fffe",
+      "title": "Bappenas harap hasil pembangunan Kepri dirasakan langsung masyarakat",
+      "url": "https://www.antaranews.com/berita/5530419/bappenas-harap-hasil-pembangunan-kepri-dirasakan-langsung-masyarakat",
+      "source": "antaranews.com",
+      "summary": "Menteri Perencanaan Pembangunan Nasional/Kepala Badan Perencanaan Pembangunan Nasional (PPN/Bappenas) Rachmat Pambudy ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-04-17T11:04:02+07:00"
+    },
+    {
+      "id": "f6122a3d67db",
+      "title": "Seluruh Korban Tewas Helikopter Jatuh Sudah Dievakuasi",
+      "url": "https://www.cnnindonesia.com/nasional/20260417103107-20-1349042/seluruh-korban-tewas-helikopter-jatuh-sudah-dievakuasi",
+      "source": "cnnindonesia.com",
+      "summary": "Tim SAR berhasil evakuasi semua delapan korban helikopter jatuh di Sekadau, Kalbar. Jenazah diterbangkan ke Pontianak untuk penanganan lebih lanjut.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T11:03:28+07:00"
+    },
+    {
+      "id": "46b03b392247",
+      "title": "Polda Metro Jaya selidiki kematian seorang wanita di Tangsel",
+      "url": "https://www.antaranews.com/berita/5530415/polda-metro-jaya-selidiki-kematian-seorang-wanita-di-tangsel",
+      "source": "antaranews.com",
+      "summary": "Polda Metro Jaya masih menyelidiki kematian seorang wanita berinisial I (49) yang terjadi di kawasan Perumahan Pondok ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T10:59:58+07:00"
+    },
+    {
+      "id": "ba336427bcf1",
+      "title": "Lalu Hadrian komitmen kawal pendidikan usai terima KWP Award 2026",
+      "url": "https://www.antaranews.com/berita/5530412/lalu-hadrian-komitmen-kawal-pendidikan-usai-terima-kwp-award-2026",
+      "source": "antaranews.com",
+      "summary": "Wakil Ketua Komisi X DPR RI Lalu Hadrian Irfani berkomitmen untuk terus mengawal kualitas pendidikan nasional usai ...",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-04-17T10:58:40+07:00"
+    },
+    {
+      "id": "b7a530ca388e",
+      "title": "Menteri ESDM: Harga BBM subsidi tak naik hingga akhir tahun",
+      "url": "https://www.antaranews.com/berita/5530409/menteri-esdm-harga-bbm-subsidi-tak-naik-hingga-akhir-tahun",
+      "source": "antaranews.com",
+      "summary": "Pemerintah memastikan harga bahan bakar minyak (BBM) bersubsidi tidak akan mengalami kenaikan hingga akhir tahun 2026, ...",
+      "topics": [
+        "ekonomi",
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T10:58:37+07:00"
+    },
     {
       "id": "dbd1396b521f",
       "title": "Komdigi Ancam Blokir Wikipedia dan Wikimedia Commons",
@@ -14,6 +981,53 @@
         "teknologi"
       ],
       "published": "2026-04-17T10:58:00+07:00"
+    },
+    {
+      "id": "04a1d8c859ad",
+      "title": "Baumgardner pertaruhkan sabuk juara WBA, IBF, dan WBO hadapi Shin",
+      "url": "https://www.antaranews.com/berita/5530408/baumgardner-pertaruhkan-sabuk-juara-wba-ibf-dan-wbo-hadapi-shin",
+      "source": "antaranews.com",
+      "summary": "Alycia Baumgardner mempertaruhkan sabuk juara dunia&nbsp;kelas super bulu putri World Boxing Association (WBA), ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T10:54:06+07:00"
+    },
+    {
+      "id": "a87d354870c6",
+      "title": "Otto tegaskan penguatan sinergi selesaikan sertifikasi tanah gereja",
+      "url": "https://www.antaranews.com/berita/5530405/otto-tegaskan-penguatan-sinergi-selesaikan-sertifikasi-tanah-gereja",
+      "source": "antaranews.com",
+      "summary": "Wakil Menteri Koordinator Bidang Hukum, Hak Asasi Manusia, Imigrasi, dan Pemasyarakatan Otto Hasibuan menegaskan ...",
+      "topics": [
+        "politik",
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-04-17T10:53:54+07:00"
+    },
+    {
+      "id": "975b67eefbd1",
+      "title": "Pemkot Jakbar beri hadiah bagi petugas yang tangkap ikan sapu-sapu",
+      "url": "https://www.antaranews.com/berita/5530403/pemkot-jakbar-beri-hadiah-bagi-petugas-yang-tangkap-ikan-sapu-sapu",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Kota (Pemkot) Jakarta Barat (Jakbar) memberikan hadiah berupa&nbsp;uang Rp25 ribu per kilogram (kg) serta ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T10:53:28+07:00"
+    },
+    {
+      "id": "061bcf891448",
+      "title": "71 tahun KAA: RI gaungkan Dasasila Bandung jadi solusi konflik global",
+      "url": "https://www.antaranews.com/berita/5530400/71-tahun-kaa-ri-gaungkan-dasasila-bandung-jadi-solusi-konflik-global",
+      "source": "antaranews.com",
+      "summary": "Indonesia akan terus menggaungkan nilai Konferensi Asia Afrika (KAA) yang tertuang dalam Dasasila Bandung sebagai ...",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T10:52:55+07:00"
     },
     {
       "id": "4bd6455d7e01",
@@ -27,6 +1041,109 @@
       "published": "2026-04-17T10:48:46+07:00"
     },
     {
+      "id": "5c9a3039a420",
+      "title": "Industri daur ulang tekankan kesiapan perkuat bahan baku plastik",
+      "url": "https://www.antaranews.com/berita/5530397/industri-daur-ulang-tekankan-kesiapan-perkuat-bahan-baku-plastik",
+      "source": "antaranews.com",
+      "summary": "Asosiasi Daur Ulang Plastik Indonesia (ADUPI) menekankan kesiapan untuk memperkuat bahan baku plastik nasional di ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T10:48:33+07:00"
+    },
+    {
+      "id": "13042c3b957b",
+      "title": "Jerman siap amankan Selat Hormuz setelah gencatan senjata",
+      "url": "https://www.antaranews.com/berita/5530396/jerman-siap-amankan-selat-hormuz-setelah-gencatan-senjata",
+      "source": "antaranews.com",
+      "summary": "Kanselir Jerman, Friedrich Merz, Kamis (16/4), mengatakan bahwa Jerman siap berkontribusi secara militer untuk ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T10:47:10+07:00"
+    },
+    {
+      "id": "19234e40c65e",
+      "title": "Pengusaha Was-was Banjir Impor China di Tengah Perang Iran",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416225747-92-1348915/pengusaha-was-was-banjir-impor-china-di-tengah-perang-iran",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Kekhawatiran banjir impor, khususnya dari China, menguat di kalangan pengusaha seiring lonjakan harga bahan baku yang mengerek biaya produksi dalam negeri.",
+      "topics": [
+        "ekonomi",
+        "sosial",
+        "internasional"
+      ],
+      "published": "2026-04-17T10:45:09+07:00"
+    },
+    {
+      "id": "6471c8b406e1",
+      "title": "Waspada Ancaman Siber, BNI Perkuat Literasi Keamanan Digital BNIdirect",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417104013-625-1349044/waspada-ancaman-siber-bni-perkuat-literasi-keamanan-digital-bnidirect",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Kebocoran data tidak hanya berisiko terhadap kerahasiaan informasi, tetapi juga dapat menimbulkan kerugian finansial hingga merusak reputasi nasabah.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T10:42:34+07:00"
+    },
+    {
+      "id": "eb2b5f57990f",
+      "title": "Satu WN Malaysia Jadi Korban Tewas Helikopter Jatuh di Sekadau Kalbar",
+      "url": "https://www.cnnindonesia.com/nasional/20260417100955-20-1349037/satu-wn-malaysia-jadi-korban-tewas-helikopter-jatuh-di-sekadau-kalbar",
+      "source": "cnnindonesia.com",
+      "summary": "Semua delapan korban helikopter PK-CFX yang jatuh di Sekadau, Kalimantan Barat, ditemukan tewas.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T10:36:00+07:00"
+    },
+    {
+      "id": "e4efbef4f66b",
+      "title": "Mualem Minta DPR Naikkan Dana Otsus  Aceh Jadi 2,5 Persen",
+      "url": "https://www.cnnindonesia.com/nasional/20260417102034-32-1349038/mualem-minta-dpr-naikkan-dana-otsus-aceh-jadi-25-persen",
+      "source": "cnnindonesia.com",
+      "summary": "Gubernur Aceh Mualem mendesak DPR untuk segera mengesahkan revisi UU Pemerintah Aceh dan menambah dana otonomi khusus menjadi 2,5 persen sebelum Agustus.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T10:29:08+07:00"
+    },
+    {
+      "id": "3285ff461a90",
+      "title": "Jakarta Mulai Perang Basmi Ikan Sapu-Sapu Serentak di 5 Kota",
+      "url": "https://www.cnnindonesia.com/nasional/20260417094503-20-1349027/jakarta-mulai-perang-basmi-ikan-sapu-sapu-serentak-di-5-kota",
+      "source": "cnnindonesia.com",
+      "summary": "Pemprov DKI memulai penangkapan ikan sapu-sapu di lima wilayah untuk menekan populasi spesies invasif yang mengancam ekosistem perairan air tawar ibu kota.",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T10:17:48+07:00"
+    },
+    {
+      "id": "4e30f2ba3eda",
+      "title": "Harga Minyak Meluncur Lagi ke Level US$98 per Barel Akhir Pekan Ini",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417100747-78-1349031/harga-minyak-meluncur-lagi-ke-level-us-98-per-barel-akhir-pekan-ini",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Adapun harga minyak mentah berjangka West Texas Intermediate (WTI) AS turun US$1,65 atau 1,74 persen menjadi US$93,40 per barel.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-04-17T10:14:52+07:00"
+    },
+    {
+      "id": "db30af0a76db",
+      "title": "KNEKS Perkuat Kerja Sama Ekonomi Syariah RI-Turki, Ada Industri Halal",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417100917-625-1349032/kneks-perkuat-kerja-sama-ekonomi-syariah-ri-turki-ada-industri-halal",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Penandatanganan dilakukan oleh Sutan Emir Hidayat Direktur Infrastruktur Ekosistem Syariah KNEKS dan Tarik Akin Head of Finance Department dari KNEKS Turki.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-04-17T10:12:21+07:00"
+    },
+    {
       "id": "2b9bdde7a5ab",
       "title": "IPB Usut Dugaan Kekerasan Seksual di Grup Chat Mahasiswa",
       "url": "https://nasional.tempo.co/read/2098741/ipb-usut-dugaan-kekerasan-seksual-di-grup-chat-mahasiswa",
@@ -37,6 +1154,75 @@
         "sosial"
       ],
       "published": "2026-04-17T10:03:43+07:00"
+    },
+    {
+      "id": "1ea196a7112b",
+      "title": "Satu Keluarga Tewas dalam Kebakaran di Tanjung Duren Jakbar",
+      "url": "https://www.cnnindonesia.com/nasional/20260417093636-20-1349022/satu-keluarga-tewas-dalam-kebakaran-di-tanjung-duren-jakbar",
+      "source": "cnnindonesia.com",
+      "summary": "Api diduga berasal dari  korsleting listrik yang terjadi di tiang listrik depan rumah keluarga korban. Api kemudian merambat ke rumah korban.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T10:00:32+07:00"
+    },
+    {
+      "id": "f1f07799be55",
+      "title": "Kali Ciliwung Meluap, 21 RT di Jakarta Terendam Banjir",
+      "url": "https://www.cnnindonesia.com/nasional/20260417093254-20-1349018/kali-ciliwung-meluap-21-rt-di-jakarta-terendam-banjir",
+      "source": "cnnindonesia.com",
+      "summary": "BPBD DKI Jakarta laporkan 21 RT terendam banjir akibat luapan Kali Ciliwung. Ketinggian air mencapai 20-80 cm. Masyarakat diimbau waspada.",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-04-17T09:57:08+07:00"
+    },
+    {
+      "id": "4829c747fda8",
+      "title": "Mengenal Pegawai BUMN PKWT di Tengah Rekrutmen 30 Ribu Manajer Kopdes",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417092122-92-1349006/mengenal-pegawai-bumn-pkwt-di-tengah-rekrutmen-30-ribu-manajer-kopdes",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Merujuk pada PP No. 35 Tahun 2021, jangka waktu untuk PKWT dilaksanakan paling lama 5 tahun.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T09:51:31+07:00"
+    },
+    {
+      "id": "1211848b7ab1",
+      "title": "Marulina Dewi Fokus Perkuat Komunikasi Publik dan Digitalisasi",
+      "url": "https://www.cnnindonesia.com/nasional/20260417081813-25-1348990/marulina-dewi-fokus-perkuat-komunikasi-publik-dan-digitalisasi",
+      "source": "cnnindonesia.com",
+      "summary": "Pemprov DKI menunjuk Marulina Dewi Mutiara sebagai Kepala Dinas Komunikasi, Informatika, dan Statistik (Diskominfotik) DKI Jakarta yang baru.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T09:47:13+07:00"
+    },
+    {
+      "id": "05c836867376",
+      "title": "Kasus Saiful Mujani, Burhanuddin Muhtadi Beber Kondisi Sosial Hari Ini",
+      "url": "https://www.cnnindonesia.com/nasional/20260417084156-32-1349004/kasus-saiful-mujani-burhanuddin-muhtadi-beber-kondisi-sosial-hari-ini",
+      "source": "cnnindonesia.com",
+      "summary": "Burhanuddin Muhtadi menyebut situasi hari ini sampai di titik masyarakat menikmati kondisi yang sebenarnya tidak baik-baik saja.",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-04-17T09:43:23+07:00"
+    },
+    {
+      "id": "480691293db8",
+      "title": "Rupiah Kembali Catat Level Terendah Sepanjang Sejarah ke Rp17.180",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417093343-78-1349020/rupiah-kembali-catat-level-terendah-sepanjang-sejarah-ke-rp17180",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Analis memperkirakan rupiah akan melemah terhadap dolar AS, merespon data pekerjaan yang rebound karena klaim angka pengangguran AS lebih kuat dari perkiraan.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-04-17T09:40:33+07:00"
     },
     {
       "id": "8ef8821943ac",
@@ -62,6 +1248,52 @@
       "published": "2026-04-17T09:20:00+07:00"
     },
     {
+      "id": "f194240195bf",
+      "title": "Nia Bangkit Buka Usaha Tahu Bersama PNM Mekaar dan BRI",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416154130-625-1348736/nia-bangkit-buka-usaha-tahu-bersama-pnm-mekaar-dan-bri",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Bagi Nia bergabung dengan PNM Mekaar dan BRI tak hanya soal akses pembiayaan namun juga membuka peluang memperluas jejaring usaha.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T09:12:30+07:00"
+    },
+    {
+      "id": "469a8ab930ee",
+      "title": "Banjir Satu Meter Lebih Rendam Kebon Pala Jaktim Pagi Ini",
+      "url": "https://www.cnnindonesia.com/nasional/20260417081941-20-1348992/banjir-satu-meter-lebih-rendam-kebon-pala-jaktim-pagi-ini",
+      "source": "cnnindonesia.com",
+      "summary": "Banjir merendam permukiman di Kebon Pala, Jakarta Timur, dengan ketinggian air mencapai 1 meter. Warga bertahan di rumah meski aktivitas terganggu.",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-04-17T09:11:39+07:00"
+    },
+    {
+      "id": "e687cc91ba86",
+      "title": "FOTO: Kasus Chromebook, Ibam Dituntut 15 Tahun Bui-Bayar Total Rp17 M",
+      "url": "https://www.cnnindonesia.com/nasional/20260417073635-14-1348976/foto-kasus-chromebook-ibam-dituntut-15-tahun-bui-bayar-total-rp17-m",
+      "source": "cnnindonesia.com",
+      "summary": "Tiga terdakwa kasus Chromebook di lingkungan Kemendikbudristek dituntut penjara selama 6-15, dan bayar denda serta uang pengganti total puluhan miliar rupiah.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-04-17T09:10:07+07:00"
+    },
+    {
+      "id": "a6f654428a5c",
+      "title": "Harga Emas Antam Turun ke Level Rp2,868 Juta per Gram Pagi Ini",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417085317-92-1349000/harga-emas-antam-turun-ke-level-rp2868-juta-per-gram-pagi-ini",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Logam Mulia mencatat harga buyback emas Antam hari ini (17/4) turut mengalami penurunan senilai Rp15 ribu menjadi Rp2,659 juta per gram.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-04-17T09:05:03+07:00"
+    },
+    {
       "id": "f1c5cf2b868a",
       "title": "Hujan Deras Sebabkan 21 RT di Jakarta Banjir Pagi Ini",
       "url": "https://nasional.tempo.co/read/2098733/hujan-deras-sebabkan-21-rt-di-jakarta-banjir-pagi-ini",
@@ -71,6 +1303,17 @@
         "sosial"
       ],
       "published": "2026-04-17T09:04:00+07:00"
+    },
+    {
+      "id": "a95f64373134",
+      "title": "Wali Kota Mamdani Incar Pajak Orang Kaya New York dari Sektor Ini",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417071900-532-1348963/wali-kota-mamdani-incar-pajak-orang-kaya-new-york-dari-sektor-ini",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Walkot New York Zohran Mamdani mengumumkan kebijakan pajak properti kedua untuk orang kaya, sekaligus yang pertama dalam sejarah New York tersebut.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T08:32:08+07:00"
     },
     {
       "id": "003d3ae6581e",
@@ -85,6 +1328,51 @@
       "published": "2026-04-17T08:26:00+07:00"
     },
     {
+      "id": "11baf2161a3c",
+      "title": "Unpad Bentuk Tim Investigasi Dugaan Guru Besar Lecehkan Mahasiswi",
+      "url": "https://www.cnnindonesia.com/nasional/20260417073917-20-1348984/unpad-bentuk-tim-investigasi-dugaan-guru-besar-lecehkan-mahasiswi",
+      "source": "cnnindonesia.com",
+      "summary": "Rektorat Unpad bentuk tim investigasi terkait dugaan pelecehan seksual oleh guru besar. Unpad berkomitmen mendukung korban dan memproses kasus ini.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T08:23:01+07:00"
+    },
+    {
+      "id": "afba14a23350",
+      "title": "8 Korban Tewas Helikopter Jatuh, Tiga Belum Berhasil Dievakuasi",
+      "url": "https://www.cnnindonesia.com/nasional/20260417072236-20-1348973/8-korban-tewas-helikopter-jatuh-tiga-belum-berhasil-dievakuasi",
+      "source": "cnnindonesia.com",
+      "summary": "Operasi SAR menemukan semua delapan korban helikopter PK-CFX yang jatuh di Sekadau. Proses evakuasi masih berlangsung untuk tiga jenazah terjepit.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T08:16:07+07:00"
+    },
+    {
+      "id": "cf93b9a31b2b",
+      "title": "Guru Honorer di Kuningan Kaget Identitasnya Dicatut untuk Beli Ferrari",
+      "url": "https://www.cnnindonesia.com/nasional/20260417073928-12-1348985/guru-honorer-di-kuningan-kaget-identitasnya-dicatut-untuk-beli-ferrari",
+      "source": "cnnindonesia.com",
+      "summary": "Rizal, guru honorer di Kabupaten Kuningan kaget bukan kepalang mengetahui namanya terdaftar di Samsat sebagai pembeli mobil Ferrari 458 Speciale Aperta.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T08:02:03+07:00"
+    },
+    {
+      "id": "8fbd03fd101d",
+      "title": "Duduk Perkara Korupsi Tata Kelola Tambang Nikel Jerat Ketua Ombudsman",
+      "url": "https://www.cnnindonesia.com/nasional/20260417070356-12-1348961/duduk-perkara-korupsi-tata-kelola-tambang-nikel-jerat-ketua-ombudsman",
+      "source": "cnnindonesia.com",
+      "summary": "Ketua Ombudsman RI Hery Susanto ditetapkan tersangka korupsi terkait tata kelola tambang nikel. Ia diduga menerima fee Rp1,5 miliar untuk intervensi.",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-04-17T07:37:02+07:00"
+    },
+    {
       "id": "07f9d05d0cd8",
       "title": "Fakta-Fakta Retret Ketua DPRD di Akmil Magelang",
       "url": "https://nasional.tempo.co/read/2098722/fakta-fakta-retret-ketua-dprd-di-akmil-magelang",
@@ -94,6 +1382,28 @@
         "politik"
       ],
       "published": "2026-04-17T07:35:00+07:00"
+    },
+    {
+      "id": "55afea10fe5d",
+      "title": "Seluruh Penumpang Helikopter Jatuh di Sekadau Ditemukan Tewas",
+      "url": "https://www.cnnindonesia.com/nasional/20260417071235-24-1348962/seluruh-penumpang-helikopter-jatuh-di-sekadau-ditemukan-tewas",
+      "source": "cnnindonesia.com",
+      "summary": "Seluruh orang dalam helikopter PK-CFX PT Matthew Air yang jatuh di Kabupaten Sekadau, Kalimantan Barat, telah ditemukan. Semua, delapan korban, ditemukan tewas.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T07:23:45+07:00"
+    },
+    {
+      "id": "13e2acc1ac4d",
+      "title": "Klaim Purbaya soal Modal Asing Guyur RI Realistis atau Omon-omon?",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417062217-92-1348938/klaim-purbaya-soal-modal-asing-guyur-ri-realistis-atau-omon-omon",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Indonesia saat ini dinilai berada pada posisi paradoks. Fundamentalnya masih menjual, tetapi sentimennya belum pulih.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T07:20:09+07:00"
     },
     {
       "id": "5fe19c43d5c3",
@@ -119,6 +1429,131 @@
       "published": "2026-04-17T07:07:00+07:00"
     },
     {
+      "id": "57325ce65d46",
+      "title": "Tiga Terdakwa Kasus Korupsi Chromebook Dituntut 6 dan 15 Tahun Penjara",
+      "url": "https://www.cnnindonesia.com/nasional/20260417065036-12-1348949/tiga-terdakwa-kasus-korupsi-chromebook-dituntut-6-dan-15-tahun-penjara",
+      "source": "cnnindonesia.com",
+      "summary": "Tiga terdakwa kasus korupsi pengadaan Chromebook dituntut penjara 6-15 tahun. Mereka diduga merugikan negara hingga Rp2,18 triliun.",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-04-17T07:02:10+07:00"
+    },
+    {
+      "id": "6784b0709a04",
+      "title": "BRI Hadirkan Kemudahan Tebus Gadai Pegadaian Melalui BRImo",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416144401-625-1348697/bri-hadirkan-kemudahan-tebus-gadai-pegadaian-melalui-brimo",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "BRI terus memperkuat komitmennya dalam menghadirkan layanan keuangan digital yang praktis dan bernilai tambah bagi masyarakat.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T07:00:01+07:00"
+    },
+    {
+      "id": "a9af965716c2",
+      "title": "Update Helikopter Jatuh di Sekadau: Semua 8 Korban Ditemukan Tewas",
+      "url": "https://www.cnnindonesia.com/nasional/20260417061206-20-1348935/update-helikopter-jatuh-di-sekadau-semua-8-korban-ditemukan-tewas",
+      "source": "cnnindonesia.com",
+      "summary": "Operasi SAR helikopter PK-CFX di Sekadau, Kalimantan Barat, menemukan semua delapan penumpang dan kru tewas. Evakuasi korban masih berlanjut pada Jumat pagi.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T06:44:02+07:00"
+    },
+    {
+      "id": "3d63c3f33fe5",
+      "title": "Daftar 5 Mata Uang ASEAN Terlemah, Rupiah Urutan Berapa?",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416165853-78-1348779/daftar-5-mata-uang-asean-terlemah-rupiah-urutan-berapa",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Mayoritas mata uang ASEAN melemah sejak awal 2026. Rupiah menyentuh level psikologis dan mencatat level tertinggi sepanjang sejarah baru.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-04-17T06:35:58+07:00"
+    },
+    {
+      "id": "20d9a578b5d3",
+      "title": "Kebakaran di Kompleks Asrama Polri Diduga Berasal dari Kompor Warga",
+      "url": "https://www.cnnindonesia.com/nasional/20260417061501-20-1348934/kebakaran-di-kompleks-asrama-polri-diduga-berasal-dari-kompor-warga",
+      "source": "cnnindonesia.com",
+      "summary": "Kebakaran hebat melanda 20 rumah di Asrama Polri Ciledug, Tangerang, diduga akibat kompor. Tidak ada korban jiwa dalam peristiwa ini.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T06:26:04+07:00"
+    },
+    {
+      "id": "1eb453b9238b",
+      "title": "IHSG Diramal Menghijau Jelang Akhir Pekan Ini",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260417060642-92-1348932/ihsg-diramal-menghijau-jelang-akhir-pekan-ini",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "IHSG kemarin mengindikasikan potensi koreksi lanjutan setelah mulai mengisi gap terdekat, tren naik hari ini bisa berlanjut jika bertahan di atas level kunci.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-04-17T06:21:22+07:00"
+    },
+    {
+      "id": "c714afa8cea2",
+      "title": "Puan Desak 16 Mahasiswa Chat Mesum UI Ditindak: Korban Jangan Diam",
+      "url": "https://www.cnnindonesia.com/nasional/20260416142754-32-1348691/puan-desak-16-mahasiswa-chat-mesum-ui-ditindak-korban-jangan-diam",
+      "source": "cnnindonesia.com",
+      "summary": "Ketua DPR Puan Maharani mendesak sanksi tegas bagi 16 mahasiswa FH UI terduga pelecehan seksual.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T05:50:20+07:00"
+    },
+    {
+      "id": "d9798263b5e1",
+      "title": "Jaga Pasokan, Pertamina Berburu BBM hingga LPG di Luar Timur Tengah",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416153257-85-1348724/jaga-pasokan-pertamina-berburu-bbm-hingga-lpg-di-luar-timur-tengah",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Pertamina mulai mencari sumber energi seperti BBM dan LPG di luar Timur Tengah sebagai langkah antisipasi terhadap dampak krisis geopolitik global.",
+      "topics": [
+        "politik",
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T05:45:00+07:00"
+    },
+    {
+      "id": "80162502d43c",
+      "title": "Mualem Desak DPR Sahkan Revisi UU Pemerintah Aceh Sebelum Agustus",
+      "url": "https://www.cnnindonesia.com/nasional/20260416220416-32-1348913/mualem-desak-dpr-sahkan-revisi-uu-pemerintah-aceh-sebelum-agustus",
+      "source": "cnnindonesia.com",
+      "summary": "Gubernur Aceh Mualem mendesak DPR RI untuk segera mengesahkan revisi UU Pemerintah Aceh dan menaikkan dana Otsus menjadi 2,5 persen.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T04:50:16+07:00"
+    },
+    {
+      "id": "cb7d41640d6c",
+      "title": "BGN Catat 52 Persen Dapur MBG Kantongi Sertifikat Higiene",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416124119-92-1348625/bgn-catat-52-persen-dapur-mbg-kantongi-sertifikat-higiene",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "BGN mencatat sebanyak 52,37 persen SPPG alias dapur MBG mengantongi Sertifikat Laik Higiene Sanitasi (SLHS) hingga pertengahan April 2026.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T04:45:56+07:00"
+    },
+    {
+      "id": "dde4296be17c",
+      "title": "Mendag Bantah Minyak Goreng Langka di Pasaran: Banyak, Coba Cek",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416184441-92-1348846/mendag-bantah-minyak-goreng-langka-di-pasaran-banyak-coba-cek",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Mendag Budi Santoso membantah anggapan minyak goreng langka di pasar meski belakangan masyarakat mengeluhkan sulitnya mendapatkan Minyakita.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T03:45:13+07:00"
+    },
+    {
       "id": "37e702c65fba",
       "title": "Lionel Messi beli klub kasta kelima Liga Spanyol UE Cornella",
       "url": "https://www.antaranews.com/berita/5530163/lionel-messi-beli-klub-kasta-kelima-liga-spanyol-ue-cornella",
@@ -128,6 +1563,29 @@
         "olahraga"
       ],
       "published": "2026-04-17T02:47:42+07:00"
+    },
+    {
+      "id": "0a00ac387337",
+      "title": "Pramono Lantik 117 Petugas Penyelenggara Haji Kloter DKI Jakarta",
+      "url": "https://www.cnnindonesia.com/nasional/20260416180315-20-1348834/pramono-lantik-117-petugas-penyelenggara-haji-kloter-dki-jakarta",
+      "source": "cnnindonesia.com",
+      "summary": "Gubernur DKI Jakarta Pramono Anung resmi mengukuhkan 117 petugas yang tergabung dalam Petugas Penyelenggara Ibadah Haji (PPIH) kloter asal Jakarta.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-04-17T02:30:38+07:00"
+    },
+    {
+      "id": "bbcbe07a16de",
+      "title": "Konflik Timteng, DPR Minta Pemerintah Antisipasi Kenaikan Harga Pangan",
+      "url": "https://www.cnnindonesia.com/nasional/20260416215243-32-1348911/konflik-timteng-dpr-minta-pemerintah-antisipasi-kenaikan-harga-pangan",
+      "source": "cnnindonesia.com",
+      "summary": "Anggota DPR minta pemerintah antisipasi lonjakan harga pangan akibat konflik di Timteng.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-04-17T02:20:43+07:00"
     },
     {
       "id": "8c82d95897c3",
@@ -152,6 +1610,17 @@
         "teknologi"
       ],
       "published": "2026-04-17T02:07:24+07:00"
+    },
+    {
+      "id": "154c6d966f83",
+      "title": "Pabrik Miras Oplosan di Sumsel: 4 Tersangka, Puluhan Ribu Botol Disita",
+      "url": "https://www.cnnindonesia.com/nasional/20260416213509-12-1348907/pabrik-miras-oplosan-di-sumsel-4-tersangka-puluhan-ribu-botol-disita",
+      "source": "cnnindonesia.com",
+      "summary": "Polisi membongkar pabrik miras oplosan di Banyuasin, amankan 20.088 botol dan 4 tersangka.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T01:30:09+07:00"
     },
     {
       "id": "e7094dd0ca0c",
@@ -259,6 +1728,17 @@
       "published": "2026-04-17T00:32:27+07:00"
     },
     {
+      "id": "7e70765c3ba6",
+      "title": "Analis Beri Catatan soal Kerja Sama Pertahanan RI-AS dalam MDCP",
+      "url": "https://www.cnnindonesia.com/nasional/20260416191820-20-1348856/analis-beri-catatan-soal-kerja-sama-pertahanan-ri-as-dalam-mdcp",
+      "source": "cnnindonesia.com",
+      "summary": "Analis Lab45, Christian Guntur, menyoroti kerja sama pertahanan Indonesia-AS dalam MDCP, menekankan pentingnya modernisasi militer dan risiko kedaulatan.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T00:30:41+07:00"
+    },
+    {
       "id": "041213a9327c",
       "title": "Dubes: Arab Saudi konsisten menahan diri dalam konflik kawasan",
       "url": "https://www.antaranews.com/berita/5530143/dubes-arab-saudi-konsisten-menahan-diri-dalam-konflik-kawasan",
@@ -314,6 +1794,19 @@
         "umum"
       ],
       "published": "2026-04-17T00:01:06+07:00"
+    },
+    {
+      "id": "1c429a5cb085",
+      "title": "Kapolri Bentuk Satgas Penyelundupan, Cegah Kebocoran Penerimaan Negara",
+      "url": "https://www.cnnindonesia.com/nasional/20260416203705-12-1348885/kapolri-bentuk-satgas-penyelundupan-cegah-kebocoran-penerimaan-negara",
+      "source": "cnnindonesia.com",
+      "summary": "Kapolri membentuk Satgas Penegakan Hukum untuk menindak penyelundupan yang merugikan negara, sesuai arahan Presiden Prabowo.",
+      "topics": [
+        "politik",
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-04-17T00:00:55+07:00"
     },
     {
       "id": "bf1917c70300",
@@ -660,6 +2153,17 @@
       "published": "2026-04-16T23:00:08+07:00"
     },
     {
+      "id": "5918fc0b94f9",
+      "title": "7 Korban Helikopter Jatuh di Kalbar Ditemukan Meninggal Dunia",
+      "url": "https://www.cnnindonesia.com/nasional/20260416225310-20-1348914/7-korban-helikopter-jatuh-di-kalbar-ditemukan-meninggal-dunia",
+      "source": "cnnindonesia.com",
+      "summary": "Tujuh korban helikopter PK-CFX yang jatuh di Kalbar ditemukan tewas. Proses evakuasi terhenti karena kondisi medan yang sulit.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-16T22:57:56+07:00"
+    },
+    {
       "id": "777258773384",
       "title": "Bertemu Dubes Arab Saudi, Pimpinan Ponpes Darul Amanah Bahas Peran Pesantren Dorong Perdamaian",
       "url": "https://www.tribunnews.com/nasional/7817785/bertemu-dubes-arab-saudi-pimpinan-ponpes-darul-amanah-bahas-peran-pesantren-dorong-perdamaian",
@@ -682,6 +2186,17 @@
         "teknologi"
       ],
       "published": "2026-04-16T22:56:07+07:00"
+    },
+    {
+      "id": "1cefa6b51c28",
+      "title": "Penampakan Lokasi Helikopter yang Hilang Kontak di Kalbar",
+      "url": "https://www.cnnindonesia.com/nasional/20251009194215-24-1282916/penampakan-lokasi-helikopter-yang-hilang-kontak-di-kalbar",
+      "source": "cnnindonesia.com",
+      "summary": "Rekaman Basarnas menunjukkan serpihan diduga helikopter PK-CFX yang hilang kontak pada Kamis (16/4).",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-16T22:49:49+07:00"
     },
     {
       "id": "e9bfbab01023",
@@ -820,6 +2335,28 @@
       "published": "2026-04-16T22:31:01+07:00"
     },
     {
+      "id": "0776b4e2d6cc",
+      "title": "Kasus Grup Chat Mesum Mahasiswa FH UI, Polisi Akui Belum Ada Laporan",
+      "url": "https://www.cnnindonesia.com/nasional/20260416163541-12-1348762/kasus-grup-chat-mesum-mahasiswa-fh-ui-polisi-akui-belum-ada-laporan",
+      "source": "cnnindonesia.com",
+      "summary": "Polda Metro Jaya berkoordinasi dengan UI terkait dugaan pelecehan seksual 16 mahasiswa FH.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-16T22:30:40+07:00"
+    },
+    {
+      "id": "12e10e107bda",
+      "title": "Bea Cukai Siapkan Layanan di 14 Bandara untuk Kepulangan Jemaah Haji",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416131657-532-1348641/bea-cukai-siapkan-layanan-di-14-bandara-untuk-kepulangan-jemaah-haji",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "DJBC Kemenkeu menyiapkan layanan kepabeanan di 14 bandara debarkasi haji untuk memastikan proses kepulangan jemaah haji berjalan lebih tertib dan efisien.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-16T22:30:16+07:00"
+    },
+    {
       "id": "3421b29581c5",
       "title": "Inara Rusli Sakit Lagi, Polisi Jadwalkan Ulang Pemeriksaan di Kasus Perzinaan Besok",
       "url": "https://www.tribunnews.com/seleb/7817782/inara-rusli-sakit-lagi-polisi-jadwalkan-ulang-pemeriksaan-di-kasus-perzinaan-besok",
@@ -864,6 +2401,17 @@
         "internasional"
       ],
       "published": "2026-04-16T22:20:19+07:00"
+    },
+    {
+      "id": "ebc61c6959a5",
+      "title": "Peritel Harap UMKM Bisa Jadi Pemasok MBG hingga Sekolah Rakyat",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416133016-92-1348646/peritel-harap-umkm-bisa-jadi-pemasok-mbg-hingga-sekolah-rakyat",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Himpunan Peritel dan Penyewa Pusat Perbelanjaan Indonesia (Hippindo) berharap pelaku UMKM dapat menjadi pemasok (supplier) untuk program strategis pemerintah.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-04-16T22:15:51+07:00"
     },
     {
       "id": "97105eced4c0",
@@ -997,6 +2545,17 @@
         "ekonomi"
       ],
       "published": "2026-04-16T21:48:20+07:00"
+    },
+    {
+      "id": "a339c8696798",
+      "title": "Polda Bali Kerahkan 1.595 Personel Gabungan Amankan Kemala Run 2026",
+      "url": "https://www.cnnindonesia.com/nasional/20260416205652-20-1348896/polda-bali-kerahkan-1595-personel-gabungan-amankan-kemala-run-2026",
+      "source": "cnnindonesia.com",
+      "summary": "Kabid Humas Polda Bali Komisaris Besar Ariasandy mengatakan hal ini untuk memastikan keamanan dan kenyamanan puluhan ribu peserta lari.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-16T21:47:31+07:00"
     },
     {
       "id": "87cae1011318",
@@ -1146,6 +2705,17 @@
       "published": "2026-04-16T21:31:32+07:00"
     },
     {
+      "id": "ffa4b9804ac4",
+      "title": "Bank Mega Rayakan HUT ke-57 dengan Donor Darah hingga Tebar Diskon",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416171523-78-1348790/bank-mega-rayakan-hut-ke-57-dengan-donor-darah-hingga-tebar-diskon",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Bank Mega merayakan HUT ke-57 dengan kegiatan donor darah hingga mini medical check up yang dilaksanakan di kantor pusat dan seluruh regional Indonesia.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-16T21:30:48+07:00"
+    },
+    {
       "id": "9f92e9562b03",
       "title": "Kodim 0623 Cilegon salurkan 20 unit truk operasional KMP",
       "url": "https://www.antaranews.com/video/5529869/kodim-0623-cilegon-salurkan-20-unit-truk-operasional-kmp",
@@ -1268,6 +2838,17 @@
         "politik"
       ],
       "published": "2026-04-16T21:17:53+07:00"
+    },
+    {
+      "id": "23be5b4095f7",
+      "title": "Amran Genjot Produksi Sawit, Prioritaskan Penanaman di Lahan Gundul",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260415203936-92-1348437/amran-genjot-produksi-sawit-prioritaskan-penanaman-di-lahan-gundul",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Mentan Andi Amran Sulaiman mendorong peningkatan produksi kelapa sawit nasional dengan menekankan agar ekspansi dilakukan di lahan gundul.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-16T21:17:49+07:00"
     },
     {
       "id": "47ffbfdb0062",
@@ -1498,6 +3079,17 @@
       "published": "2026-04-16T21:01:55+07:00"
     },
     {
+      "id": "10fa5ca6781c",
+      "title": "Pertamina Terus Koordinasi untuk Keluarkan Dua Kapal dari Selat Hormuz",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416143529-85-1348693/pertamina-terus-koordinasi-untuk-keluarkan-dua-kapal-dari-selat-hormuz",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Pertamina terus memantau perkembangan situasi yang dinamis di Selat Hormuz, termasuk memastikan keamanan seluruh kru dan awak kapal.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-16T21:00:26+07:00"
+    },
+    {
       "id": "8bf628042480",
       "title": "Enam Hari Menjabat, Hery Susanto Kini Ditahan Kejagung, Karier Ketua Ombudsman Berakhir Singkat",
       "url": "https://www.tribunnews.com/nasional/7817756/enam-hari-menjabat-hery-susanto-kini-ditahan-kejagung-karier-ketua-ombudsman-berakhir-singkat",
@@ -1610,6 +3202,17 @@
       "published": "2026-04-16T20:54:25+07:00"
     },
     {
+      "id": "2a5e8fe41bc9",
+      "title": "PDIP, Golkar, Hingga Demokrat Respons Isu Reshuffle",
+      "url": "https://www.cnnindonesia.com/nasional/20260416193845-32-1348870/pdip-golkar-hingga-demokrat-respons-isu-reshuffle",
+      "source": "cnnindonesia.com",
+      "summary": "Sejumlah pimpinan fraksi di DPR angkat suara soal wacana reshuffle atau kocok ulang kabinet yang isunya kembali mencuat dalam beberapa waktu terakhir.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-16T20:52:16+07:00"
+    },
+    {
       "id": "b737e6d48c9f",
       "title": "Pemprov Sumbar Bentuk Tim Percepatan Pemulihan Sawah 3,902 Hektare",
       "url": "https://nasional.tempo.co/read/2098680/pemprov-sumbar-bentuk-tim-percepatan-pemulihan-sawah-3902-hektare",
@@ -1677,6 +3280,17 @@
       "published": "2026-04-16T20:47:36+07:00"
     },
     {
+      "id": "f6455b47617c",
+      "title": "Gunadarma Jadi Kampus Pertama di IKN, Kuliah Perdana Digelar September",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416203713-92-1348884/gunadarma-jadi-kampus-pertama-di-ikn-kuliah-perdana-digelar-september",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Universitas Gunadarma akan menjadi perguruan tinggi pertama yang beroperasi di IKN. Rencananya, kegiatan perkuliahan perdana dimulai pada 28 September 2026.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-16T20:46:57+07:00"
+    },
+    {
       "id": "1cad6240fcd8",
       "title": "Pemprov Sumbar Bentuk Tim Percepatan Pemulihan Sawah 3,902 hektare",
       "url": "https://nasional.tempo.co/read/2098676/pemprov-sumbar-bentuk-tim-percepatan-pemulihan-sawah-3902-hektare",
@@ -1686,6 +3300,39 @@
         "sosial"
       ],
       "published": "2026-04-16T20:45:32+07:00"
+    },
+    {
+      "id": "5f951f7a8e96",
+      "title": "8 Hakim MK Kompak Cecar Operator Seluler soal Kuota Internet Hangus",
+      "url": "https://www.cnnindonesia.com/nasional/20260416202654-12-1348880/8-hakim-mk-kompak-cecar-operator-seluler-soal-kuota-internet-hangus",
+      "source": "cnnindonesia.com",
+      "summary": "Hakim MK mencecar operator seluler terkait kuota internet hangus. Kerugian dan keadilan bagi pengguna internet menjadi fokus sidang.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-16T20:43:11+07:00"
+    },
+    {
+      "id": "afe5ff14316b",
+      "title": "Temui Menhut Raja Juli, Eco Power Siap Bawa Dana Rp420 M dari Inggris",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416202620-625-1348881/temui-menhut-raja-juli-eco-power-siap-bawa-dana-rp420-m-dari-inggris",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Kementerian Kehutanan menerima kunjungan PT Eco Power Nusantara di Gedung Manggala Wanabakti, Rabu (15/4).",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-04-16T20:39:35+07:00"
+    },
+    {
+      "id": "5a2979bd8bd5",
+      "title": "Kokain di Pantai Pasir Putih Madura: Total 23 Bungkus, Senilai Rp115 M",
+      "url": "https://www.cnnindonesia.com/nasional/20260415152007-12-1348302/kokain-di-pantai-pasir-putih-madura-total-23-bungkus-senilai-rp115-m",
+      "source": "cnnindonesia.com",
+      "summary": "Puluhan bungkus kokain seberat 22 kg ditemukan di Pantai Pasir Putih, Sumenep. Nilai barang diperkirakan mencapai Rp115 miliar.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-16T20:38:05+07:00"
     },
     {
       "id": "cd85b0ab601b",
@@ -1814,6 +3461,40 @@
       "published": "2026-04-16T20:22:47+07:00"
     },
     {
+      "id": "7a5ff5a3c0ba",
+      "title": "Puluhan Rumah di Asrama Polri Ciledug Terbakar, 40 KK Terdampak",
+      "url": "https://www.cnnindonesia.com/nasional/20260416200007-20-1348874/puluhan-rumah-di-asrama-polri-ciledug-terbakar-40-kk-terdampak",
+      "source": "cnnindonesia.com",
+      "summary": "Kebakaran hebat melanda Asrama Polri di Ciledug, Tangerang, menghanguskan 25 rumah. 40 kepala keluarga terdampak, namun tidak ada korban jiwa.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-16T20:22:13+07:00"
+    },
+    {
+      "id": "078d183da924",
+      "title": "Menkeu Inggris Kecam Trump Plin-plan Perangi Iran: Tak Jelas Tujuannya",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416174142-532-1348816/menkeu-inggris-kecam-trump-plin-plan-perangi-iran-tak-jelas-tujuannya",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Menkeu Inggris Rachel Reeves mengecam Trump plin-plan soal tujuan perang di Iran dan menjabarkan dampak konflik terhadap stabilitas ekonomi global.",
+      "topics": [
+        "ekonomi",
+        "internasional"
+      ],
+      "published": "2026-04-16T20:20:02+07:00"
+    },
+    {
+      "id": "8f7b1fb33f50",
+      "title": "Kejati Jatim Geledah Kantor Dinas ESDM Jatim Terkait Pungli Perizinan",
+      "url": "https://www.cnnindonesia.com/nasional/20260416193318-12-1348869/kejati-jatim-geledah-kantor-dinas-esdm-jatim-terkait-pungli-perizinan",
+      "source": "cnnindonesia.com",
+      "summary": "Kejaksaan Tinggi Jatim menggeledah kantor Dinas ESDM terkait dugaan pungutan liar dalam proses penerbitan perizinan.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-16T20:18:03+07:00"
+    },
+    {
       "id": "7f12cc3af6c3",
       "title": "Sugiono Beri Wejangan ke Siswa Taruna Nusantara di Istana",
       "url": "https://nasional.tempo.co/read/2098669/sugiono-beri-wejangan-ke-siswa-taruna-nusantara-di-istana",
@@ -1823,6 +3504,17 @@
         "umum"
       ],
       "published": "2026-04-16T20:18:00+07:00"
+    },
+    {
+      "id": "c5e2037a2223",
+      "title": "Petugas PPSU Meninggal Usai Ditabrak saat Menyapu di Pejaten Jaksel",
+      "url": "https://www.cnnindonesia.com/nasional/20260416195034-20-1348872/petugas-ppsu-meninggal-usai-ditabrak-saat-menyapu-di-pejaten-jaksel",
+      "source": "cnnindonesia.com",
+      "summary": "Seorang petugas PPSU meninggal setelah tertabrak mobil di Jakarta Selatan. Polisi sudah mengamankan pengemudi.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-16T20:07:39+07:00"
     },
     {
       "id": "844ea72e0372",
@@ -1835,6 +3527,17 @@
         "politik"
       ],
       "published": "2026-04-16T19:57:45+07:00"
+    },
+    {
+      "id": "a6752a0de6de",
+      "title": "Pedagang Minta Bulog Pastikan Distribusi Minyakita Tak Terhambat",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416134016-92-1348659/pedagang-minta-bulog-pastikan-distribusi-minyakita-tak-terhambat",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Pedagang menilai klaim bahwa stok Minyakita dalam kondisi aman perlu diikuti dengan distribusi yang benar-benar efektif.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-16T19:54:59+07:00"
     },
     {
       "id": "397eb0c9dda7",
@@ -1860,6 +3563,41 @@
       "published": "2026-04-16T19:53:14+07:00"
     },
     {
+      "id": "dbec251ec162",
+      "title": "Prabowo Rapat Terbatas Bareng Dasco, Prasetyo, hingga Sugiono",
+      "url": "https://www.cnnindonesia.com/nasional/20260416193852-32-1348871/prabowo-rapat-terbatas-bareng-dasco-prasetyo-hingga-sugiono",
+      "source": "cnnindonesia.com",
+      "summary": "Presiden Prabowo Subianto menggelar rapat terbatas di Istana, membahas situasi politik, keamanan, dan ekonomi nasional bersama para pembantunya.",
+      "topics": [
+        "ekonomi",
+        "politik"
+      ],
+      "published": "2026-04-16T19:49:33+07:00"
+    },
+    {
+      "id": "5bc59f18f01f",
+      "title": "Kasatgas PRR Catat 12 Daerah Ajukan Huntap, Pemda Lain Diminta Cepat",
+      "url": "https://www.cnnindonesia.com/nasional/20260416192642-25-1348859/kasatgas-prr-catat-12-daerah-ajukan-huntap-pemda-lain-diminta-cepat",
+      "source": "cnnindonesia.com",
+      "summary": "Satgas PRR mencatat 12 daerah telah ajukan data hunian tetap pascabencana Sumatra, fokus di 45 daerah, target pembangunan terus dipercepat.",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-04-16T19:47:42+07:00"
+    },
+    {
+      "id": "a1072742dc6a",
+      "title": "Kebakaran Asrama Polri Ciledug, 20 Rumah Terbakar",
+      "url": "https://www.cnnindonesia.com/nasional/20260416193150-20-1348868/kebakaran-asrama-polri-ciledug-20-rumah-terbakar",
+      "source": "cnnindonesia.com",
+      "summary": "Kebakaran di Asrama Polri Ciledug, Tangerang Selatan, mengakibatkan 20 rumah terdampak.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-16T19:47:25+07:00"
+    },
+    {
       "id": "47cd323965b8",
       "title": "Sekjen Golkar: DPR Harus Segera Bahas Revisi UU Pemilu",
       "url": "https://nasional.tempo.co/read/2098660/sekjen-golkar-dpr-harus-segera-bahas-revisi-uu-pemilu",
@@ -1872,6 +3610,17 @@
       "published": "2026-04-16T19:42:26+07:00"
     },
     {
+      "id": "ef8102e9b0fd",
+      "title": "Ribka Haluk Apresiasi Penguatan Tata Kelola RSUD Wilayah Jayapura",
+      "url": "https://www.cnnindonesia.com/nasional/20260416192456-25-1348860/ribka-haluk-apresiasi-penguatan-tata-kelola-rsud-wilayah-jayapura",
+      "source": "cnnindonesia.com",
+      "summary": "Wamendagri Ribka Haluk apresiasi workshop tata kelola rumah sakit di Yogyakarta untuk peningkatan layanan kesehatan di Papua.",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-04-16T19:42:11+07:00"
+    },
+    {
       "id": "8ff207400495",
       "title": "Istri Wali Kota Cilegon Turun Langsung Salurkan Bantuan Dinsos",
       "url": "https://nasional.tempo.co/read/2098657/istri-wali-kota-cilegon-turun-langsung-salurkan-bantuan-dinsos",
@@ -1881,6 +3630,52 @@
         "umum"
       ],
       "published": "2026-04-16T19:31:16+07:00"
+    },
+    {
+      "id": "b08265db85b6",
+      "title": "Bungkusan Kokain Puluhan Kilogram Ditemukan di Pesisir Sumenep Madura",
+      "url": "https://www.cnnindonesia.com/nasional/20260416063858-12-1348471/bungkusan-kokain-puluhan-kilogram-ditemukan-di-pesisir-sumenep-madura",
+      "source": "cnnindonesia.com",
+      "summary": "Sekitar 23 bungkusan bertuliskan 'BUGATTI' diduga kokain dengan berat total 27,83 kg ditemukan warga di Pantai Pasir Putih Sumenep. Polisi pun turun tangan.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-16T19:29:28+07:00"
+    },
+    {
+      "id": "217d8f32efda",
+      "title": "Ngaku Ditelepon JK, Ahmad Ali PSI Siap Tengahi Laporan GAMKI",
+      "url": "https://www.cnnindonesia.com/nasional/20260416191807-32-1348854/ngaku-ditelepon-jk-ahmad-ali-psi-siap-tengahi-laporan-gamki",
+      "source": "cnnindonesia.com",
+      "summary": "Ketua Harian Partai Solidaritas Indonesia (PSI) Ahmad Ali mengaku siap menjadi penengah terkait laporan kasus dugaan penistaan agama terhadap Jusuf Kalla.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-16T19:25:31+07:00"
+    },
+    {
+      "id": "2f51719721e6",
+      "title": "Amran Pastikan HET Minyak Goreng Tak Naik Meski Harga Plastik Melonjak",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260416185938-92-1348853/amran-pastikan-het-minyak-goreng-tak-naik-meski-harga-plastik-melonjak",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Kepala Bapanas merangkap Mentan Andi Amran Sulaiman menegaskan pemerintah tak akan menaikkan harga eceran tertinggi minyak goreng meski harga plastik melonjak.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-04-16T19:12:51+07:00"
+    },
+    {
+      "id": "2db0d1e6483f",
+      "title": "Serpihan Diduga Ekor Helikopter yang Hilang Kontak di Kalbar Ditemukan",
+      "url": "https://www.cnnindonesia.com/nasional/20260416190442-20-1348852/serpihan-diduga-ekor-helikopter-yang-hilang-kontak-di-kalbar-ditemukan",
+      "source": "cnnindonesia.com",
+      "summary": "Heli Super Puma TNI AU temukan serpihan helikopter PK-CFX yang hilang kontak di Kalimantan Barat.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-16T19:11:49+07:00"
     },
     {
       "id": "0f5f573c8740",
