@@ -1,9 +1,617 @@
 {
-  "updated": "2026-04-17T21:21:07.251526+07:00",
+  "updated": "2026-04-18T02:58:22.177734+07:00",
   "source": "RSS aggregator",
   "retention_days": 7,
-  "count": 1178,
+  "count": 1231,
   "items": [
+    {
+      "id": "f642f6368dd3",
+      "title": "Jay Idzes solid, Sassuolo menang 2-1 atas Como 1907",
+      "url": "https://www.antaranews.com/berita/5531801/jay-idzes-solid-sassuolo-menang-2-1-atas-como-1907",
+      "source": "antaranews.com",
+      "summary": "Sassuolo meraih kemenangan penting 2-1 atas Como 1907 dalam lanjutan giornata ke-33 Liga Italia 2025/26 di Mapei ...",
+      "topics": [
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-04-18T02:54:30+07:00"
+    },
+    {
+      "id": "bdceeef7191e",
+      "title": "Jadwal liga Prancis: Paris Saint-Germain hadapi Olympique Lyon",
+      "url": "https://www.antaranews.com/berita/5531800/jadwal-liga-prancis-paris-saint-germain-hadapi-olympique-lyon",
+      "source": "antaranews.com",
+      "summary": "Pekan ke-30 liga Prancis 2025/26 akan menghadirkan sejumlah laga penting, dengan duel Paris Saint-Germain (PSG) kontra ...",
+      "topics": [
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-04-18T02:51:00+07:00"
+    },
+    {
+      "id": "3f2ca22ddfa3",
+      "title": "Jimly ingatkan peran besar kehakiman penyeimbang eksekutif-legislatif",
+      "url": "https://www.antaranews.com/berita/5531793/jimly-ingatkan-peran-besar-kehakiman-penyeimbang-eksekutif-legislatif",
+      "source": "antaranews.com",
+      "summary": "Pakar hukum tata negara Prof. Jimly Asshiddiqie mengingatkan peran besar para hakim di seluruh Indonesia untuk termasuk ...",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-04-18T01:24:34+07:00"
+    },
+    {
+      "id": "4f2ce44bbb7d",
+      "title": "Bhayangkara Presisi tundukkan Garuda Jaya dalam Proliga di Semarang",
+      "url": "https://www.antaranews.com/video/5531792/bhayangkara-presisi-tundukkan-garuda-jaya-dalam-proliga-di-semarang",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Jakarta Bhayangkara Presisi tundukkan Jakarta Garuda Jaya 3-0 dalam laga Final Four Proliga 2026 di Gor ...",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-04-18T01:15:06+07:00"
+    },
+    {
+      "id": "1da401f857f6",
+      "title": "Derbi Suramadu, Madura United kalahkan Persebaya 2 - 1",
+      "url": "https://www.antaranews.com/video/5531783/derbi-suramadu-madura-united-kalahkan-persebaya-2-1",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Madura United memenangkan laga derbi Suramadu melawan Persebaya dengan skor 2 - 1 dalam lanjutan kompetisi ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-18T00:57:52+07:00"
+    },
+    {
+      "id": "f374e51fdf07",
+      "title": "Jakarta diperkirakan hujan pada Sabtu pagi hingga malam",
+      "url": "https://www.antaranews.com/berita/5531788/jakarta-diperkirakan-hujan-pada-sabtu-pagi-hingga-malam",
+      "source": "antaranews.com",
+      "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan cuaca di sebagian wilayah DKI Jakarta hujan ringan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-18T00:52:29+07:00"
+    },
+    {
+      "id": "354b16c014f7",
+      "title": "KNKT ungkap dua faktor maraknya kecelakaan dari kendaraan niaga",
+      "url": "https://www.antaranews.com/berita/5531787/knkt-ungkap-dua-faktor-maraknya-kecelakaan-dari-kendaraan-niaga",
+      "source": "antaranews.com",
+      "summary": "Komite Nasional Keselamatan Transportasi (KNKT) mengungkap penyebab terjadinya kecelakaan yang melibatkan kendaraan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-18T00:47:16+07:00"
+    },
+    {
+      "id": "b95f1d0e4593",
+      "title": "Jadwal liga Jerman: Bayern jamu Stuttgart, Frankfurt vs Leipzig",
+      "url": "https://www.antaranews.com/berita/5531781/jadwal-liga-jerman-bayern-jamu-stuttgart-frankfurt-vs-leipzig",
+      "source": "antaranews.com",
+      "summary": "Pekan ke-30 Bundesliga 2025/26 akan kembali bergulir dengan sejumlah laga krusial, termasuk duel antara Bayern Muenchen ...",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-04-18T00:45:09+07:00"
+    },
+    {
+      "id": "3423c07f2b75",
+      "title": "Pep Guardiola yakin Manchester City mampu kembali kalahkan Arsenal",
+      "url": "https://www.antaranews.com/berita/5531777/pep-guardiola-yakin-manchester-city-mampu-kembali-kalahkan-arsenal",
+      "source": "antaranews.com",
+      "summary": "Pelatih Manchester City, Pep Guardiola yakin timnya mampu kembali mengalahkan Arsenal saat kedua tim bertemu dalam ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-18T00:41:42+07:00"
+    },
+    {
+      "id": "9dac565093d0",
+      "title": "KTI perketat regulasi petinju pro guna dorong 'zero accident' di ring",
+      "url": "https://www.antaranews.com/berita/5531776/kti-perketat-regulasi-petinju-pro-guna-dorong-zero-accident-di-ring",
+      "source": "antaranews.com",
+      "summary": "Komisi Tinju Indonesia (KTI) memperketat regulasi bagi petinju profesional yang akan naik ring sebagai upaya menekan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-18T00:38:28+07:00"
+    },
+    {
+      "id": "149eda26fe8b",
+      "title": "Jimly: Independensi kehakiman penting untuk demokrasi hukum Indonesia",
+      "url": "https://www.antaranews.com/berita/5531775/jimly-independensi-kehakiman-penting-untuk-demokrasi-hukum-indonesia",
+      "source": "antaranews.com",
+      "summary": "Ketua Mahkamah Konstitusi (MK) pertama Prof. Jimly Ashhiddiqie mengingatkan seluruh hakim khususnya hakim konstitusi ...",
+      "topics": [
+        "politik",
+        "sosial"
+      ],
+      "published": "2026-04-18T00:23:23+07:00"
+    },
+    {
+      "id": "ece04fad535c",
+      "title": "Menko PMK nilai Nyepi relevan dengan kondisi dunia saat ini",
+      "url": "https://www.antaranews.com/berita/5531772/menko-pmk-nilai-nyepi-relevan-dengan-kondisi-dunia-saat-ini",
+      "source": "antaranews.com",
+      "summary": "Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan (Menko PMK) Pratikno menilai Nyepi yang dijalankan Umat ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-18T00:09:52+07:00"
+    },
+    {
+      "id": "4e001864e55f",
+      "title": "Kemendikdasmen gelontorkan Rp1,3 miliar bangun kelas darurat di Sumbar",
+      "url": "https://www.antaranews.com/video/5531764/kemendikdasmen-gelontorkan-rp13-miliar-bangun-kelas-darurat-di-sumbar",
+      "source": "antaranews.com",
+      "summary": "ANTARA -Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) telah menggelontorkan anggaran hingga Rp1,3 miliar ...",
+      "topics": [
+        "politik",
+        "sosial"
+      ],
+      "published": "2026-04-18T00:06:50+07:00"
+    },
+    {
+      "id": "c090b221d580",
+      "title": "Toyota Indonesia gelar TEY di Toraja Utara",
+      "url": "https://otomotif.antaranews.com/berita/5531768/toyota-indonesia-gelar-tey-di-toraja-utara",
+      "source": "antaranews.com",
+      "summary": "Toyota Indonesia terus menjalankan program Corporate Social Responsibility (CSR), Toyota Eco Youth (TEY) Jelajah ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-18T00:06:16+07:00"
+    },
+    {
+      "id": "2dbf3d81a7c9",
+      "title": "Macron ingatkan aksi militer bisa rusak gencatan senjata di Lebanon",
+      "url": "https://www.antaranews.com/berita/5531767/macron-ingatkan-aksi-militer-bisa-rusak-gencatan-senjata-di-lebanon",
+      "source": "antaranews.com",
+      "summary": "Presiden Prancis Emmanuel Macron, Jumat (17/4), mengingatkan aksi militer bisa merusak gencatan senjata antara ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-04-18T00:04:38+07:00"
+    },
+    {
+      "id": "22063ce2230f",
+      "title": "MINI 1965 Victory Edition meluncur hanya 16 unit",
+      "url": "https://otomotif.antaranews.com/berita/5531765/mini-1965-victory-edition-meluncur-hanya-16-unit",
+      "source": "antaranews.com",
+      "summary": "BMW Group Indonesia resmi meluncurkan MINI 1965 Victory Edition yang hanya tersedia 16 unit di Indonesia dalam pameran ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T23:59:56+07:00"
+    },
+    {
+      "id": "6f3d01b17811",
+      "title": "China denda tujuh e-commerce 3,597 miliar yuan karena \"toko gaib\"",
+      "url": "https://www.antaranews.com/berita/5531761/china-denda-tujuh-e-commerce-3597-miliar-yuan-karena-toko-gaib",
+      "source": "antaranews.com",
+      "summary": "Regulator pasar tertinggi China, Jumat, mendenda tujuh platform perdagangan elektronik (e-commerce) sebesar 3,597 ...",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T23:53:33+07:00"
+    },
+    {
+      "id": "98177a52bfac",
+      "title": "Veto China terhadap draf Resolusi Hormuz bantu redakan ketegangan Iran",
+      "url": "https://www.antaranews.com/berita/5531757/veto-china-terhadap-draf-resolusi-hormuz-bantu-redakan-ketegangan-iran",
+      "source": "antaranews.com",
+      "summary": "Perwakilan tetap China untuk PBB, Fu Cong, mengatakan, veto negaranya terhadap&nbsp;draf resolusi Dewan Keamanan PBB ...",
+      "topics": [
+        "internasional"
+      ],
+      "published": "2026-04-17T23:43:39+07:00"
+    },
+    {
+      "id": "aabdae0a9586",
+      "title": "Tolak gencatan senjata sementara, Iran ingin akhiri perang Timteng",
+      "url": "https://www.antaranews.com/berita/5531755/tolak-gencatan-senjata-sementara-iran-ingin-akhiri-perang-timteng",
+      "source": "antaranews.com",
+      "summary": "Wakil Menteri Luar Negeri Iran Saeed Khatibzadeh mengatakan Teheran menolak gencatan senjata yang sifatnya sementara ...",
+      "topics": [
+        "politik",
+        "internasional"
+      ],
+      "published": "2026-04-17T23:40:26+07:00"
+    },
+    {
+      "id": "991d553881de",
+      "title": "Sekjen IMO tak kesampingkan risiko ranjau di Selat Hormuz",
+      "url": "https://www.antaranews.com/berita/5531753/sekjen-imo-tak-kesampingkan-risiko-ranjau-di-selat-hormuz",
+      "source": "antaranews.com",
+      "summary": "Sekretaris Jenderal Organisasi Maritim Internasional (IMO) Arsenio Dominguez mengatakan bahwa dia tidak memiliki ...",
+      "topics": [
+        "internasional"
+      ],
+      "published": "2026-04-17T23:36:32+07:00"
+    },
+    {
+      "id": "f688619e30fc",
+      "title": "Georgia berupaya raih keanggotaan penuh UE meski hadapi tantangan",
+      "url": "https://www.antaranews.com/berita/5531749/georgia-berupaya-raih-keanggotaan-penuh-ue-meski-hadapi-tantangan",
+      "source": "antaranews.com",
+      "summary": "Georgia tertarik untuk mendapatkan keanggotaan penuh di Uni Eropa terlepas dari tantangan yang ada di dalam blok ...",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T23:35:13+07:00"
+    },
+    {
+      "id": "d5163f4955e7",
+      "title": "Tantangan memperkuat ekosistem film nasional harus dihadapi bersama",
+      "url": "https://www.antaranews.com/berita/5531745/tantangan-memperkuat-ekosistem-film-nasional-harus-dihadapi-bersama",
+      "source": "antaranews.com",
+      "summary": "Kementerian Kebudayaan mengungkapkan bahwa dalam memperkuat ekosistem perfilman nasional, terdapat sejumlah tantangan ...",
+      "topics": [
+        "politik",
+        "hiburan"
+      ],
+      "published": "2026-04-17T23:30:03+07:00"
+    },
+    {
+      "id": "4f245a4d0c5a",
+      "title": "Indonesia sambut positif pembukaan kembali Selat Hormuz",
+      "url": "https://www.antaranews.com/berita/5531744/indonesia-sambut-positif-pembukaan-kembali-selat-hormuz",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Indonesia menyambut positif pengumuman Pemerintah Iran terkait pembukaan kembali Selat Hormuz bagi pelayaran ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T23:28:21+07:00"
+    },
+    {
+      "id": "9de760ed103a",
+      "title": "Disiplin jadi kunci Madura United bungkam Persebaya",
+      "url": "https://www.antaranews.com/berita/5531743/disiplin-jadi-kunci-madura-united-bungkam-persebaya",
+      "source": "antaranews.com",
+      "summary": "Pelatih sementara (caretaker) Madura United Rakhmad Basuki mengungkapkan bahwa disiplin dalam bertahan serta ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T23:20:49+07:00"
+    },
+    {
+      "id": "cef57db70cc3",
+      "title": "OJK: Pendidikan formal berperan penting bangun kapasitas keuangan",
+      "url": "https://www.antaranews.com/berita/5531741/ojk-pendidikan-formal-berperan-penting-bangun-kapasitas-keuangan",
+      "source": "antaranews.com",
+      "summary": "Otoritas Jasa Keuangan (OJK) memandang bahwa pendidikan formal memegang peran sentral dalam membangun kapasitas ...",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-04-17T23:19:34+07:00"
+    },
+    {
+      "id": "75d9ed4377fe",
+      "title": "Pelatih Persebaya nilai Madura United unggul efektivitas permainan",
+      "url": "https://www.antaranews.com/berita/5531740/pelatih-persebaya-nilai-madura-united-unggul-efektivitas-permainan",
+      "source": "antaranews.com",
+      "summary": "Pelatih Persebaya Surabaya Bernardo Tavares menilai Madura United lebih unggul dalam efektivitas permainan dengan mampu ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T23:19:24+07:00"
+    },
+    {
+      "id": "14f0aef3a27e",
+      "title": "Kemenpar-BPOLBF dorong aspek keamanan wisata bahari di Labuan Bajo",
+      "url": "https://www.antaranews.com/berita/5531736/kemenpar-bpolbf-dorong-aspek-keamanan-wisata-bahari-di-labuan-bajo",
+      "source": "antaranews.com",
+      "summary": "Kementerian Pariwisata (Kemenpar) bersama Badan Pelaksana Otorita Labuan Bajo Flores (BPOLBF) mendorong peningkatan ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-04-17T23:05:15+07:00"
+    },
+    {
+      "id": "c1b2a4a11e2a",
+      "title": "Seribuan Dai perantau Minang akan resmikan Kantor DPP Daram",
+      "url": "https://www.antaranews.com/berita/5531733/seribuan-dai-perantau-minang-akan-resmikan-kantor-dpp-daram",
+      "source": "antaranews.com",
+      "summary": "Seribuan Da&rsquo;i dan Da&rsquo;iat, pengusaha dan perantau Minang yang tersebar di Indonesia dan luar negeri akan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T23:01:38+07:00"
+    },
+    {
+      "id": "1a79556dbd2f",
+      "title": "Presiden tindak lanjut hasil lawatan dan percepat program nasional",
+      "url": "https://www.antaranews.com/video/5531713/presiden-tindak-lanjut-hasil-lawatan-dan-percepat-program-nasional",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Presiden Prabowo Subianto menggelar serangkaian pertemuan dengan jajaran kabinet pada Kamis (16/4), satu hari ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T23:01:33+07:00"
+    },
+    {
+      "id": "cc414530cd06",
+      "title": "Hizbullah: Gencatan senjata Israel langkah ke pembebasan Lebanon",
+      "url": "https://www.antaranews.com/berita/5531731/hizbullah-gencatan-senjata-israel-langkah-ke-pembebasan-lebanon",
+      "source": "antaranews.com",
+      "summary": "Gencatan senjata selama 10 hari dengan Israel hanyalah langkah awal menuju pembebasan penuh Lebanon dan tujuan utama ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T22:55:01+07:00"
+    },
+    {
+      "id": "62dc6a77134a",
+      "title": "Korsel sambut gencatan senjata Israel-Lebanon",
+      "url": "https://www.antaranews.com/berita/5531728/korsel-sambut-gencatan-senjata-israel-lebanon",
+      "source": "antaranews.com",
+      "summary": "Kementerian Luar Negeri Korea Selatan pada Jumat menyatakan bahwa pihak berwenang Korea Selatan menyambut baik ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T22:53:51+07:00"
+    },
+    {
+      "id": "f145df60b144",
+      "title": "BKSDA Maluku perkuat pengawasan peredaran satwa liar dengan anjing K9",
+      "url": "https://www.antaranews.com/berita/5531725/bksda-maluku-perkuat-pengawasan-peredaran-satwa-liar-dengan-anjing-k9",
+      "source": "antaranews.com",
+      "summary": "Balai Konservasi Sumber Daya Alam (BKSDA) Maluku memperkuat upaya pengawasan terhadap peredaran ilegal satwa liar ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T22:53:06+07:00"
+    },
+    {
+      "id": "c1a62671c37a",
+      "title": "Warga kembali ke pinggiran Beirut usai gencatan Lebanon-Israel berlaku",
+      "url": "https://www.antaranews.com/berita/5531721/warga-kembali-ke-pinggiran-beirut-usai-gencatan-lebanon-israel-berlaku",
+      "source": "antaranews.com",
+      "summary": "Warga di pinggiran selatan Beirut kembali ke rumah mereka pada Jumat menyusul berlakunya gencatan senjata antara ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T22:52:32+07:00"
+    },
+    {
+      "id": "eabb246b8af9",
+      "title": "Trump klarifikasi pernyataan terkait Paus Leo dan isu nuklir Iran",
+      "url": "https://www.antaranews.com/video/5531621/trump-klarifikasi-pernyataan-terkait-paus-leo-dan-isu-nuklir-iran",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Presiden Amerika Serikat Donald Trump menyatakan tidak memiliki konflik dengan Paus Leo XIV, meski sebelumnya ...",
+      "topics": [
+        "politik",
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T22:52:08+07:00"
+    },
+    {
+      "id": "1af5fe91ebc7",
+      "title": "Pemerintahan Trump harapkan tim Iran hadiri Piala Dunia di AS",
+      "url": "https://www.antaranews.com/berita/5531717/pemerintahan-trump-harapkan-tim-iran-hadiri-piala-dunia-di-as",
+      "source": "antaranews.com",
+      "summary": "Pemerintahan Presiden AS Donald Trump mengharapkan tim nasional sepak bola Iran melakukan perjalanan ke Amerika Serikat ...",
+      "topics": [
+        "politik",
+        "olahraga",
+        "internasional"
+      ],
+      "published": "2026-04-17T22:51:08+07:00"
+    },
+    {
+      "id": "1fe2cdec55fd",
+      "title": "IPB libatkan mahasiswa tangani kasus pelecehan seksual",
+      "url": "https://www.antaranews.com/berita/5531712/ipb-libatkan-mahasiswa-tangani-kasus-pelecehan-seksual",
+      "source": "antaranews.com",
+      "summary": "Institut Pertanian Bogor (IPB) University melibatkan mahasiswa dalam penanganan kasus pelecehan seksual sebagai upaya ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T22:46:03+07:00"
+    },
+    {
+      "id": "e957263da1e6",
+      "title": "SAFF pecat pelatih timnas Arab Saudi jelang Piala Dunia 2026",
+      "url": "https://www.antaranews.com/berita/5531709/saff-pecat-pelatih-timnas-arab-saudi-jelang-piala-dunia-2026",
+      "source": "antaranews.com",
+      "summary": "Federasi Sepak Bola Arab Saudi (SAFF) memecat pelatih tim nasional, Herve Renard hanya kurang dari dua bulan sebelum ...",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-04-17T22:41:33+07:00"
+    },
+    {
+      "id": "de79a5592b31",
+      "title": "Pakar ingatkan revitalisasi Gedung Sate-Gasibu jangan hanya sesaat",
+      "url": "https://www.antaranews.com/berita/5531707/pakar-ingatkan-revitalisasi-gedung-sate-gasibu-jangan-hanya-sesaat",
+      "source": "antaranews.com",
+      "summary": "Guru Besar Fakultas Teknik Sipil dan Lingkungan (FTSL) ITB Harun Al Rasyid Lubis mewanti-wanti Pemerintah Provinsi Jawa ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T22:40:19+07:00"
+    },
+    {
+      "id": "5dcc26a860fb",
+      "title": "Psikolog: Sensitivitas sinyal diri butuh diperhatikan",
+      "url": "https://www.antaranews.com/berita/5531705/psikolog-sensitivitas-sinyal-diri-butuh-diperhatikan",
+      "source": "antaranews.com",
+      "summary": "Psikolog Indah Sundari Jayanti menyampaikan sensitivitas merupakan sinyal bagi diri bahwa tubuh membutuhkan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T22:34:32+07:00"
+    },
+    {
+      "id": "868d0915cc9b",
+      "title": "Akademisi sebut IKN dan Kertajati cerminan krisis budaya perencanaan",
+      "url": "https://www.antaranews.com/berita/5531704/akademisi-sebut-ikn-dan-kertajati-cerminan-krisis-budaya-perencanaan",
+      "source": "antaranews.com",
+      "summary": "Guru Besar Fakultas Teknik Sipil dan Lingkungan (FTSL) Institut Teknologi Bandung (ITB) Harun Al Rasyid Lubis menilai ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T22:31:14+07:00"
+    },
+    {
+      "id": "97839789d39f",
+      "title": "Menteri PKP pastikan lahan untuk rusun di Tanah Abang milik negara",
+      "url": "https://www.antaranews.com/video/5531675/menteri-pkp-pastikan-lahan-untuk-rusun-di-tanah-abang-milik-negara",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Menteri Perumahan dan Kawasan Permukiman (PKP) Maruarar Sirait memastikan tiga kawasan lahan di Tanah Abang ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T22:28:54+07:00"
+    },
+    {
+      "id": "8cd237344e34",
+      "title": "KPKP Kepulauan Seribu cegah penyebaran rabies di Pulau Sabira",
+      "url": "https://www.antaranews.com/berita/5531700/kpkp-kepulauan-seribu-cegah-penyebaran-rabies-di-pulau-sabira",
+      "source": "antaranews.com",
+      "summary": "Suku Dinas Ketahanan Pangan, Kelautan, dan Pertanian (KPKP) Kepulauan Seribu mencegah penyebaran penyakit rabies di ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T22:28:30+07:00"
+    },
+    {
+      "id": "d534f5765a1a",
+      "title": "Puslabfor temukan cairan mudah terbakar dalam kebakaran yang tewaskan satu keluarga",
+      "url": "https://www.antaranews.com/berita/5531696/puslabfor-temukan-cairan-mudah-terbakar-dalam-kebakaran-yang-tewaskan-satu-keluarga",
+      "source": "antaranews.com",
+      "summary": "Tim Pusat Laboratorium Forensik (Puslabfor) dan Polres Metro Jakarta Barat menemukan thinner atau cairan pengencer cat ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T22:25:38+07:00"
+    },
+    {
+      "id": "a0dd147dd4bd",
+      "title": "Raih KWP Award 2026, Sarmuji komitmen terus serap aspirasi rakyat",
+      "url": "https://www.antaranews.com/berita/5531692/raih-kwp-award-2026-sarmuji-komitmen-terus-serap-aspirasi-rakyat",
+      "source": "antaranews.com",
+      "summary": "Ketua Fraksi Partai Golkar DPR RI Muhammad Sarmuji berkomitmen akan terus menyerap dan memperjuangkan aspirasi rakyat ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-04-17T22:24:58+07:00"
+    },
+    {
+      "id": "a70d40465442",
+      "title": "Ronaldo Nazario tidak sabar nikmati atmosfer GBK",
+      "url": "https://www.antaranews.com/berita/5531688/ronaldo-nazario-tidak-sabar-nikmati-atmosfer-gbk",
+      "source": "antaranews.com",
+      "summary": "Legenda tim nasional Brasil Ronaldo Nazario tidak sabar menikmati atmosfer Gelora Bung Karno, Jakarta dalam ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T22:24:23+07:00"
+    },
+    {
+      "id": "86670c0a3ed9",
+      "title": "Polres Jakpus tangkap penjual obat terlarang berkedok toko ikan hias",
+      "url": "https://www.antaranews.com/berita/5531687/polres-jakpus-tangkap-penjual-obat-terlarang-berkedok-toko-ikan-hias",
+      "source": "antaranews.com",
+      "summary": "Polres Metro Jakarta Pusat menangkap seorang penjual obat terlarang yang berkedok sebagai toko penjual ikan hias dengan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-04-17T22:23:39+07:00"
+    },
+    {
+      "id": "47729aa44f74",
+      "title": "Bank Jago integrasikan pemantauan portofolio dalam satu aplikasi",
+      "url": "https://www.antaranews.com/berita/5531684/bank-jago-integrasikan-pemantauan-portofolio-dalam-satu-aplikasi",
+      "source": "antaranews.com",
+      "summary": "PT Bank Jago Tbk menghadirkan tampilan terintegrasi yang memungkinkan nasabah memantau seluruh portofolio investasi ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-04-17T22:23:28+07:00"
+    },
+    {
+      "id": "0f115505cf2f",
+      "title": "China uraikan prioritas kebijakan untuk perkuat ketangguhan ekonomi",
+      "url": "https://www.antaranews.com/berita/5531683/china-uraikan-prioritas-kebijakan-untuk-perkuat-ketangguhan-ekonomi",
+      "source": "antaranews.com",
+      "summary": "Otoritas China pada Jumat menguraikan serangkaian prioritas kebijakan yang bertujuan untuk memperkuat momentum ekonomi, ...",
+      "topics": [
+        "ekonomi",
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T22:22:58+07:00"
+    },
+    {
+      "id": "5c044b54a60c",
+      "title": "Imigrasi periksa WNA Inggris intimidasi warga di Denpasar",
+      "url": "https://www.antaranews.com/berita/5531679/imigrasi-periksa-wna-inggris-intimidasi-warga-di-denpasar",
+      "source": "antaranews.com",
+      "summary": "Kantor Imigrasi Denpasar, Bali memeriksa seorang warga negara asing (WNA) asal Inggris berinisial TD yang dilaporkan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T22:21:08+07:00"
+    },
+    {
+      "id": "7e0a27f0e21e",
+      "title": "Madura United menang 1-2 di kandang Persebaya Surabaya",
+      "url": "https://www.antaranews.com/foto/5531676/madura-united-menang-1-2-di-kandang-persebaya-surabaya",
+      "source": "antaranews.com",
+      "summary": "Pesepak bola Persebaya Surabaya Arief Catur Pamungkas (kanan) berebut bola dengan pesepak bola Madura United Luiz ...",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-04-17T22:19:48+07:00"
+    },
+    {
+      "id": "8ad65426aa4b",
+      "title": "BUMD Leaders Forum, Pemprov DKI Jakarta Dorong Peran BUMD DKI Sebagai Pilar Ekonomi",
+      "url": "https://nasional.tempo.co/read/2098908/bumd-leaders-forum-pemprov-dki-jakarta-dorong-peran-bumd-dki-sebagai-pilar-ekonomi",
+      "source": "tempo.co/nasional",
+      "summary": "Pemerintah Provinsi DKI Jakarta, BP BUMD Provinsi DKI Jakarta, dan Bank Jakarta menggelar BUMD Leaders Forum 2026 untuk meningkatan peran BUMD sebagai pilar ekonomi pendukung Jakarta Kota Global.",
+      "topics": [
+        "ekonomi",
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T21:48:00+07:00"
+    },
+    {
+      "id": "5e4515e9ea56",
+      "title": "Gubernur Pramono Anung Dorong BUMD Jakarta Berani Ekspansi",
+      "url": "https://nasional.tempo.co/read/2098904/gubernur-pramono-anung-dorong-bumd-jakarta-berani-ekspansi",
+      "source": "tempo.co/nasional",
+      "summary": "Gubernur DKI Jakarta Pramono Anung berpesan agar BUMD Jakarta tidak hanya jago kendang, namun juga menguatkan peran sebagai pilar ekonomi Jakarta Global City.",
+      "topics": [
+        "ekonomi",
+        "politik",
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-04-17T21:36:00+07:00"
+    },
+    {
+      "id": "14862c44bead",
+      "title": "Pemprov DKI Jakarta Lanjutkan Insentif PBB-P2 Tahun 2026, Ringankan Beban Wajib Pajak",
+      "url": "https://nasional.tempo.co/read/2098901/pemprov-dki-jakarta-lanjutkan-insentif-pbb-p2-tahun-2026-ringankan-beban-wajib-pajak",
+      "source": "tempo.co/nasional",
+      "summary": "Pemerintah Provinsi DKI Jakarta kembali melanjutkan kebijakan insentif Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (PBB-P2) pada 2026.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-04-17T21:33:15+07:00"
+    },
     {
       "id": "c8e367f33bbc",
       "title": "Penguatan pelayanan RSUD Jayapura diapresiasi",
