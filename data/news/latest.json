@@ -1,9 +1,802 @@
 {
-  "updated": "2026-05-23T21:39:59.900443+07:00",
+  "updated": "2026-05-24T03:05:52.715023+07:00",
   "source": "RSS aggregator",
   "retention_days": 7,
-  "count": 1749,
+  "count": 1772,
   "items": [
+    {
+      "id": "20fe595e84c9",
+      "title": "Pemerintah Siapkan Badal Haji bagi Kakek Firdaus yang Wafat di Makkah, Ini Tata Cara dan Ketentuannya",
+      "url": "https://www.tribunnews.com/haji/7833438/pemerintah-siapkan-badal-haji-bagi-kakek-firdaus-yang-wafat-di-makkah-ini-tata-cara-ketentuannya",
+      "source": "tribunnews.com",
+      "summary": "PPIH Arab Saudi menyiapkan badal haji untuk jemaah asal Jakarta yang meninggal di Makkah setelah sempat dilaporkan hilang.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-24T02:19:57+07:00"
+    },
+    {
+      "id": "e48dc0350edc",
+      "title": "Barcelona juara Liga Champions Wanita 2025/2026",
+      "url": "https://www.antaranews.com/berita/5580147/barcelona-juara-liga-champions-wanita-2025-2026",
+      "source": "antaranews.com",
+      "summary": "Barcelona menjuarai Liga Champions Wanita 2025/26 setelah mengalahkan OL Lyonnes&nbsp;(Lyon) dengan skor telak 4-0 pada ...",
+      "topics": [
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-05-24T02:08:10+07:00"
+    },
+    {
+      "id": "b1aa07ab8a59",
+      "title": "Prakiraan Cuaca Sulawesi Barat Minggu, 24 Mei 2026: Waspada Hujan Lebat",
+      "url": "https://www.tribunnews.com/regional/7833437/prakiraan-cuaca-sulawesi-barat-minggu-24-mei-2026-waspada-hujan-lebat",
+      "source": "tribunnews.com",
+      "summary": "BMKG melaporkan prakiraan cuaca untuk wilayah Sulawesi Barat (Sulbar), Minggu (24/5/2026). Waspada hujan lebat di beberapa wilayah.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-24T02:00:20+07:00"
+    },
+    {
+      "id": "fd2ae291547b",
+      "title": "Update Klasemen Liga Italia: Main-main Inter Milan, Bologna Nyaris Bahagia",
+      "url": "https://www.tribunnews.com/superskor/7833436/update-klasemen-liga-italia-main-main-inter-milan-bologna-nyaris-bahagia",
+      "source": "tribunnews.com",
+      "summary": "Inter Milan bermain imbang 3-3 melawan Bologna yang nyaris memberikan kekalahan kepada Nerazzurri di pertandingan terakhir Liga Italia.",
+      "topics": [
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-05-24T01:38:49+07:00"
+    },
+    {
+      "id": "dd356b26743b",
+      "title": "Nathan Tjoe-A-On bawa Willem II promosi ke Eredivisie",
+      "url": "https://www.antaranews.com/berita/5580144/nathan-tjoe-a-on-bawa-willem-ii-promosi-ke-eredivisie",
+      "source": "antaranews.com",
+      "summary": "Pemain tim nasional&nbsp;Indonesia&nbsp;Nathan Tjoe-A-On membawa timnya&nbsp;Willem II Tilburg&nbsp;promosi ke Liga ...",
+      "topics": [
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-05-24T01:38:49+07:00"
+    },
+    {
+      "id": "3cd19b09da73",
+      "title": "Perang di Mana-mana, Prabowo Ungkap Alasan Indonesia Perlu Perkuat Pertahanan Nasional",
+      "url": "https://www.tribunnews.com/nasional/7833435/perang-di-mana-mana-prabowo-ungkap-alasan-indonesia-perlu-perkuat-pertahanan-nasional",
+      "source": "tribunnews.com",
+      "summary": "Prabowo menegaskan penguatan pertahanan, swasembada pangan, dan pengelolaan SDA demi menjaga kekayaan Indonesia.",
+      "topics": [
+        "internasional"
+      ],
+      "published": "2026-05-24T01:35:17+07:00"
+    },
+    {
+      "id": "9b3eb4c8af1a",
+      "title": "George Russell menangi sprint race GP Kanada 2026",
+      "url": "https://www.antaranews.com/berita/5580143/george-russell-menangi-sprint-race-gp-kanada-2026",
+      "source": "antaranews.com",
+      "summary": "Pembalap Mercedes, George Russell&nbsp;memenangi sprint&nbsp;race Formula 1 GP&nbsp;Kanada 2026 setelah memenangi duel ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-24T01:27:44+07:00"
+    },
+    {
+      "id": "ea34f1ddbfe3",
+      "title": "Imran Nahumarury bertekad bawa Semen Padang kembali ke Super League",
+      "url": "https://www.antaranews.com/berita/5580139/imran-nahumarury-bertekad-bawa-semen-padang-kembali-ke-super-league",
+      "source": "antaranews.com",
+      "summary": "Pelatih Semen Padang Imran Nahumarury bertekad untuk membawa timnya kembali ke Super League pada kesempatan berikutnya ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-24T01:18:50+07:00"
+    },
+    {
+      "id": "6265e6b43971",
+      "title": "Kalah dari Taoyuan, Dewa United kehilangan momentum",
+      "url": "https://www.antaranews.com/berita/5580135/kalah-dari-taoyuan-dewa-united-kehilangan-momentum",
+      "source": "antaranews.com",
+      "summary": "Pelatih Dewa United Banten Agusti Julbe Bosch mengatakan timnya kehilangan momentum pada dua kuarter terakhir sehingga ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-24T01:12:17+07:00"
+    },
+    {
+      "id": "2f21095ea7a4",
+      "title": "Meraup Berkah dari Bawang Goreng, Saryati Sulap Hasil Pertanian Tembus Swalayan",
+      "url": "https://www.tribunnews.com/bisnis/7833434/meraup-berkah-dari-bawang-goreng-saryati-sulap-hasil-pertanian-tembus-swalayan",
+      "source": "tribunnews.com",
+      "summary": "Berawal dari ditawari hasil pertanian, Saryati bisa mengembangkan usaha bawang gorengnya hingga bisa dijual di swalayan",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-24T01:08:24+07:00"
+    },
+    {
+      "id": "23561fd3d639",
+      "title": "Spalletti tak akan mundur meski Juventus gagal ke Liga Champions",
+      "url": "https://www.antaranews.com/berita/5580131/spalletti-tak-akan-mundur-meski-juventus-gagal-ke-liga-champions",
+      "source": "antaranews.com",
+      "summary": "Pelatih Juventus&nbsp;Luciano Spalletti menegaskan dia tidak pernah berpikir untuk mundur dari posisinya meski ...",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-05-24T01:05:07+07:00"
+    },
+    {
+      "id": "2ca3f2642138",
+      "title": "Arthur Fils mundur dari Roland Garros 2026",
+      "url": "https://www.antaranews.com/berita/5580129/arthur-fils-mundur-dari-roland-garros-2026",
+      "source": "antaranews.com",
+      "summary": "Petenis tunggal putra asal Prancis Arthur Fils mengumumkan pengunduran dirinya dari French Open atau&nbsp;Roland Garros ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-24T00:46:28+07:00"
+    },
+    {
+      "id": "cc287ef60404",
+      "title": "Bunga Rafflesia arnoldii ditemukan mekar sempurna di Rejang Lebong",
+      "url": "https://www.antaranews.com/berita/5580128/bunga-rafflesia-arnoldii-ditemukan-mekar-sempurna-di-rejang-lebong",
+      "source": "antaranews.com",
+      "summary": "Bunga langka Rafflesia arnoldii ditemukan mekar sempurna di areal perkebunan warga Desa Cawang Lama, Kecamatan Selupu ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-24T00:41:58+07:00"
+    },
+    {
+      "id": "8d156cc19d70",
+      "title": "Maurico sebut dirinya dan manajemen Persija tertarik lanjutkan kontrak",
+      "url": "https://www.antaranews.com/berita/5580124/maurico-sebut-dirinya-dan-manajemen-persija-tertarik-lanjutkan-kontrak",
+      "source": "antaranews.com",
+      "summary": "Pelatih Persija Mauricio Souza menyebut dirinya dan manajemen klub Persija Jakarta sama-sama tertarik melanjutkan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-24T00:40:50+07:00"
+    },
+    {
+      "id": "2183ccc0816c",
+      "title": "TNI AL perkuat kerja sama dengan Angkatan Laut Jepang",
+      "url": "https://www.antaranews.com/berita/5580120/tni-al-perkuat-kerja-sama-dengan-angkatan-laut-jepang",
+      "source": "antaranews.com",
+      "summary": "TNI AL melalui Komando Daerah Angkatan Laut (Kodaeral) III memperkuat hubungan diplomasi dan kerja sama militer dengan ...",
+      "topics": [
+        "internasional"
+      ],
+      "published": "2026-05-24T00:40:37+07:00"
+    },
+    {
+      "id": "30de0a2141bd",
+      "title": "Bruno Fernandes Pemain Terbaik Liga Inggris 2025/2026",
+      "url": "https://www.antaranews.com/berita/5580117/bruno-fernandes-pemain-terbaik-liga-inggris-2025-2026",
+      "source": "antaranews.com",
+      "summary": "Kapten sekaligus gelandang&nbsp;Manchester United Bruno Fernandes meraih penghargaan bergengsi Pemain Terbaik Liga ...",
+      "topics": [
+        "ekonomi",
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-05-24T00:35:03+07:00"
+    },
+    {
+      "id": "2288ea04037d",
+      "title": "Seskab Teddy: CEO GoTo Komitmen Terapkan Kebijakan Prabowo Soal Pendapatan Pengemudi Gojek",
+      "url": "https://www.tribunnews.com/bisnis/7833433/seskab-teddy-ceo-goto-komitmen-terapkan-kebijakan-prabowo-soal-pendapatan-pengemudi-gojek",
+      "source": "tribunnews.com",
+      "summary": "Pemerintah dan GoTo membahas peningkatan kesejahteraan driver online, termasuk kenaikan pendapatan hingga 92 persen.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-24T00:30:20+07:00"
+    },
+    {
+      "id": "768895c4fe05",
+      "title": "HLIOS rumuskan solusi hukum adaptif hadapi tantangan kesehatan global",
+      "url": "https://www.antaranews.com/berita/5580115/hlios-rumuskan-solusi-hukum-adaptif-hadapi-tantangan-kesehatan-global",
+      "source": "antaranews.com",
+      "summary": "Universitas Katolik (Unika) Soegijapranata Semarang menggelar The 4th Health Law International Online Seminar (HLIOS) ...",
+      "topics": [
+        "sosial",
+        "internasional"
+      ],
+      "published": "2026-05-24T00:26:55+07:00"
+    },
+    {
+      "id": "1b18e39966b3",
+      "title": "Kesatria tumbangkan Hornbills pada laga pertama playoff IBL 2026",
+      "url": "https://www.antaranews.com/berita/5580111/kesatria-tumbangkan-hornbills-pada-laga-pertama-playoff-ibl-2026",
+      "source": "antaranews.com",
+      "summary": "Kesatria Bengawan Solo menumbangkan Bogor Hornbills&nbsp;dengan skor tipis 82-81 di kandang sendiri, Sritex Arena, ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-24T00:23:42+07:00"
+    },
+    {
+      "id": "f862b3b3a42f",
+      "title": "Fadli Zon minta anak muda ikut lestarikan keris",
+      "url": "https://www.antaranews.com/video/5580105/fadli-zon-minta-anak-muda-ikut-lestarikan-keris",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Menteri Kebudayaan Fadli Zon menegaskan bahwa keris bukan sekadar benda koleksi, melainkan manifestasi ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-05-24T00:20:05+07:00"
+    },
+    {
+      "id": "deb292e9684b",
+      "title": "Knicks unggul 2-0, Cavaliers ingin curi kemenangan di kandang",
+      "url": "https://www.antaranews.com/berita/5580109/knicks-unggul-2-0-cavaliers-ingin-curi-kemenangan-di-kandang",
+      "source": "antaranews.com",
+      "summary": "Cleveland Cavaliers ingin mencuri kemenangan di kandangnya,&nbsp;Rocket Arena, Cleveland, Minggu (24/5) WIB, pada laga ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-24T00:17:44+07:00"
+    },
+    {
+      "id": "1daa9a0012e4",
+      "title": "Sensasi simulasi tempur ala komunitas airsoft Purwokerto",
+      "url": "https://www.antaranews.com/video/5580108/sensasi-simulasi-tempur-ala-komunitas-airsoft-purwokerto",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Heat Airsoft Club Purwokerto menjadi satu-satunya komunitas airsoft resmi di Banyumas yang rutin menggelar ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-24T00:13:48+07:00"
+    },
+    {
+      "id": "605debb72f8f",
+      "title": "Hadiah Besar Lain Digenggam Persib Bandung, Maung Bandung Tembus Kompetisi LCA 2",
+      "url": "https://www.tribunnews.com/superskor/7833432/hadiah-besar-lain-digenggam-persib-bandung-maung-bandung-tembus-kompetisi-lca-2",
+      "source": "tribunnews.com",
+      "summary": "Persib Bandung akan kembali mewakili Indonesia tampil di Liga Champions Asia 2 musim depan, sedangkan Borneo FC tampil di AFC Challenge League",
+      "topics": [
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-05-24T00:04:35+07:00"
+    },
+    {
+      "id": "270fc076ff42",
+      "title": "Pojok Rupiah dan Pemkot Palu kampanye kemanusiaan HIV/AIDS",
+      "url": "https://www.antaranews.com/berita/5580103/pojok-rupiah-dan-pemkot-palu-kampanye-kemanusiaan-hiv-aids",
+      "source": "antaranews.com",
+      "summary": "Komunitas Pojok Rupiah dan Pemerintah Kota (Pemkot) Palu, Sulawesi Tengah menggencarkan kampanye kemanusiaan HIV/AIDS ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-05-23T23:59:35+07:00"
+    },
+    {
+      "id": "8a8104663597",
+      "title": "Persebaya akhiri kompetisi dengan pesta gol ke gawang Persik",
+      "url": "https://www.antaranews.com/video/5580096/persebaya-akhiri-kompetisi-dengan-pesta-gol-ke-gawang-persik",
+      "source": "antaranews.com",
+      "summary": "ANTARA -&nbsp;Persebaya Surabaya menutup musim Liga Super Indonesia 2025/2026 dengan kemenangan telak lima gol tanpa ...",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-05-23T23:58:14+07:00"
+    },
+    {
+      "id": "b00fe849c82b",
+      "title": "Sampai di Solo, Biksu Thudong kunjungi Pura Mangkunegaran",
+      "url": "https://www.antaranews.com/video/5580095/sampai-di-solo-biksu-thudong-kunjungi-pura-mangkunegaran",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Puluhan Biksu Thudong dari empat negara Asia Tenggara tiba di Solo, Sabtu (23/5). Pada kesempatan ini mereka ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-23T23:50:10+07:00"
+    },
+    {
+      "id": "0a9a4e60b9e5",
+      "title": "BI NTT gandeng Dee Lestari kembangkan literasi daerah",
+      "url": "https://www.antaranews.com/berita/5580099/bi-ntt-gandeng-dee-lestari-kembangkan-literasi-daerah",
+      "source": "antaranews.com",
+      "summary": "Kantor Perwakilan Bank Indonesia Nusa Tenggara Timur (NTT) menggandeng novelis Dewi Lestari, yang dikenal dengan Dee ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-23T23:47:23+07:00"
+    },
+    {
+      "id": "5a2656153f5a",
+      "title": "Persib pastikan hattrick juara usai imbang lawan Persijap",
+      "url": "https://www.antaranews.com/video/5580084/persib-pastikan-hattrick-juara-usai-imbang-lawan-persijap",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Persib Bandung memastikan gelar juara BRI Super League 2025/2026 usai bermain imbang tanpa gol melawan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-23T23:40:25+07:00"
+    },
+    {
+      "id": "0087610016ba",
+      "title": "Pemprov NTT gelar Job Fair dengan lebih dari 10 ribu lowongan",
+      "url": "https://www.antaranews.com/video/5580073/pemprov-ntt-gelar-job-fair-dengan-lebih-dari-10-ribu-lowongan",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Dinas Ketenagakerjaan dan Transmigrasi Provinsi Nusa Tenggara Timur menyediakan 10.302 ribu lowongan kerja ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-23T23:29:19+07:00"
+    },
+    {
+      "id": "42bb268261b8",
+      "title": "Kondisi Ekonomi Indonesia Tak Bisa Hanya Dibaca dari Nilai Tukar Rupiah",
+      "url": "https://www.tribunnews.com/tribunners/7833431/kondisi-ekonomi-indonesia-tak-bisa-hanya-dibaca-dari-nilai-tukar-rupiah",
+      "source": "tribunnews.com",
+      "summary": "28 tahun Reformasi, rupiah melemah Rp17.717 per dolar AS, namun fundamental ekonomi Indonesia tetap positif dengan pertumbuhan 5,61%.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-05-23T23:29:08+07:00"
+    },
+    {
+      "id": "5e5438c7fe1d",
+      "title": "Momen Mbah Marsiyah Pertama Kali Lihat Ka'bah: Sudah Diharapkan Sejak Lama",
+      "url": "https://www.tribunnews.com/haji/7833430/momen-mbah-marsiyah-pertama-kali-lihat-kabah-sudah-diharapkan-sejak-lama",
+      "source": "tribunnews.com",
+      "summary": "Mbah Marsiyah, jemaah haji tertua Indonesia usia 104 tahun, akhirnya melihat Ka’bah usai menabung dari jualan bubur sumsum.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-23T23:28:36+07:00"
+    },
+    {
+      "id": "d28d87582277",
+      "title": "Operasi hitungan menit, empat pengedar narkoba di Palu dibekuk",
+      "url": "https://www.antaranews.com/berita/5580091/operasi-hitungan-menit-empat-pengedar-narkoba-di-palu-dibekuk",
+      "source": "antaranews.com",
+      "summary": "Satuan Reserse Narkoba (Satresnarkoba) Polresta Palu, Sulawesi Tengah, membekuk empat pria terduga pelaku ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-23T23:25:59+07:00"
+    },
+    {
+      "id": "f4ee0f1264eb",
+      "title": "Polres pastikan perayaan juara Persib di Kota Cirebon kondusif",
+      "url": "https://www.antaranews.com/berita/5580087/polres-pastikan-perayaan-juara-persib-di-kota-cirebon-kondusif",
+      "source": "antaranews.com",
+      "summary": "Kepolisian Resor (Polres) Cirebon Kota memastikan perayaan kemenangan Persib Bandung sebagai juara kompetisi sepak bola ...",
+      "topics": [
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-05-23T23:24:32+07:00"
+    },
+    {
+      "id": "7f235276dfd0",
+      "title": "Shanghai dan Antwerp sempurna di World Tour 3x3 Shanghai 2026",
+      "url": "https://www.antaranews.com/berita/5580080/shanghai-dan-antwerp-sempurna-di-world-tour-3x3-shanghai-2026",
+      "source": "antaranews.com",
+      "summary": "Tim Shanghai dan Antwerp mengawali&nbsp;FIBA&nbsp;3x3 World Tour Shanghai 2026 di Chongming Wanda Plaza, Shanghai, ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-23T23:19:36+07:00"
+    },
+    {
+      "id": "7f11560663a0",
+      "title": "Waktunya Persib Bandung Rayakan Gelar, Eliano Reijnders: di Sini Lebih Gila dari Eropa",
+      "url": "https://www.tribunnews.com/superskor/7833429/waktunya-persib-bandung-rayakan-gelar-eliano-reijnders-di-sini-lebih-gila-dari-eropa",
+      "source": "tribunnews.com",
+      "summary": "Pemain Persib Bandung, Eliano Reijnders, kagum dengan perayaan gelar juara timnya yang disebut lebih gila daripada di Eropa.",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-05-23T23:16:38+07:00"
+    },
+    {
+      "id": "ec4019a3ef56",
+      "title": "Dikalahkan wakil Taiwan, Dewa United gagal ke final BCL Asia-East 2026",
+      "url": "https://www.antaranews.com/berita/5580076/dikalahkan-wakil-taiwan-dewa-united-gagal-ke-final-bcl-asia-east-2026",
+      "source": "antaranews.com",
+      "summary": "Dewa United Banten ke perebutan tempat ketiga&nbsp;Basketball Champions League (BCL) Asia-East 2026 setelah kalah ...",
+      "topics": [
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-05-23T23:15:50+07:00"
+    },
+    {
+      "id": "f836df1039f8",
+      "title": "Polda Sumut intensifkan patroli di daerah yang alami pemadaman listrik",
+      "url": "https://www.antaranews.com/berita/5580071/polda-sumut-intensifkan-patroli-di-daerah-yang-alami-pemadaman-listrik",
+      "source": "antaranews.com",
+      "summary": "Kepolisian Daerah (Polda) Sumatera Utara mengintensifkan patroli malam di sejumlah daerah yang masih mengalami ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-23T23:12:45+07:00"
+    },
+    {
+      "id": "4f12140ef233",
+      "title": "Pemeran Warkop DKI: Viralin Dong! ceritakan tantangan selama syuting",
+      "url": "https://www.antaranews.com/berita/5580067/pemeran-warkop-dki-viralin-dong-ceritakan-tantangan-selama-syuting",
+      "source": "antaranews.com",
+      "summary": "Jajaran pemeran film berjudul &quot;Warkop DKI: Viralin Dong!&quot; menceritakan tantangan yang dihadapi selama syuting ...",
+      "topics": [
+        "hiburan"
+      ],
+      "published": "2026-05-23T23:10:23+07:00"
+    },
+    {
+      "id": "5654ac0c6c3c",
+      "title": "Bank BJB raih sejumlah penghargaan dalam ajang Infobank 2026",
+      "url": "https://www.antaranews.com/berita/5580064/bank-bjb-raih-sejumlah-penghargaan-dalam-ajang-infobank-2026",
+      "source": "antaranews.com",
+      "summary": "PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk (bank bjb) meraih sejumlah penghargaan dalam ajang 15th ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-05-23T23:09:07+07:00"
+    },
+    {
+      "id": "f3eb857c5161",
+      "title": "Bojan Hodak: Pertahanan jadi kunci Persib hattrick juara liga",
+      "url": "https://www.antaranews.com/berita/5580060/bojan-hodak-pertahanan-jadi-kunci-persib-hattrick-juara-liga",
+      "source": "antaranews.com",
+      "summary": "Pelatih Persib Bandung, Bojan Hodak, mengatakan&nbsp;lini pertahanan yang konsisten menjadi faktor utama keberhasilan ...",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-05-23T23:06:22+07:00"
+    },
+    {
+      "id": "a2d4952b984c",
+      "title": "Akses Pendidikan Belum Merata, Yudi Latif Ingatkan Bahaya Elite Akademik",
+      "url": "https://www.tribunnews.com/pendidikan/7833428/akses-pendidikan-belum-merata-yudi-latif-ingatkan-bahaya-elite-akademik",
+      "source": "tribunnews.com",
+      "summary": "Yudi Latif menilai meritokrasi pendidikan tanpa pemerataan akses berisiko melahirkan elite baru dan memperlebar ketimpangan.",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-05-23T23:05:05+07:00"
+    },
+    {
+      "id": "c102547f9094",
+      "title": "Ditjen Imigrasi buka layanan paspor CFD di Sudirman pada Minggu",
+      "url": "https://www.antaranews.com/berita/5580057/ditjen-imigrasi-buka-layanan-paspor-cfd-di-sudirman-pada-minggu",
+      "source": "antaranews.com",
+      "summary": "Direkorat Jenderal (Ditjen) Imigrasi, Kementerian Imigrasi dan Pemasyarakatan (Kemenimipas) kembali menghadirkan ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-05-23T23:02:07+07:00"
+    },
+    {
+      "id": "b2a19cfc1b84",
+      "title": "Memaknai Ulang Pertumbuhan 5,61 Persen: Dari Perdebatan Angka Menuju Penguatan Fondasi Ekonomi",
+      "url": "https://www.tribunnews.com/tribunners/7833427/memaknai-ulang-pertumbuhan-561-persen-dari-perdebatan-angka-menuju-penguatan-fondasi-ekonomi",
+      "source": "tribunnews.com",
+      "summary": "Ekonomi Indonesia tumbuh 5,61% yoy di Kuartal I 2026, ditopang konsumsi, fiskal, dan program sosial seperti Makan Bergizi Gratis.",
+      "topics": [
+        "ekonomi",
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-05-23T22:59:47+07:00"
+    },
+    {
+      "id": "efb2fe576aac",
+      "title": "Menbud dorong masyarakat lihat keris sebagai warisan budaya",
+      "url": "https://www.antaranews.com/berita/5580053/menbud-dorong-masyarakat-lihat-keris-sebagai-warisan-budaya",
+      "source": "antaranews.com",
+      "summary": "Menteri Kebudayaan Fadli Zon mendorong masyarakat untuk melihat keris sebagai warisan budaya dan karya seni ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-05-23T22:56:08+07:00"
+    },
+    {
+      "id": "4a423499c7a5",
+      "title": "LIMA Unifest padukan olahraga mahasiswa dan seni",
+      "url": "https://www.antaranews.com/berita/5580052/lima-unifest-padukan-olahraga-mahasiswa-dan-seni",
+      "source": "antaranews.com",
+      "summary": "Gelaran LIMA Ubaya Unifest di Universitas Surabaya (Ubaya) memadukan olahraga mahasiswa dan seni hiburan melalui ...",
+      "topics": [
+        "olahraga",
+        "hiburan"
+      ],
+      "published": "2026-05-23T22:55:34+07:00"
+    },
+    {
+      "id": "0f5a59e73930",
+      "title": "Cekungan Bandung Menyongsong Era Bus Listrik, Siapkah Infrastruktur dan APBD?",
+      "url": "https://www.tribunnews.com/tribunners/7833426/cekungan-bandung-menyongsong-era-bus-listrik-siapkah-infrastruktur-dan-apbd",
+      "source": "tribunnews.com",
+      "summary": "Cekungan Bandung hadapi ketimpangan urbanisasi dan transportasi, BRT 684 km disiapkan untuk integrasi mobilitas berkelanjutan.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-23T22:50:03+07:00"
+    },
+    {
+      "id": "033d5884cf37",
+      "title": "Wagub Jabar minta Bobotoh tertib saat konvoi Juara Persib di Bandung",
+      "url": "https://www.antaranews.com/berita/5580045/wagub-jabar-minta-bobotoh-tertib-saat-konvoi-juara-persib-di-bandung",
+      "source": "antaranews.com",
+      "summary": "Wakil Gubernur Jawa Barat, Erwan Setiawan, mengimbau Bobotoh untuk tetap tertib dalam mengikuti konvoi perayaan juara ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-05-23T22:46:27+07:00"
+    },
+    {
+      "id": "95387e29b2a4",
+      "title": "Rute Konvoi Juara Persib Bandung, Minggu 24 Mei 2026, Saatnya Maung Berpesta!",
+      "url": "https://www.tribunnews.com/superskor/7833425/rute-konvoi-juara-persib-bandung-minggu-24-mei-2026-saatnya-maung-berpesta",
+      "source": "tribunnews.com",
+      "summary": "Persib Bandung direncanakan akan menggelar konvoi perayaan juara Super League pada Minggu 24 Mei 2026 dengan start dari Gedung Sate.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-23T22:42:43+07:00"
+    },
+    {
+      "id": "4cb1c57f07f3",
+      "title": "Warkop DKI: Viralin Dong siapkan lagu berjudul \"Ndokasin\"",
+      "url": "https://www.antaranews.com/berita/5580044/warkop-dki-viralin-dong-siapkan-lagu-berjudul-ndokasin",
+      "source": "antaranews.com",
+      "summary": "Tim produksi untuk film &quot;Warkop DKI: Viralin Dong!&quot; telah menyiapkan sebuah video musik untuk lagu penyerta ...",
+      "topics": [
+        "hiburan"
+      ],
+      "published": "2026-05-23T22:40:56+07:00"
+    },
+    {
+      "id": "1297519ce1ba",
+      "title": "Persija Tutup Kompetisi Super League dengan Kemenangan, Mauricio Souza Ungkap PR Musim Depan",
+      "url": "https://www.tribunnews.com/superskor/7833424/persija-tutup-kompetisi-super-league-dengan-kemenangan-mauricio-souza-ungkap-pr-musim-depan",
+      "source": "tribunnews.com",
+      "summary": "Persija tutup musim Super League 2025/2026 dengan kemenangan 3-0 atas Semen Padang, finis di posisi ketiga klasemen akhir.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-23T22:38:19+07:00"
+    },
+    {
+      "id": "b35d2eb4037e",
+      "title": "Kecelakaan mobil anggota DPR di Tol Paspro tewaskan 2 orang",
+      "url": "https://www.antaranews.com/berita/5580041/kecelakaan-mobil-anggota-dpr-di-tol-paspro-tewaskan-2-orang",
+      "source": "antaranews.com",
+      "summary": "Mobil anggota Komisi&nbsp;X DPR RI Muhammad Hilman Mufidi&nbsp;(Gus Hilman)&nbsp;mengalami kecelakaan di Tol ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-23T22:34:55+07:00"
+    },
+    {
+      "id": "b89fca01350a",
+      "title": "Ketum FORKABI kecam pelaksanaan Mubes ilegal di Depok",
+      "url": "https://www.antaranews.com/berita/5580037/ketum-forkabi-kecam-pelaksanaan-mubes-ilegal-di-depok",
+      "source": "antaranews.com",
+      "summary": "Ketua Umum (Ketum) DPP Forum Komunikasi Anak Betawi (FORKABI) periode 2021-2026 Abdul Ghoni mengecam pelaksanaan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-23T22:30:54+07:00"
+    },
+    {
+      "id": "96769707a05e",
+      "title": "Empat Bulan Jelang Asian Games 2026, Petinju Pangeran Februzio Matangkan Persiapan di JBL",
+      "url": "https://www.tribunnews.com/sport/7833423/empat-bulan-jelang-asian-games-2026-petinju-pangeran-februzio-matangkan-persiapan-di-jbl",
+      "source": "tribunnews.com",
+      "summary": "Petinju Bali Pangeran Februzio matangkan persiapan Asian Games 2026, tampil di Jakarta Boxing League sebagai ajang uji coba.",
+      "topics": [
+        "teknologi",
+        "hiburan"
+      ],
+      "published": "2026-05-23T22:30:27+07:00"
+    },
+    {
+      "id": "2fadae2beece",
+      "title": "Sejumlah tokoh nasional dapat penghargaan Unissula",
+      "url": "https://www.antaranews.com/berita/5580035/sejumlah-tokoh-nasional-dapat-penghargaan-unissula",
+      "source": "antaranews.com",
+      "summary": "Sejumlah tokoh nasional mendapat penghargaan dari Fakultas Hukum Universitas Islam Sultan Agung (Unissula) Semarang ...",
+      "topics": [
+        "ekonomi",
+        "sosial"
+      ],
+      "published": "2026-05-23T22:30:05+07:00"
+    },
+    {
+      "id": "8e16097d3d69",
+      "title": "ESDM minta PLN pacu pemulihan gangguan sistem listrik Sumatera",
+      "url": "https://www.antaranews.com/berita/5580033/esdm-minta-pln-pacu-pemulihan-gangguan-sistem-listrik-sumatera",
+      "source": "antaranews.com",
+      "summary": "Kementerian Energi dan Sumber Daya Mineral (ESDM) meminta PT PLN (persero) memastikan proses pemulihan pasokan listrik ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-05-23T22:28:12+07:00"
+    },
+    {
+      "id": "3c807a2fe8ad",
+      "title": "Mauricio Souza senang banyak pemain Persija perkuat timnas",
+      "url": "https://www.antaranews.com/berita/5580031/mauricio-souza-senang-banyak-pemain-persija-perkuat-timnas",
+      "source": "antaranews.com",
+      "summary": "Pelatih Persija Jakarta Mauricio Souza menyambut gembira banyak pemain asuhannya dipanggil memperkuat tim nasional ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-23T22:20:24+07:00"
+    },
+    {
+      "id": "4d16e88bf179",
+      "title": "Festival manusia patung Humanoid di Kota Tua sambut HUT ke-499 Jakarta",
+      "url": "https://www.antaranews.com/foto/5580029/festival-manusia-patung-humanoid-di-kota-tua-sambut-hut-ke-499-jakarta",
+      "source": "antaranews.com",
+      "summary": "Peserta manusia patung berpose saat Festival Humanoid Kota Tua Jakarta 2026 di Kota Tua, Jakarta, Sabtu (23/5/2026). ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-23T22:17:04+07:00"
+    },
+    {
+      "id": "0d90dabea2c0",
+      "title": "Mendag Jepang-China kembali komunikasi sejak perselisihan diplomatik",
+      "url": "https://www.antaranews.com/berita/5580025/mendag-jepang-china-kembali-komunikasi-sejak-perselisihan-diplomatik",
+      "source": "antaranews.com",
+      "summary": "Menteri Perdagangan Jepang Ryosei Akazawa pada Sabtu mengatakan telah berbicara dengan Menteri Perdagangan China Wang ...",
+      "topics": [
+        "politik",
+        "internasional"
+      ],
+      "published": "2026-05-23T22:14:17+07:00"
+    },
+    {
+      "id": "2d08e1c9ecb1",
+      "title": "Fadli Zon ingin generasi muda makin dekat dengan budaya keris",
+      "url": "https://www.antaranews.com/berita/5580021/fadli-zon-ingin-generasi-muda-makin-dekat-dengan-budaya-keris",
+      "source": "antaranews.com",
+      "summary": "Menteri Kebudayaan Fadli Zon mendorong generasi muda untuk semakin mengenal dan mengapresiasi keris melalui pendekatan ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-05-23T22:10:03+07:00"
+    },
+    {
+      "id": "fc577f8da360",
+      "title": "Mauricio Souza Belum Pastikan Masa Depannya Sebagai Pelatih Persija",
+      "url": "https://www.tribunnews.com/superskor/7833422/mauricio-souza-belum-pastikan-masa-depannya-sebagai-pelatih-persija",
+      "source": "tribunnews.com",
+      "summary": "Mauricio Souza belum pastikan masa depannya di Persija usai finis ketiga Super League 2025/2026, tunggu pembicaraan manajemen.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-23T22:08:37+07:00"
+    },
+    {
+      "id": "5cb909f241fd",
+      "title": "Pelatih Hangtuah sebut pemainnya bertanding tidak sesuai ritme tim",
+      "url": "https://www.antaranews.com/berita/5580019/pelatih-hangtuah-sebut-pemainnya-bertanding-tidak-sesuai-ritme-tim",
+      "source": "antaranews.com",
+      "summary": "Pelatih Hangtuah Jakarta Wahyu Widayat Jati menyebut para pemainnya bertanding tidak sesuai dengan ritme yang ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-23T22:05:45+07:00"
+    },
+    {
+      "id": "b153c98e1b69",
+      "title": "Vida Mengumumkan Pencatatan Tokenisasi Ekuitas (VIDAx) di xStocks Milik Payward",
+      "url": "https://www.antaranews.com/berita/5580015/vida-mengumumkan-pencatatan-tokenisasi-ekuitas-vidax-di-xstocks-milik-payward",
+      "source": "antaranews.com",
+      "summary": "Vida Global, Inc. (NYSE American: VIDA, NYSE Texas: VIDA (&quot;Vida&quot; atau &quot;Perusahaan&quot;) adalah Sistem ...",
+      "topics": [
+        "internasional"
+      ],
+      "published": "2026-05-23T22:02:29+07:00"
+    },
+    {
+      "id": "a85cff411eca",
+      "title": "Pemerintah upayakan repatriasi keris bersejarah dari luar negeri",
+      "url": "https://www.antaranews.com/berita/5580012/pemerintah-upayakan-repatriasi-keris-bersejarah-dari-luar-negeri",
+      "source": "antaranews.com",
+      "summary": "Menteri Kebudayaan Fadli Zon mengatakan bahwa pemerintah terus mengupayakan repatriasi keris-keris yang bersejarah dari ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-05-23T22:00:23+07:00"
+    },
+    {
+      "id": "fb2a4f111d43",
+      "title": "Adaptasi kebiasaan Orang Rimba akibat perubahan lingkungan",
+      "url": "https://www.antaranews.com/foto/5580011/adaptasi-kebiasaan-orang-rimba-akibat-perubahan-lingkungan",
+      "source": "antaranews.com",
+      "summary": "Tengganai Basemen (kiri) dan keluarga dari kelompok Orang Rimba membelah buah pinang yang dipanen di zona pemanfaatan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-23T22:00:22+07:00"
+    },
+    {
+      "id": "484b1d9eae1a",
+      "title": "Euforia Bobotoh pecah di GBLA setelah Persib hattrick juara liga",
+      "url": "https://www.antaranews.com/berita/5580008/euforia-bobotoh-pecah-di-gbla-setelah-persib-hattrick-juara-liga",
+      "source": "antaranews.com",
+      "summary": "Euforia puluhan ribu Bobotoh pecah di Stadion Gelora Bandung Lautan Api (GBLA), Bandung, setelah Persib g memastikan ...",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-05-23T21:59:49+07:00"
+    },
+    {
+      "id": "24586e45174f",
+      "title": "Dony Tri Pemain Muda Terbaik Super League 2025/2026, Pelatih Persija: Layak Main di Luar Negeri",
+      "url": "https://www.tribunnews.com/superskor/7833421/dony-tri-pemain-muda-terbaik-super-league-20252026-pelatih-persija-layak-main-di-luar-negeri",
+      "source": "tribunnews.com",
+      "summary": "Bek kiri muda Donny Tri Pamungkas dinobatkan sebagai pemain muda terbaik Super League 2025/2026, dipuji Mauricio Souza.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-05-23T21:58:29+07:00"
+    },
+    {
+      "id": "bbbef6923aa1",
+      "title": "Jadwal Final Malaysia Masters 2026: Goh/Nur Tumpuan Tuan Rumah, China dan Thailand Berebut Juara Umum",
+      "url": "https://www.tribunnews.com/sport/7833420/jadwal-final-malaysia-masters-2026-gohnur-tumpuan-tuan-rumah-china-thailand-berebut-juara-umum",
+      "source": "tribunnews.com",
+      "summary": "Jadwal final Malaysia Masters 2026 diwarnai aksi Goh/Nur serta duel ketat China dan Thailand dalam perebutan predikat juara umum, Minggu (24/5/2026).",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-05-23T21:54:44+07:00"
+    },
+    {
+      "id": "c3c414e379cd",
+      "title": "Mauricio Souza akui musim ini Persija tak optimal di kandang",
+      "url": "https://www.antaranews.com/berita/5580007/mauricio-souza-akui-musim-ini-persija-tak-optimal-di-kandang",
+      "source": "antaranews.com",
+      "summary": "Pelatih Persija Jakarta Mauricio Souza mengakui tim asuhannya tidak tampil optimal dalam laga kandang Super League pada ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-23T21:54:39+07:00"
+    },
+    {
+      "id": "1afafb01f9da",
+      "title": "KSP tinjau KNMP di Banyuasin untuk pastikan berjalan tepat sasaran",
+      "url": "https://www.antaranews.com/berita/5580003/ksp-tinjau-knmp-di-banyuasin-untuk-pastikan-berjalan-tepat-sasaran",
+      "source": "antaranews.com",
+      "summary": "Kantor Staf Presiden (KSP) meninjau kesiapan infrastruktur Kampung Nelayan Merah Putih (KNMP) Sungsang IV di Desa ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-05-23T21:52:17+07:00"
+    },
+    {
+      "id": "946bff7a71fb",
+      "title": "Fakta Baru Sidang Proyek Satelit Kemhan: Slot Orbit RI Diambil Asing karena Telat Luncurkan Satelit",
+      "url": "https://www.tribunnews.com/nasional/7833419/fakta-baru-sidang-proyek-satelit-kemhan-slot-orbit-ri-diambil-asing-karena-telat-luncurkan-satelit",
+      "source": "tribunnews.com",
+      "summary": "Keterlambatan peluncuran satelit bisa membuat Indonesia kehilangan slot orbit strategis.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-05-23T21:50:22+07:00"
+    },
     {
       "id": "afe26e77d86b",
       "title": "KSP verifikasi lapangan percepatan Tol Palembang-Jambi",
@@ -19406,541 +20199,6 @@
         "teknologi"
       ],
       "published": "2026-05-17T06:17:16+07:00"
-    },
-    {
-      "id": "16fe60bb39c1",
-      "title": "Gemerlap Surabaya Vaganza tumbuhkan perekonomian Kota Pahlawan",
-      "url": "https://www.antaranews.com/video/5570100/gemerlap-surabaya-vaganza-tumbuhkan-perekonomian-kota-pahlawan",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Parade bunga hias Surabaya Vaganza menambah gemerlap suasana Kota Pahlawan, Sabtu malam (16/5). Salah satu ...",
-      "topics": [
-        "ekonomi"
-      ],
-      "published": "2026-05-17T02:17:03+07:00"
-    },
-    {
-      "id": "10601404cacc",
-      "title": "Milangkala Tatar Sunda angkat aspek historis dan nilai kesundaan",
-      "url": "https://www.antaranews.com/video/5570099/milangkala-tatar-sunda-angkat-aspek-historis-dan-nilai-kesundaan",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Ribuan warga memadati kawasan Gedung Sate, Kota Bandung dalam rangkaian Milangkala Tatar Sunda, Sabtu (16/5). ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-05-17T01:44:08+07:00"
-    },
-    {
-      "id": "96d903537398",
-      "title": "Memperkuat budaya literasi melalui Deres Buku",
-      "url": "https://www.antaranews.com/video/5570095/memperkuat-budaya-literasi-melalui-deres-buku",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Komunitas Suluk Lamuk di Temanggung, Jawa Tengah, Sabtu (16/5), menggelar kegiatan bertajuk \"Deres Buku&rdquo; ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-17T01:24:19+07:00"
-    },
-    {
-      "id": "5ec7e1ddf1f4",
-      "title": "RI-Belarus matangkan roadmap jelang kunjungan Presiden Lukashenko",
-      "url": "https://www.antaranews.com/berita/5570097/ri-belarus-matangkan-roadmap-jelang-kunjungan-presiden-lukashenko",
-      "source": "antaranews.com",
-      "summary": "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto dan Menteri Luar Negeri Belarus Maxim Ryzhenkov melakukan ...",
-      "topics": [
-        "ekonomi",
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-05-17T01:22:12+07:00"
-    },
-    {
-      "id": "87878356f7bd",
-      "title": "Melihat keunikan Kawah Sikidang yang menyimpan kisah legenda",
-      "url": "https://www.antaranews.com/video/5570093/melihat-keunikan-kawah-sikidang-yang-menyimpan-kisah-legenda",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Objek wisata Kawah Sikidang di Banjarnegara, Jawa Tengah, menyimpan keunikan dan cerita legenda yang memikat ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-17T01:02:12+07:00"
-    },
-    {
-      "id": "04b1321aaa81",
-      "title": "Pemain pengganti berperan besar dalam kemenangan Persija atas Persik",
-      "url": "https://www.antaranews.com/berita/5570092/pemain-pengganti-berperan-besar-dalam-kemenangan-persija-atas-persik",
-      "source": "antaranews.com",
-      "summary": "Pelatih Persija Mauricio Souza mengatakan pergantian pemain yang dia lakukan pada babak kedua berperan besar dalam ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-05-17T00:35:26+07:00"
-    },
-    {
-      "id": "a4992123cbdb",
-      "title": "Jasamarga: 106.187 kendaraan menuju Tol Trans Jawa saat libur panjang",
-      "url": "https://www.antaranews.com/berita/5570091/jasamarga-106187-kendaraan-menuju-tol-trans-jawa-saat-libur-panjang",
-      "source": "antaranews.com",
-      "summary": "PT Jasamarga Transjawa Tol mencatat sebanyak 106.187 kendaraan melintasi ruas Tol Jakarta-Cikampek menuju wilayah Timur ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-17T00:31:29+07:00"
-    },
-    {
-      "id": "fb9e3bfdeebc",
-      "title": "ASDP perkuat akses wisata Danau Toba selama libur panjang",
-      "url": "https://www.antaranews.com/berita/5570088/asdp-perkuat-akses-wisata-danau-toba-selama-libur-panjang",
-      "source": "antaranews.com",
-      "summary": "PT ASDP Indonesia Ferry (Persero) memperkuat layanan penyeberangan di lintasan Ajibata&ndash;Ambarita, Danau Toba, ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-17T00:28:03+07:00"
-    },
-    {
-      "id": "9f73b556517c",
-      "title": "KAI group angkut 155,8 juta pelanggan skema layanan kereta PSO",
-      "url": "https://www.antaranews.com/berita/5570084/kai-group-angkut-1558-juta-pelanggan-skema-layanan-kereta-pso",
-      "source": "antaranews.com",
-      "summary": "PT Kereta Api Indonesia (Persero) Group mencatat mengangkut 155.809.294 pengguna melalui layanan kereta Public Service ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-05-17T00:19:08+07:00"
-    },
-    {
-      "id": "a89681e2b057",
-      "title": "Mentan sebut RI kian diperhitungkan usai ekspor pupuk ke Australia",
-      "url": "https://www.antaranews.com/berita/5570080/mentan-sebut-ri-kian-diperhitungkan-usai-ekspor-pupuk-ke-australia",
-      "source": "antaranews.com",
-      "summary": "Menteri Pertanian Andi Amran Sulaiman menyebut Indonesia semakin dipercaya dan diperhitungkan dalam menjaga stabilitas ...",
-      "topics": [
-        "ekonomi",
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-05-17T00:10:56+07:00"
-    },
-    {
-      "id": "8649737aa659",
-      "title": "Polda papua catat produksi jagung meningkat 264 persen pada 2026",
-      "url": "https://www.antaranews.com/video/5570077/polda-papua-catat-produksi-jagung-meningkat-264-persen-pada-2026",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Kepolisian Daerah Papua mencatat hasil panen jagung sepanjang Januari hingga Mei 2026 mencapai 64,35 ton atau ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-05-17T00:08:27+07:00"
-    },
-    {
-      "id": "1a3d0bbf0023",
-      "title": "Daftar juara Piala FA: Manchester City delapan kali",
-      "url": "https://www.antaranews.com/berita/5570073/daftar-juara-piala-fa-manchester-city-delapan-kali",
-      "source": "antaranews.com",
-      "summary": "Manchester City untuk kedelapan kalinya menjuarai Piala FA setelah menaklukkan Chelsea 1-0 dalam final di Stadion ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-05-16T23:58:23+07:00"
-    },
-    {
-      "id": "af32d6b961b2",
-      "title": "Sumsel United juarai EPA Championship U19",
-      "url": "https://www.antaranews.com/berita/5570071/sumsel-united-juarai-epa-championship-u19",
-      "source": "antaranews.com",
-      "summary": "Sumsel United U19 menjuarai kompetisi sepak bola usia muda Elite Pro Academy (EPA) Championship U19 setelah mengalahkan ...",
-      "topics": [
-        "teknologi",
-        "olahraga"
-      ],
-      "published": "2026-05-16T23:50:58+07:00"
-    },
-    {
-      "id": "1e15055b13c4",
-      "title": "Van Gastel ingin PSIM tutup laga kandang terakhir dengan kemenangan",
-      "url": "https://www.antaranews.com/berita/5570069/van-gastel-ingin-psim-tutup-laga-kandang-terakhir-dengan-kemenangan",
-      "source": "antaranews.com",
-      "summary": "Pelatih PSIM Yogyakarta Jean-Paul van Gastel ingin timnya menutup laga kandang terakhir mereka di BRI Super League ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-16T23:48:47+07:00"
-    },
-    {
-      "id": "697b8381c160",
-      "title": "Manchester City juara Piala FA setelah taklukkan Chelsea 1-0",
-      "url": "https://www.antaranews.com/berita/5570065/manchester-city-juara-piala-fa-setelah-taklukkan-chelsea-1-0",
-      "source": "antaranews.com",
-      "summary": "Manchester City keluar sebagai juara Piala FA&nbsp;setelah menaklukkan Chelsea 1-0 dalam final di Stadion Wembley pada ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-05-16T23:40:07+07:00"
-    },
-    {
-      "id": "60b01345cb3a",
-      "title": "Presiden Prabowo ziarah ke makam Marsinah di Nganjuk",
-      "url": "https://www.antaranews.com/video/5570063/presiden-prabowo-ziarah-ke-makam-marsinah-di-nganjuk",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Presiden Prabowo Subianto berziarah ke makam aktivis buruh yang juga pahlawan nasional Marsinah, usai ...",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-05-16T23:39:53+07:00"
-    },
-    {
-      "id": "2568865cb1ea",
-      "title": "Menteri Arifah: Paparan judi online ancaman serius tumbuh kembang anak",
-      "url": "https://www.antaranews.com/berita/5570059/menteri-arifah-paparan-judi-online-ancaman-serius-tumbuh-kembang-anak",
-      "source": "antaranews.com",
-      "summary": "Menteri Pemberdayaan Perempuan dan Perlindungan Anak Arifah Fauzi mengatakan meningkatnya paparan judi online pada anak ...",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-05-16T23:28:04+07:00"
-    },
-    {
-      "id": "a10a898eeb3e",
-      "title": "Polda Kaltara fokus benahi infrastruktur jaga stok jagung perbatasan",
-      "url": "https://www.antaranews.com/video/5570056/polda-kaltara-fokus-benahi-infrastruktur-jaga-stok-jagung-perbatasan",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Kepolisian Daerah Kalimantan Utara bersama Kepolisian Resor Tarakan mengikuti gerakan panen raya jagung ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-16T23:27:51+07:00"
-    },
-    {
-      "id": "f6d3ef100ee7",
-      "title": "IPC TPK Panjang perbesar kapasitas bongkar muat dukung arus logistik",
-      "url": "https://www.antaranews.com/berita/5570057/ipc-tpk-panjang-perbesar-kapasitas-bongkar-muat-dukung-arus-logistik",
-      "source": "antaranews.com",
-      "summary": "IPC Terminal Petikemas (IPC TPK) Area Panjang, bagian dari Pelindo Group memperbesar infrastruktur bongkar muat guna ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-16T23:27:26+07:00"
-    },
-    {
-      "id": "5138fcd542aa",
-      "title": "Prabowo sebut MBG dongkrak ekonomi desa, uang beredar capai Rp10,8 M",
-      "url": "https://www.antaranews.com/video/5570033/prabowo-sebut-mbg-dongkrak-ekonomi-desa-uang-beredar-capai-rp108-m",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Presiden Prabowo Subianto, menegaskan bahwa Program Makan Bergizi Gratis (MBG) menjadi penggerak baru ekonomi ...",
-      "topics": [
-        "ekonomi",
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-05-16T23:09:00+07:00"
-    },
-    {
-      "id": "5ad916189dfe",
-      "title": "Pejabat Eropa berunding dengan Garda Revolusi Iran soal Selat Hormuz",
-      "url": "https://www.antaranews.com/berita/5570052/pejabat-eropa-berunding-dengan-garda-revolusi-iran-soal-selat-hormuz",
-      "source": "antaranews.com",
-      "summary": "Perwakilan dari negara-negara Eropa telah memulai negosiasi dengan pasukan angkatan laut Korps Garda Revolusi Islam ...",
-      "topics": [
-        "teknologi",
-        "internasional"
-      ],
-      "published": "2026-05-16T23:04:17+07:00"
-    },
-    {
-      "id": "e8c2ff6fb426",
-      "title": "Prabowo tegaskan ketahanan pangan faktor utama keberlangsungan negara",
-      "url": "https://www.antaranews.com/video/5570027/prabowo-tegaskan-ketahanan-pangan-faktor-utama-keberlangsungan-negara",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Presiden RI Prabowo Subianto menegaskan ketahanan pangan menjadi faktor utama yang menentukan keberlangsungan ...",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-05-16T23:01:21+07:00"
-    },
-    {
-      "id": "d17fb11eb4b3",
-      "title": "Turki lanjutkan pembicaraan soal pengadaan jet F-35 dengan AS",
-      "url": "https://www.antaranews.com/berita/5570051/turki-lanjutkan-pembicaraan-soal-pengadaan-jet-f-35-dengan-as",
-      "source": "antaranews.com",
-      "summary": "Turki terus melakukan kontak dengan Amerika Serikat terkait pengadaan jet tempur F-35 dan berharap ada hasil positif ...",
-      "topics": [
-        "teknologi",
-        "internasional"
-      ],
-      "published": "2026-05-16T22:59:06+07:00"
-    },
-    {
-      "id": "4740db6255f3",
-      "title": "Persija bungkam Persik 3-1 di kandangnya",
-      "url": "https://www.antaranews.com/berita/5570048/persija-bungkam-persik-3-1-di-kandangnya",
-      "source": "antaranews.com",
-      "summary": "Persija membungkam tuan rumah Persik Kediri 3-1 dalam pertandingan Super League pekan ke-33 di Stadion Brawijaya Kota ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-16T22:56:07+07:00"
-    },
-    {
-      "id": "402acac014b9",
-      "title": "PM Anwar cerita perbaikan toilet sekolah Malaysia hingga Rp4,4 triliun",
-      "url": "https://www.antaranews.com/berita/5570045/pm-anwar-cerita-perbaikan-toilet-sekolah-malaysia-hingga-rp44-triliun",
-      "source": "antaranews.com",
-      "summary": "Perdana Menteri Malaysia Anwar Ibrahim bercerita tentang keputusannya memperjuangkan perbaikan toilet sekolah demi ...",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-05-16T22:53:17+07:00"
-    },
-    {
-      "id": "df0ca02c7723",
-      "title": "Menko Muhaimin: KDKMP instrumen penting berdayakan masyarakat desa",
-      "url": "https://www.antaranews.com/berita/5570041/menko-muhaimin-kdkmp-instrumen-penting-berdayakan-masyarakat-desa",
-      "source": "antaranews.com",
-      "summary": "Menteri Koordinator Bidang Pemberdayaan Masyarakat Abdul Muhaimin Iskandar mengatakan&nbsp;koperasi desa menjadi ...",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-05-16T22:53:16+07:00"
-    },
-    {
-      "id": "6faf18bc1a3d",
-      "title": "Iran rencanakan mekanisme baru untuk biaya transit Selat Hormuz",
-      "url": "https://www.antaranews.com/berita/5570037/iran-rencanakan-mekanisme-baru-untuk-biaya-transit-selat-hormuz",
-      "source": "antaranews.com",
-      "summary": "Iran telah menyusun mekanisme untuk mengatur lalu lintas maritim melalui rute khusus di Selat Hormuz dan akan ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-16T22:49:26+07:00"
-    },
-    {
-      "id": "a895f00034fb",
-      "title": "China akan beli pesawat dan mesin pesawat Amerika Serikat",
-      "url": "https://www.antaranews.com/berita/5570032/china-akan-beli-pesawat-dan-mesin-pesawat-amerika-serikat",
-      "source": "antaranews.com",
-      "summary": "Beijing dan Washington telah mencapai kesepakatan mengenai pembelian pesawat terbang, mesin pesawat, dan komponen ...",
-      "topics": [
-        "teknologi",
-        "internasional"
-      ],
-      "published": "2026-05-16T22:47:25+07:00"
-    },
-    {
-      "id": "da1bdfc14795",
-      "title": "Delapan orang tewas di Bangkok setelah kereta bertabrakan dengan bus",
-      "url": "https://www.antaranews.com/berita/5570029/delapan-orang-tewas-di-bangkok-setelah-kereta-bertabrakan-dengan-bus",
-      "source": "antaranews.com",
-      "summary": "Sedikitnya delapan orang tewas dan beberapa lainnya mengalami luka-luka di Bangkok, Thailand setelah sebuah kereta ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-05-16T22:41:16+07:00"
-    },
-    {
-      "id": "e5f4d0cf3208",
-      "title": "Carrick di ambang jadi pelatih permanen Manchester United",
-      "url": "https://www.antaranews.com/berita/5570023/carrick-di-ambang-jadi-pelatih-permanen-manchester-united",
-      "source": "antaranews.com",
-      "summary": "Manchester United melanjutkan negosiasi kontrak permanen dengan Michael Carrick untuk posisi kepala pelatih setelah ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-16T22:27:09+07:00"
-    },
-    {
-      "id": "30eb7c712e68",
-      "title": "Kemenhub sesuaikan fuel surcharge angkutan udara sikapi harga avtur",
-      "url": "https://www.antaranews.com/berita/5570021/kemenhub-sesuaikan-fuel-surcharge-angkutan-udara-sikapi-harga-avtur",
-      "source": "antaranews.com",
-      "summary": "Kementerian Perhubungan (Kemenhub) menyesuaikan besaran fuel surcharge angkutan udara guna merespons fluktuasi harga ...",
-      "topics": [
-        "ekonomi",
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-05-16T22:22:12+07:00"
-    },
-    {
-      "id": "4cb574b2c4e2",
-      "title": "Persis Solo taklukkan Dewa United 1-0",
-      "url": "https://www.antaranews.com/foto/5570017/persis-solo-taklukkan-dewa-united-1-0",
-      "source": "antaranews.com",
-      "summary": "Pesepak bola Persis Solo Luka Dumancic (kiri) berselebrasi bersama rekan-rekannya usai berhasil mencetak gol ke gawang ...",
-      "topics": [
-        "teknologi",
-        "olahraga"
-      ],
-      "published": "2026-05-16T22:19:43+07:00"
-    },
-    {
-      "id": "0b3a886c0017",
-      "title": "Prabowo minta Pindad desain mobil kepresidenan khusus sapa rakyat",
-      "url": "https://www.antaranews.com/berita/5570016/prabowo-minta-pindad-desain-mobil-kepresidenan-khusus-sapa-rakyat",
-      "source": "antaranews.com",
-      "summary": "Presiden Prabowo Subianto saat berpidato dalam acara peluncuran 1.061 gerai Koperasi Desa/Kelurahan Merah Putih di ...",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-05-16T22:17:39+07:00"
-    },
-    {
-      "id": "f6d46a95ae45",
-      "title": "Bupati Ciamis sebut KDMP untuk mendorong ekonomi dan kemandirian desa",
-      "url": "https://www.antaranews.com/berita/5570015/bupati-ciamis-sebut-kdmp-untuk-mendorong-ekonomi-dan-kemandirian-desa",
-      "source": "antaranews.com",
-      "summary": "Bupati Ciamis Herdiat Sunarya menyatakan, keberadaan Koperasi Desa/Kelurahan Merah Putih (KDMP) yang saat ini mulai ...",
-      "topics": [
-        "ekonomi",
-        "teknologi"
-      ],
-      "published": "2026-05-16T22:15:33+07:00"
-    },
-    {
-      "id": "14bdff50e008",
-      "title": "Gubernur Jatim sebut Museum Marsinah bisa jadi wisata edukatif",
-      "url": "https://www.antaranews.com/berita/5570011/gubernur-jatim-sebut-museum-marsinah-bisa-jadi-wisata-edukatif",
-      "source": "antaranews.com",
-      "summary": "Gubernur Jawa Timur Khofifah Indar Parawansa menyebut Museum Marsinah bisa dimanfaatkan menjadi destinasi wisata ...",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-05-16T22:13:04+07:00"
-    },
-    {
-      "id": "90752088ebd4",
-      "title": "Pemprov Jateng: Produksi padi capai 4,16 juta ton GKG",
-      "url": "https://www.antaranews.com/berita/5570008/pemprov-jateng-produksi-padi-capai-416-juta-ton-gkg",
-      "source": "antaranews.com",
-      "summary": "Pemerintah Provinsi Jawa Tengah menyebutkan bahwa produksi padi hingga awal April 2026 di wilayah tersebut telah ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-05-16T22:12:12+07:00"
-    },
-    {
-      "id": "976ee5738e5b",
-      "title": "Anggota DPR desak polisi tangkap pelaku penyekapan wanita di Makassar",
-      "url": "https://www.antaranews.com/berita/5570005/anggota-dpr-desak-polisi-tangkap-pelaku-penyekapan-wanita-di-makassar",
-      "source": "antaranews.com",
-      "summary": "Anggota DPR RI Meity Rahmatia mendesak aparat kepolisian menangkap pelaku kekerasan seksual terhadap seorang perempuan ...",
-      "topics": [
-        "sosial"
-      ],
-      "published": "2026-05-16T22:09:35+07:00"
-    },
-    {
-      "id": "8f22206e37f0",
-      "title": "Prabowo sebut dana kedaulatan Indonesia di atas Singapura hingga Qatar",
-      "url": "https://www.antaranews.com/video/5570000/prabowo-sebut-dana-kedaulatan-indonesia-di-atas-singapura-hingga-qatar",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Presiden Prabowo Subianto menyebut dana kedaulatan Indonesia atau&nbsp;Sovereign Wealth Fund (SWF) yang ...",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-05-16T22:04:40+07:00"
-    },
-    {
-      "id": "71788f399b85",
-      "title": "Koster jadwalkan undang konjen di Bali minta dukungan PWA",
-      "url": "https://www.antaranews.com/berita/5570004/koster-jadwalkan-undang-konjen-di-bali-minta-dukungan-pwa",
-      "source": "antaranews.com",
-      "summary": "Gubernur Bali Wayan Koster menjadwalkan pertemuan dengan seluruh konsul jenderal (konjen) di Bali untuk meminta ...",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-05-16T22:04:25+07:00"
-    },
-    {
-      "id": "88c27903554a",
-      "title": "PPIH mantapkan skema murur bagi jamaah calon haji lansia dan risti",
-      "url": "https://www.antaranews.com/berita/5570003/ppih-mantapkan-skema-murur-bagi-jamaah-calon-haji-lansia-dan-risti",
-      "source": "antaranews.com",
-      "summary": "Petugas Penyelenggara Ibadah Haji (PPIH) Arab Saudi memantapkan skema murur demi menjaga keselamatan dan kenyamanan ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-16T22:03:57+07:00"
-    },
-    {
-      "id": "9d2424c183e2",
-      "title": "BKHIT Maluku awasi pengiriman 540 kepiting bakau tujuan Jakarta",
-      "url": "https://www.antaranews.com/berita/5569996/bkhit-maluku-awasi-pengiriman-540-kepiting-bakau-tujuan-jakarta",
-      "source": "antaranews.com",
-      "summary": "Balai Karantina Hewan, Ikan, dan Tumbuhan (BKHIT) Maluku mengawasi pengiriman sebanyak 540 ekor kepiting bakau tujuan ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-05-16T22:00:11+07:00"
-    },
-    {
-      "id": "78346a42d538",
-      "title": "Persis jaga asa bertahan di Super League usai kalahkan Dewa United 1-0",
-      "url": "https://www.antaranews.com/berita/5569992/persis-jaga-asa-bertahan-di-super-league-usai-kalahkan-dewa-united-1-0",
-      "source": "antaranews.com",
-      "summary": "Persis Solo menjaga asa bertahan di BRI Super League&nbsp;seusai mengalahkan Dewa United dengan skor 1-0, pada ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-05-16T21:59:39+07:00"
-    },
-    {
-      "id": "7a31450624e6",
-      "title": "Komnas HAM: Patriarki dan relasi kuasa picu kekerasan seksual berulang",
-      "url": "https://www.antaranews.com/berita/5569988/komnas-ham-patriarki-dan-relasi-kuasa-picu-kekerasan-seksual-berulang",
-      "source": "antaranews.com",
-      "summary": "Ketua Komisi Nasional Hak Asasi Manusia Anis Hidayah menyatakan&nbsp;budaya patriarki, ketidakadilan gender, dan ...",
-      "topics": [
-        "sosial"
-      ],
-      "published": "2026-05-16T21:55:29+07:00"
-    },
-    {
-      "id": "dfd76ab67671",
-      "title": "Warga Jember hasilkan tabungan emas dan uang melalui bank sampah",
-      "url": "https://www.antaranews.com/video/5569985/warga-jember-hasilkan-tabungan-emas-dan-uang-melalui-bank-sampah",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Warga di Perumahan Villa Tegal Besar, Kaliwates, Jember, Jawa Timur mendirikan Bank Sampah Unit (BSU) yang ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-05-16T21:54:24+07:00"
-    },
-    {
-      "id": "5317244877ab",
-      "title": "Tech3 lanjutkan kemitraan dengan KTM hadapi era baru MotoGP 2027",
-      "url": "https://www.antaranews.com/berita/5569987/tech3-lanjutkan-kemitraan-dengan-ktm-hadapi-era-baru-motogp-2027",
-      "source": "antaranews.com",
-      "summary": "Tim satelit MotoGP, Tech3, melanjutkan kemitraan dengan pabrikan&nbsp;motor asal Austria&nbsp;KTM dalam menghadapi era ...",
-      "topics": [
-        "olahraga"
-      ],
-      "published": "2026-05-16T21:54:09+07:00"
-    },
-    {
-      "id": "8f03a585fdd7",
-      "title": "Jakarta Bhayangkara Presisi melaju ke final AVC Champions League 2026",
-      "url": "https://www.antaranews.com/berita/5569984/jakarta-bhayangkara-presisi-melaju-ke-final-avc-champions-league-2026",
-      "source": "antaranews.com",
-      "summary": "Jakarta Bhayangkara Presisi melaju ke final AVC Men's Champions League 2026 setelah menundukkan Hyundai Capital ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-05-16T21:48:50+07:00"
-    },
-    {
-      "id": "1b615d94af12",
-      "title": "Glasgow Celtic juara Liga Skotlandia setelah kalahkan Hearts 3-1",
-      "url": "https://www.antaranews.com/berita/5569981/glasgow-celtic-juara-liga-skotlandia-setelah-kalahkan-hearts-3-1",
-      "source": "antaranews.com",
-      "summary": "Glasgow Celtic sukses memastikan gelar juara Liga Skotlandia 2025/2026 setelah mengalahkan Heart of Midlothian (Hearts) ...",
-      "topics": [
-        "olahraga"
-      ],
-      "published": "2026-05-16T21:40:33+07:00"
     }
   ]
 }
