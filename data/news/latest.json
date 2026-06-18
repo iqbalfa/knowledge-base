@@ -1,9 +1,806 @@
 {
-  "updated": "2026-06-18T12:55:38.782557+07:00",
+  "updated": "2026-06-18T18:08:22.276182+07:00",
   "source": "RSS aggregator",
   "retention_days": 7,
-  "count": 1462,
+  "count": 1532,
   "items": [
+    {
+      "id": "91dd3c12112d",
+      "title": "Sekuriti mal di Tambora curi sembako senilai Rp70 juta untuk judol",
+      "url": "https://www.antaranews.com/berita/5613352/sekuriti-mal-di-tambora-curi-sembako-senilai-rp70-juta-untuk-judol",
+      "source": "antaranews.com",
+      "summary": "Seorang sekuriti mal berinisial I (44) di kawasan Tambora, Jakarta Barat berkali-kali mencuri sembako dari tempatnya ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-06-18T18:07:26+07:00"
+    },
+    {
+      "id": "23e2635f61c2",
+      "title": "Soroti Kerusakan Lingkungan, APWNU Minta Praktik Tambang Tak Langgar Aturan",
+      "url": "https://www.tribunnews.com/nasional/7843786/soroti-kerusakan-lingkungan-apwnu-minta-praktik-tambang-tak-langgar-aturan",
+      "source": "tribunnews.com",
+      "summary": "APWNU menekankan bahwa kerusakan lingkungan di sektor tambang disebabkan oleh pelaku usaha yang abai terhadap aturan dan SOP.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T18:06:57+07:00"
+    },
+    {
+      "id": "391ffcd446b4",
+      "title": "Mentan sebut Indonesia swasembada pangan sesuai standar FAO",
+      "url": "https://www.antaranews.com/berita/5613348/mentan-sebut-indonesia-swasembada-pangan-sesuai-standar-fao",
+      "source": "antaranews.com",
+      "summary": "Menteri Pertanian Amran Sulaiman menyebut bahwa Indonesia telah berhasil mencapai status swasembada pangan berdasarkan ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-06-18T18:06:22+07:00"
+    },
+    {
+      "id": "156cde28e8f1",
+      "title": "Komisi III DPR sarankan Komisaris Hanania turut jadi tersangka",
+      "url": "https://www.antaranews.com/berita/5613344/komisi-iii-dpr-sarankan-komisaris-hanania-turut-jadi-tersangka",
+      "source": "antaranews.com",
+      "summary": "Ketua Komisi III DPR RI Habiburokhman menyarankan kepada pihak kepolisian agar Komisaris Hanania Travel yang merupakan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T18:06:20+07:00"
+    },
+    {
+      "id": "8d2a1f33bdd2",
+      "title": "Menko IPK: ASN IPDN harus adaptif dalam hadapi dinamika sosial politik",
+      "url": "https://www.antaranews.com/berita/5613339/menko-ipk-asn-ipdn-harus-adaptif-dalam-hadapi-dinamika-sosial-politik",
+      "source": "antaranews.com",
+      "summary": "Menteri Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan (Menko IPK), Agus Harimurti Yudhoyono (AHY), ...",
+      "topics": [
+        "politik",
+        "sosial"
+      ],
+      "published": "2026-06-18T18:04:07+07:00"
+    },
+    {
+      "id": "f89d0799dc83",
+      "title": "Di Tengah Gelombang Demo, Gibran Ajak 5 Mahasiswa Terbang ke Papua Lihat Program MBG",
+      "url": "https://www.tribunnews.com/nasional/7843785/di-tengah-gelombang-demo-gibran-ajak-5-mahasiswa-terbang-ke-papua-lihat-program-mbg",
+      "source": "tribunnews.com",
+      "summary": "Di tengah demonstrasi nasional, Wapres Gibran mengajak lima mahasiswa terbang ke Indonesia Timur guna melihat langsung pelaksanaan program MBG.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T18:03:35+07:00"
+    },
+    {
+      "id": "bfc37e3546b0",
+      "title": "Dishub DKI sediakan 8 kantong parkir saat Haul Akbar ulama Betawi",
+      "url": "https://www.antaranews.com/berita/5613336/dishub-dki-sediakan-8-kantong-parkir-saat-haul-akbar-ulama-betawi",
+      "source": "antaranews.com",
+      "summary": "Dinas Perhubungan (Dishub) DKI Jakarta menyediakan delapan kantong parkir saat penyelenggaraan Haul Akbar Ulama dan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T18:02:18+07:00"
+    },
+    {
+      "id": "98d9225a03a3",
+      "title": "Perbanas: Perlu revitalisasi model bisnis UMKM untuk tumbuhkan kredit",
+      "url": "https://www.antaranews.com/berita/5613332/perbanas-perlu-revitalisasi-model-bisnis-umkm-untuk-tumbuhkan-kredit",
+      "source": "antaranews.com",
+      "summary": "Perhimpunan Bank-Bank Umum Nasional (Perbanas) menyatakan bahwa model bisnis usaha, mikro, kecil, dan menengah (UMKM) ...",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-06-18T18:02:06+07:00"
+    },
+    {
+      "id": "ab0e6f2c5db9",
+      "title": "Anggaran Mengalir, Satgas PRR Minta Kementerian-Lembaga dan Pemda Tancap Gas Pemulihan Permanen",
+      "url": "https://www.tribunnews.com/nasional/7843784/anggaran-mengalir-satgas-prr-minta-kementerian-lembaga-dan-pemda-tancap-gas-pemulihan-permanen",
+      "source": "tribunnews.com",
+      "summary": "Proses pemulihan pascabencana di Aceh, Sumatra Utara, Sumatra Barat terus dipacu Satgas PRR usai berbagai layanan dasar kembali berfungsi.",
+      "topics": [
+        "politik",
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-06-18T18:01:22+07:00"
+    },
+    {
+      "id": "b5ec12461ddc",
+      "title": "Wapres ajak mahasiswa lihat langsung manfaat MBG di wilayah 3T",
+      "url": "https://www.antaranews.com/berita/5613331/wapres-ajak-mahasiswa-lihat-langsung-manfaat-mbg-di-wilayah-3t",
+      "source": "antaranews.com",
+      "summary": "Wakil Presiden (Wapres) RI Gibran Rakabuming mengatakan bahwa Program Makan Bergizi Gratis (MBG) sangat bermanfaat ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-06-18T18:01:01+07:00"
+    },
+    {
+      "id": "f9b13c0ce334",
+      "title": "BI sebut kenaikan kepemilikan nonresiden SRBI bantu penguatan rupiah",
+      "url": "https://www.antaranews.com/berita/5613327/bi-sebut-kenaikan-kepemilikan-nonresiden-srbi-bantu-penguatan-rupiah",
+      "source": "antaranews.com",
+      "summary": "Gubernur Bank Indonesia (BI) Perry Warjiyo menyampaikan peningkatan kepemilikan nonresiden (asing) terhadap Sekuritas ...",
+      "topics": [
+        "ekonomi",
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:57:57+07:00"
+    },
+    {
+      "id": "b6beec087203",
+      "title": "Pemerintah jamin nasib eks karyawan Hotel Sultan",
+      "url": "https://www.antaranews.com/video/5613315/pemerintah-jamin-nasib-eks-karyawan-hotel-sultan",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Pemerintah memastikan memperhatikan nasib eks karyawan Hotel Sultan usai proses eksekusi pengambil alihan aset ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:57:29+07:00"
+    },
+    {
+      "id": "e5e3b13415da",
+      "title": "Jadwal Acara TV Jumat, 19 Juni 2026: Meet Nite Live di Metro TV, Pada Zaman Dahulu di MNC TV",
+      "url": "https://www.tribunnews.com/seleb/7843783/jadwal-acara-tv-jumat-19-juni-2026-meet-nite-live-di-metro-tv-pada-zaman-dahulu-di-mnc-tv",
+      "source": "tribunnews.com",
+      "summary": "Simak jadwal Acara TV Jumat, 19 Juni 2026, terdapat tayangan Meet Nite Live di Metro TV, Pada Zaman Dahulu di MNC TV.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:55:38+07:00"
+    },
+    {
+      "id": "94ee60940daf",
+      "title": "Detik-detik Perempuan di Palembang Bakar 3 Kendaraan, Diamankan Sekuriti saat Hendak kabur",
+      "url": "https://www.tribunnews.com/regional/7843782/detik-detik-perempuan-di-palembang-bakar-3-kendaraan-diamankan-sekuriti-saat-hendak-kabur",
+      "source": "tribunnews.com",
+      "summary": "Perempuan di Palembang diamankan usai diduga membakar 1 mobil dan 2 motor di kantor perumahan saat dini hari.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:55:18+07:00"
+    },
+    {
+      "id": "a8418ebc0d0b",
+      "title": "10 Negara Paling Bergantung pada Minyak Timur Tengah, Indonesia Masuk Daftar?",
+      "url": "https://www.tribunnews.com/internasional/7843781/10-negara-paling-bergantung-pada-minyak-timur-tengah-indonesia-masuk-daftar",
+      "source": "tribunnews.com",
+      "summary": "Minyak Timur Tengah tetap menjadi sumber energi penting bagi banyak negara, tetapi ketergantungan bervariasi secara dramatis di seluruh dunia.",
+      "topics": [
+        "hiburan",
+        "internasional"
+      ],
+      "published": "2026-06-18T17:55:12+07:00"
+    },
+    {
+      "id": "7ee7be60821e",
+      "title": "Polisi tangkap rayap besi pelaku perusakan fasilitas umum di Batam",
+      "url": "https://www.antaranews.com/video/5613292/polisi-tangkap-rayap-besi-pelaku-perusakan-fasilitas-umum-di-batam",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Kepolisian Daerah Kepulauan Riau menangkap pelaku perusakan dan pencurian fasilitas umum di Kota Batam ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:54:42+07:00"
+    },
+    {
+      "id": "e193b1ab52ab",
+      "title": "Sulsel rehabilitasi irigasi Bontonyeleng perlancar distribusi air",
+      "url": "https://www.antaranews.com/berita/5613319/sulsel-rehabilitasi-irigasi-bontonyeleng-perlancar-distribusi-air",
+      "source": "antaranews.com",
+      "summary": "Gubernur Sulawesi Selatan Andi Sudirman Sulaiman, melakukan peletakan batu pertama pembangunan Rehabilitasi Daerah ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:54:24+07:00"
+    },
+    {
+      "id": "de8b6c9bafd7",
+      "title": "Satgas PRR: Pemulihan Pascabencana Sumatra Tunjukkan Kemajuan, Infrastruktur Permanen jadi Prioritas",
+      "url": "https://www.tribunnews.com/nasional/7843780/satgas-prr-pemulihan-pascabencana-sumatra-tunjukkan-kemajuan-infrastruktur-permanen-jadi-prioritas",
+      "source": "tribunnews.com",
+      "summary": "Proses pemulihan pascabencana di Aceh, Sumatra Utara, dan Sumatra Barat terus menunjukkan perkembangan yang positif.",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-06-18T17:53:54+07:00"
+    },
+    {
+      "id": "6797fcc144f9",
+      "title": "Buru Rekor di Piala Dunia 2026, Cristiano Ronaldo Malah Dinilai Rugikan Portugal",
+      "url": "https://www.tribunnews.com/superskor/7843779/buru-rekor-di-piala-dunia-2026-cristiano-ronaldo-malah-dinilai-rugikan-portugal",
+      "source": "tribunnews.com",
+      "summary": "Ambisi Cristiano Ronaldo yang cetak gol di Piala Dunia 2026 justru dinilai malah rugikan Timnas Portugal saat hadapi RD Kongo di laga perdana.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:53:36+07:00"
+    },
+    {
+      "id": "e215c5997bcf",
+      "title": "Mayoritas Politisi Perempuan Alami Kekerasan Digital, Parpol Diminta Perkuat SOP Perlindungan",
+      "url": "https://www.tribunnews.com/nasional/7843778/mayoritas-politisi-perempuan-alami-kekerasan-digital-parpol-diminta-perkuat-sop-perlindungan",
+      "source": "tribunnews.com",
+      "summary": "SAFENet temukan KBGO tinggi pada perempuan politik, terutama saat kampanye, Perludem dorong SOP perlindungan",
+      "topics": [
+        "politik",
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-06-18T17:53:24+07:00"
+    },
+    {
+      "id": "c68478746092",
+      "title": "Harga Perdamaian Iran-AS: Perang Berakhir, Tagihannya Capai Ribuan Triliun Rupiah",
+      "url": "https://www.tribunnews.com/internasional/7843777/harga-perdamaian-iran-as-perang-berakhir-tagihannya-capai-ribuan-triliun-rupiah",
+      "source": "tribunnews.com",
+      "summary": "Selama 108 hari perang, biaya yang harus ditanggung Amerika Serikat maupun perekonomian global mencapai angka yang sangat besar.",
+      "topics": [
+        "ekonomi",
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-06-18T17:53:06+07:00"
+    },
+    {
+      "id": "d2daa9b175fa",
+      "title": "Kawasan industri di Bekasi bidik penjualan lahan logistik-data center",
+      "url": "https://www.antaranews.com/berita/5613311/kawasan-industri-di-bekasi-bidik-penjualan-lahan-logistik-data-center",
+      "source": "antaranews.com",
+      "summary": "Pengelola kawasan industri PT Bekasi Fajar Industrial Estate Tbk menargetkan penjualan lahan sebesar Rp600 miliar pada ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:52:18+07:00"
+    },
+    {
+      "id": "bb3aae65dfa2",
+      "title": "Analisa Laju Cristiano Ronaldo Bersama Portugal di Piala Dunia 2026, Hasil Imbang Jadi Alarm Dini",
+      "url": "https://www.tribunnews.com/superskor/7843776/analisa-laju-cristiano-ronaldo-bersama-portugal-di-piala-dunia-2026-hasil-imbang-jadi-alarm-dini",
+      "source": "tribunnews.com",
+      "summary": "Portugal gagal meraih kemenangan di laga perdana Grup K Piala Dunia 2026 melawan RD Kongo, hal itu menjadi alarm dini bagi Cristiano Ronaldo dkk.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:50:38+07:00"
+    },
+    {
+      "id": "8c663571d649",
+      "title": "Kunci Gitar Lagu Papa Sid - Slank: Setiap Mengingatmu Janggal Terasa di Dada",
+      "url": "https://www.tribunnews.com/musik/7843775/kunci-gitar-lagu-papa-sid-slank-setiap-mengingatmu-janggal-terasa-di-dada",
+      "source": "tribunnews.com",
+      "summary": "Berikut ini merupakan chord kunci gitar lagu Papa Sid yang dipopulerkan oleh grup band Slank, dimainkan dari kunci F.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:50:23+07:00"
+    },
+    {
+      "id": "e885c3c7f9c2",
+      "title": "Motor Tersangkut Kabel Listrik di Jalan Lauser, Siswi SMA 6 Jakarta Tewas Terlindas Bus",
+      "url": "https://www.tribunnews.com/metropolitan/7843774/motor-tersangkut-kabel-listrik-di-jalan-lauser-siswi-sma-6-jakarta-tewas-terlindas-bus",
+      "source": "tribunnews.com",
+      "summary": "Peristiwa ini menyisakan duka sekaligus keprihatinan setelah motor yang ditumpanginya diduga tersangkut kabel menjuntai dan melintang di jalanan raya.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:49:52+07:00"
+    },
+    {
+      "id": "45c63c4a8b1e",
+      "title": "Ancaman Karhutla saat El Nino, Menko Polkam Wanti-wanti Aparat Pertaruhkan Jabatan bila Gagal Cegah",
+      "url": "https://www.tribunnews.com/nasional/7843773/ancaman-karhutla-saat-el-nino-menko-polkam-wanti-wanti-aparat-pertaruhkan-jabatan-bila-gagal-cegah",
+      "source": "tribunnews.com",
+      "summary": "Djamari Chaniago meminta pemerintah daerah dan aparat berkolaborasi untuk mencegah terjadinya kebakaran hutan dan lahan (karhutla) pada masa El Nino.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:48:37+07:00"
+    },
+    {
+      "id": "59167537bfde",
+      "title": "Dinkes Papua Tengah tingkatkan kompetensi nakes di Dogiyai",
+      "url": "https://www.antaranews.com/berita/5613309/dinkes-papua-tengah-tingkatkan-kompetensi-nakes-di-dogiyai",
+      "source": "antaranews.com",
+      "summary": "Dinas Kesehatan Provinsi Papua Tengah terus meningkatkan kompetensi tenaga kesehatan (nakes) di Kabupaten Dogiyai ...",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-06-18T17:46:33+07:00"
+    },
+    {
+      "id": "0cb9117da635",
+      "title": "HUT Jakarta, Pemkot Jaktim gencarkan kerja bakti dan pilah sampah",
+      "url": "https://www.antaranews.com/berita/5613307/hut-jakarta-pemkot-jaktim-gencarkan-kerja-bakti-dan-pilah-sampah",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Kota Jakarta Timur (Pemkot&nbsp;Jaktim) menggencarkan kerja bakti massal dengan fokus pada pemilahan sampah ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:45:41+07:00"
+    },
+    {
+      "id": "b149df9c8b7b",
+      "title": "Presiden setujui anggaran Rp100,1 triliun untuk pemulihan pascabencana",
+      "url": "https://www.antaranews.com/berita/5613305/presiden-setujui-anggaran-rp1001-triliun-untuk-pemulihan-pascabencana",
+      "source": "antaranews.com",
+      "summary": "Presiden Prabowo Subianto menyetujui anggaran pemulihan&nbsp;pascabencana&nbsp;sebesar&nbsp;Rp100,1 triliun untuk tiga ...",
+      "topics": [
+        "politik",
+        "sosial"
+      ],
+      "published": "2026-06-18T17:44:50+07:00"
+    },
+    {
+      "id": "a5ed50e094ce",
+      "title": "Duel Ideal Final Piala Dunia 2026 Menurut Augie Fantinus, Messi vs Ronaldo di Panggung Terakhir",
+      "url": "https://www.tribunnews.com/seleb/7843772/duel-ideal-final-piala-dunia-2026-menurut-augie-fantinus-messi-vs-ronaldo-di-panggung-terakhir",
+      "source": "tribunnews.com",
+      "summary": "Demam Piala Dunia tengah menjangkiti pecinta sepak bola di seluruh dunia, tidak terkecuali bagi presenter sekaligus aktor Augie Fantinus.",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-06-18T17:43:48+07:00"
+    },
+    {
+      "id": "dd66aaf2003b",
+      "title": "Prakiraan Cuaca Wilayah Mataraman Jumat, 19 Juni 2026: Kabut/Asap hingga Udara Kabur",
+      "url": "https://www.tribunnews.com/regional/7843771/prakiraan-cuaca-wilayah-mataraman-jumat-19-juni-2026-kabutasap-hingga-udara-kabur",
+      "source": "tribunnews.com",
+      "summary": "Berdasarkan data BMKG, prakiraan cuaca wilayah Mataraman pada Jumat (19/6/2026), Kabut/Asap hingga Udara Kabur berbagai daerah.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:42:03+07:00"
+    },
+    {
+      "id": "a84800a8bfcb",
+      "title": "OJK-SRO perkuat transparansi dorong kepercayaan investor pasar modal",
+      "url": "https://www.antaranews.com/berita/5613301/ojk-sro-perkuat-transparansi-dorong-kepercayaan-investor-pasar-modal",
+      "source": "antaranews.com",
+      "summary": "Otoritas Jasa Keuangan (OJK) bersama Self-Regulatory Organizations (SRO) yang mencakup PT Bursa Efek Indonesia (BEI), ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:40:47+07:00"
+    },
+    {
+      "id": "913608d16277",
+      "title": "Update Ranking FIFA 48 Peserta Piala Dunia 2026: Argentina Kukuh di Puncak, Ghana Naik Signifikan",
+      "url": "https://www.tribunnews.com/superskor/7843770/update-rangking-fifa-48-peserta-piala-dunia-2026-argentina-kukuh-di-puncak-ghana-naik-signifikan",
+      "source": "tribunnews.com",
+      "summary": "Update ranking FIFA setelah matchday pertama penyisihan grup Piala Dunia 2026 pada Kamis (18/6/2026) pukul 17.25 WIB, Argentina di urutan teratas.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:40:40+07:00"
+    },
+    {
+      "id": "e44920f286d1",
+      "title": "CORE: BI prioritaskan stabilisasi rupiah lewat kenaikan suku bunga",
+      "url": "https://www.antaranews.com/berita/5613297/core-bi-prioritaskan-stabilisasi-rupiah-lewat-kenaikan-suku-bunga",
+      "source": "antaranews.com",
+      "summary": "Direktur Eksekutif Center of Reform on Economics (CORE) Indonesia Mohammad Faisal menilai Bank Indonesia ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:38:16+07:00"
+    },
+    {
+      "id": "b9be0adc140c",
+      "title": "Pembangunan huntara korban bencana Sumatera capai 97 persen",
+      "url": "https://www.antaranews.com/video/5613232/pembangunan-huntara-korban-bencana-sumatera-capai-97-persen",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Pembangunan hunian sementara (huntara) bagi korban bencana di Aceh, Sumatera Utara dan Sumatera Barat kini ...",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-06-18T17:37:15+07:00"
+    },
+    {
+      "id": "8c2a16c47a9c",
+      "title": "IHSG Kamis ditutup turun jelang pengumuman indeks global MSCI dan FTSE",
+      "url": "https://www.antaranews.com/berita/5613296/ihsg-kamis-ditutup-turun-jelang-pengumuman-indeks-global-msci-dan-ftse",
+      "source": "antaranews.com",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) Bursa Efek Indonesia (BEI) pada Kamis sore ditutup melemah seiring investor bersikap ...",
+      "topics": [
+        "ekonomi",
+        "internasional"
+      ],
+      "published": "2026-06-18T17:36:35+07:00"
+    },
+    {
+      "id": "0e4003a54ad9",
+      "title": "Kota Bogor gelar puncak HLUN Ke-30, tekankan lansia berdaya",
+      "url": "https://www.antaranews.com/video/5613215/kota-bogor-gelar-puncak-hlun-ke-30-tekankan-lansia-berdaya",
+      "source": "antaranews.com",
+      "summary": "ANTARA -&nbsp;Pemerintah Kota Bogor menggelar Puncak Acara Hari Lanjut Usia Nasional (HLUN) ke-30 di Gedung ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:35:31+07:00"
+    },
+    {
+      "id": "5d687c2b169b",
+      "title": "Kunci Jawaban Bahasa Inggris Kelas 11 halaman 256 Nomor 6 Kurikulum Merdeka Edisi Revisi",
+      "url": "https://www.tribunnews.com/pendidikan/7843769/kunci-jawaban-bahasa-inggris-kelas-11-halaman-256-nomor-6-kurikulum-merdeka-edisi-revisi",
+      "source": "tribunnews.com",
+      "summary": "Berikut ini Tribunnews.com sajikan kunci jawaban Bahasa Inggris kelas 11 SMA/MA  halaman 256 part 3 nomor 6  part 3 Kurikulum Merdeka Edisi Revisi",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:35:24+07:00"
+    },
+    {
+      "id": "6beb477344aa",
+      "title": "Lanud Haluoleo Kendari resmi jadi salah satu dapur SPPG",
+      "url": "https://www.antaranews.com/video/5613179/lanud-haluoleo-kendari-resmi-jadi-salah-satu-dapur-sppg",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Pangkalan TNI Angkatan Udara (Lanud) Haluoleo Kendari resmi mengoperasikan Satuan Pelayanan Pemenuhan Gizi ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:34:42+07:00"
+    },
+    {
+      "id": "e8a805855dfa",
+      "title": "Kebiasaan yang bantu tingkatkan kualitas tidur saat perimenopause",
+      "url": "https://www.antaranews.com/berita/5613288/kebiasaan-yang-bantu-tingkatkan-kualitas-tidur-saat-perimenopause",
+      "source": "antaranews.com",
+      "summary": "Gangguan tidur menjadi keluhan yang umum dialami perempuan selama masa perimenopause dan menopause akibat perubahan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:33:38+07:00"
+    },
+    {
+      "id": "bb83c1d5b4f1",
+      "title": "Hasil Macau Open 2026: Leo/Daniel Kandas di 16 Besar, Tren Negatif Berlanjut",
+      "url": "https://www.tribunnews.com/sport/7843768/hasil-macau-open-2026-leodaniel-kandas-di-16-besar-tren-negatif-berlanjut",
+      "source": "tribunnews.com",
+      "summary": "Leo/Daniel kalah di 16 besar Macau Open 2026 dari wakil Korea Selatan, Jin/Lee, dengan skor 21-15, 21-18, Kamis (18/6/2026).",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:33:29+07:00"
+    },
+    {
+      "id": "40f5ccacbded",
+      "title": "Mandiri Jogja Marathon padukan kompetisi lari dengan pengalaman wisata",
+      "url": "https://www.antaranews.com/berita/5613285/mandiri-jogja-marathon-padukan-kompetisi-lari-dengan-pengalaman-wisata",
+      "source": "antaranews.com",
+      "summary": "Mandiri Jogja Marathon (MJM) 2026 bertema &quot;More Than a Race&quot; yang digelar Bank Mandiri di kawasan Candi ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:31:52+07:00"
+    },
+    {
+      "id": "bf689bf8f6f2",
+      "title": "Layang-layang ancam keselamatan penerbangan, Bandara Supadio terima lima laporan",
+      "url": "https://www.antaranews.com/berita/5613281/layang-layang-ancam-keselamatan-penerbangan-bandara-supadio-terima-lima-laporan",
+      "source": "antaranews.com",
+      "summary": "PT Angkasa Pura Indonesia Kantor Cabang Bandara Internasional Supadio mencatat lima laporan aktivitas layang-layang di ...",
+      "topics": [
+        "internasional"
+      ],
+      "published": "2026-06-18T17:30:52+07:00"
+    },
+    {
+      "id": "f9b7b843a63c",
+      "title": "Menteri LH: Butuh 540 ribu sekat kanal di RI agar karhutla bisa nol",
+      "url": "https://www.antaranews.com/berita/5613279/menteri-lh-butuh-540-ribu-sekat-kanal-di-ri-agar-karhutla-bisa-nol",
+      "source": "antaranews.com",
+      "summary": "Menteri Lingkungan Hidup/Kepala Badan Pengendalian Lingkungan Hidup (KLH/BPLH) Moh Jumhur Hidayat mengatakan Indonesia ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-06-18T17:30:48+07:00"
+    },
+    {
+      "id": "ddf05db3c804",
+      "title": "Kunci Jawaban Bahasa Inggris Kelas 11 Halaman 255 Nomor 2-5 Kurikulum Merdeka Edisi Revisi",
+      "url": "https://www.tribunnews.com/pendidikan/7843767/kunci-jawaban-bahasa-inggris-kelas-11-halaman-255-nomor-2-5-kurikulum-merdeka-edisi-revisi",
+      "source": "tribunnews.com",
+      "summary": "Berikut ini Tribunnews.com sajikan kunci jawaban Bahasa Inggris kelas 11 SMA/MA halaman 255 nomor 2-5 part 3 Kurikulum Merdeka Edisi Revisi",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:29:49+07:00"
+    },
+    {
+      "id": "f9cb0e858029",
+      "title": "Mumbai setop pasokan air untuk kolam renang dan konstruksi",
+      "url": "https://www.antaranews.com/berita/5613275/mumbai-setop-pasokan-air-untuk-kolam-renang-dan-konstruksi",
+      "source": "antaranews.com",
+      "summary": "&nbsp;    Badan pemerintahan kota di ibu kota keuangan India, Mumbai, Brihanmumbai Municipal Corporation ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:28:11+07:00"
+    },
+    {
+      "id": "c342f287da7f",
+      "title": "Wapres ajak orang tua murid dan pesantren terlibat pelaksanaan MBG",
+      "url": "https://www.antaranews.com/berita/5613272/wapres-ajak-orang-tua-murid-dan-pesantren-terlibat-pelaksanaan-mbg",
+      "source": "antaranews.com",
+      "summary": "Wakil Presiden (Wapres) Gibran Rakabuming mengatakan beragam pihak dapat dilibatkan dalam pelaksanaan program Makan ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-06-18T17:27:57+07:00"
+    },
+    {
+      "id": "a2dbfbd87099",
+      "title": "CPCL bongkar ratoon tebu Jatim capai 26.922 hektare",
+      "url": "https://www.antaranews.com/video/5613200/cpcl-bongkar-ratoon-tebu-jatim-capai-26922-hektare",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Pemerintah Provinsi Jawa Timur mencatat realisasi penetapan Calon Petani dan Calon Lahan (CPCL) program ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:27:21+07:00"
+    },
+    {
+      "id": "e48ef8ee7034",
+      "title": "Situbondo optimistis produksi padi tahun ini tembus 500.00 ton",
+      "url": "https://www.antaranews.com/berita/5613271/situbondo-optimistis-produksi-padi-tahun-ini-tembus-50000-ton",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Kabupaten Situbondo, Jawa Timur, optimistis produktivitas padi pada tahun ini bisa tembus 500.000 ton&nbsp; ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:27:17+07:00"
+    },
+    {
+      "id": "7f03a314feb1",
+      "title": "Neymar kembali berlatih bersama timnas Brasil",
+      "url": "https://www.antaranews.com/berita/5613268/neymar-kembali-berlatih-bersama-timnas-brasil",
+      "source": "antaranews.com",
+      "summary": "Gelandang serang tim nasional Brasil Neymar kembali berlatih bersama rekan-rekannya&nbsp;seiring proses pemulihan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:23:22+07:00"
+    },
+    {
+      "id": "209ebd27b169",
+      "title": "Komisi XIII minta pemerintah harmonisasi regulasi pendidikan dokter",
+      "url": "https://www.antaranews.com/berita/5613264/komisi-xiii-minta-pemerintah-harmonisasi-regulasi-pendidikan-dokter",
+      "source": "antaranews.com",
+      "summary": "Komisi XIII DPR RI meminta pemerintah, khususnya Kementerian Hukum, untuk melakukan harmonisasi dan sinkronisasi ...",
+      "topics": [
+        "politik",
+        "sosial"
+      ],
+      "published": "2026-06-18T17:22:40+07:00"
+    },
+    {
+      "id": "cc0451db68bb",
+      "title": "Menko Polkam tegaskan peningkatan siap siaga cegah karhutla",
+      "url": "https://www.antaranews.com/berita/5613263/menko-polkam-tegaskan-peningkatan-siap-siaga-cegah-karhutla",
+      "source": "antaranews.com",
+      "summary": "Menteri Koordinator Bidang Politik dan Keamanan (Menko Polkam) Djamari Chaniago menegaskan seluruh pemangku kepentingan ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-06-18T17:22:13+07:00"
+    },
+    {
+      "id": "db3492657f9d",
+      "title": "Sudan Selatan dan PBB bertekad akhiri pengungsian bagi 60.000 orang",
+      "url": "https://www.antaranews.com/berita/5613259/sudan-selatan-dan-pbb-bertekad-akhiri-pengungsian-bagi-60000-orang",
+      "source": "antaranews.com",
+      "summary": "Sudan Selatan dan Perserikatan Bangsa-Bangsa (PBB) menegaskan kembali komitmen mereka untuk mengakhiri pengungsian ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:21:32+07:00"
+    },
+    {
+      "id": "d548f3aad284",
+      "title": "Menhut sebut tren pengendalian karhutla saat El Nino kian membaik",
+      "url": "https://www.antaranews.com/berita/5613256/menhut-sebut-tren-pengendalian-karhutla-saat-el-nino-kian-membaik",
+      "source": "antaranews.com",
+      "summary": "Menteri Kehutanan (Menhut) Raja Juli Antoni mengatakan kemampuan Indonesia dalam mengendalikan kebakaran hutan dan ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:21:20+07:00"
+    },
+    {
+      "id": "8012ee13eadd",
+      "title": "Mentan surati Kapolri tindak pabrik yang turunkan harga TBS sawit",
+      "url": "https://www.antaranews.com/berita/5613252/mentan-surati-kapolri-tindak-pabrik-yang-turunkan-harga-tbs-sawit",
+      "source": "antaranews.com",
+      "summary": "Menteri Pertanian Amran Sulaiman menyebut telah menyurati Kepala Kepolisian Republik Indonesia untuk menindak tegas ...",
+      "topics": [
+        "ekonomi",
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:20:29+07:00"
+    },
+    {
+      "id": "177ab2bad6cb",
+      "title": "PBB: Kelompok bersenjata hambat penanganan Ebola di RD Kongo",
+      "url": "https://www.antaranews.com/berita/5613249/pbb-kelompok-bersenjata-hambat-penanganan-ebola-di-rd-kongo",
+      "source": "antaranews.com",
+      "summary": "Kantor PBB untuk Koordinasi Urusan Kemanusiaan (OCHA), Rabu (17/6),&nbsp;menyatakan&nbsp;kelompok-kelompok bersenjata ...",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-06-18T17:19:33+07:00"
+    },
+    {
+      "id": "47305f8ae3de",
+      "title": "Polisi ringkus pencuri bahan kain di Tambora Jakbar",
+      "url": "https://www.antaranews.com/berita/5613245/polisi-ringkus-pencuri-bahan-kain-di-tambora-jakbar",
+      "source": "antaranews.com",
+      "summary": "Polisi meringkus seorang pemuda berinisial WA (23) yang diduga mencuri dua rol bahan kain di sebuah rumah kawasan Duri ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:19:24+07:00"
+    },
+    {
+      "id": "a5e111050755",
+      "title": "Agensi: Kiprah ENHYPEN berlanjut dengan enam orang anggota",
+      "url": "https://www.antaranews.com/berita/5613241/agensi-kiprah-enhypen-berlanjut-dengan-enam-orang-anggota",
+      "source": "antaranews.com",
+      "summary": "Agensi BELIFT LAB mengonfirmasi rencana melanjutkan kiprah grup Kpop ENHYPEN dengan enam orang anggota yakni Jungwon, ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:19:12+07:00"
+    },
+    {
+      "id": "1079812239ab",
+      "title": "Bank Jambi dan OJK memperluas inklusi keuangan bagi Suku Anak Dalam",
+      "url": "https://www.antaranews.com/berita/5613240/bank-jambi-dan-ojk-memperluas-inklusi-keuangan-bagi-suku-anak-dalam",
+      "source": "antaranews.com",
+      "summary": "Bank Jambi bersama Otoritas Jasa Keuangan (OJK) Provinsi Jambi terus memperkuat upaya pemerataan akses layanan keuangan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:18:43+07:00"
+    },
+    {
+      "id": "d0334043259d",
+      "title": "Daihatsu raih pangsa pasar 17,4 persen pada Mei 2026",
+      "url": "https://otomotif.antaranews.com/berita/5613236/daihatsu-raih-pangsa-pasar-174-persen-pada-mei-2026",
+      "source": "antaranews.com",
+      "summary": "PT Astra Daihatsu Motor (ADM) mencatat peningkatan pangsa pasar nasional menjadi 17,4 persen pada Mei 2026 seiring ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:18:38+07:00"
+    },
+    {
+      "id": "bd8b01886af6",
+      "title": "Real Madrid resmi datangkan bek timnas Prancis Ibrahima Konate",
+      "url": "https://www.antaranews.com/berita/5613228/real-madrid-resmi-datangkan-bek-timnas-prancis-ibrahima-konate",
+      "source": "antaranews.com",
+      "summary": "Real Madrid resmi mendatangkan bek tengah asal Prancis Ibrahima Konate secara bebas transfer setelah mengakhiri ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:17:44+07:00"
+    },
+    {
+      "id": "3dadfec9bdc2",
+      "title": "KPK sita rumah Bupati Pekalongan nonaktif Fadia Arafiq di Semarang",
+      "url": "https://www.antaranews.com/berita/5613225/kpk-sita-rumah-bupati-pekalongan-nonaktif-fadia-arafiq-di-semarang",
+      "source": "antaranews.com",
+      "summary": "Komisi Pemberantasan Korupsi (KPK) pada pekan ini menyita rumah milik Bupati Pekalongan nonaktif Fadia Arafiq (FAR) di ...",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-06-18T17:17:40+07:00"
+    },
+    {
+      "id": "8d97aef66912",
+      "title": "Pramono siap resmikan hasil penataan Jalan Rasuna Said pekan ini",
+      "url": "https://www.antaranews.com/berita/5613223/pramono-siap-resmikan-hasil-penataan-jalan-rasuna-said-pekan-ini",
+      "source": "antaranews.com",
+      "summary": "Gubernur DKI Jakarta&nbsp;Pramono Anung siap meresmikan proyek infrastruktur berupa hasil penataan kawasan Jalan H.R. ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:15:03+07:00"
+    },
+    {
+      "id": "eea1473a32e3",
+      "title": "Kemnaker pacu transformasi BPVP jadi “mini campus” modern",
+      "url": "https://www.antaranews.com/berita/5613220/kemnaker-pacu-transformasi-bpvp-jadi-mini-campus-modern",
+      "source": "antaranews.com",
+      "summary": "Kementerian Ketenagakerjaan (Kemnaker) mempercepat transformasi Balai Pelatihan Vokasi dan Produktivitas (BPVP) di ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:14:40+07:00"
+    },
+    {
+      "id": "c8dc651e5be2",
+      "title": "Mentan: Hilirisasi perkebunan rakyat 870 ribu hektare terus dipercepat",
+      "url": "https://www.antaranews.com/berita/5613216/mentan-hilirisasi-perkebunan-rakyat-870-ribu-hektare-terus-dipercepat",
+      "source": "antaranews.com",
+      "summary": "Menteri Pertanian Andi Amran Sulaiman melaporkan kepada Presiden Prabowo Subianto bahwa pihaknya terus mempercepat ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-06-18T17:14:29+07:00"
+    },
+    {
+      "id": "d470408790a6",
+      "title": "NTB tawarkan investasi hijau dan pariwisata kepada Oman",
+      "url": "https://www.antaranews.com/berita/5613212/ntb-tawarkan-investasi-hijau-dan-pariwisata-kepada-oman",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Provinsi Nusa Tenggara Barat (NTB) menawarkan investasi hijau dan pariwisata kepada Oman untuk mendorong ...",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-06-18T17:11:13+07:00"
+    },
+    {
+      "id": "f9241d4ab95f",
+      "title": "Kemendag bantah temuan minyakita di atas Rp20 ribu",
+      "url": "https://www.antaranews.com/berita/5613211/kemendag-bantah-temuan-minyakita-di-atas-rp20-ribu",
+      "source": "antaranews.com",
+      "summary": "Kementerian Perdagangan (Kemendag) menegaskan tidak menemukan penjualan Minyakita dengan harga di atas Rp20.000 per ...",
+      "topics": [
+        "ekonomi",
+        "politik"
+      ],
+      "published": "2026-06-18T17:10:27+07:00"
+    },
+    {
+      "id": "9cdd221b75fe",
+      "title": "UNICEF: 247 anak tewas di Lebanon sejak Maret 2026",
+      "url": "https://www.antaranews.com/berita/5613208/unicef-247-anak-tewas-di-lebanon-sejak-maret-2026",
+      "source": "antaranews.com",
+      "summary": "Dana Anak-anak Perserikatan Bangsa-Bangsa (UNICEF), Rabu (17/6), menyatakan bahwa sebanyak 27&nbsp;anak tewas dan 992 ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:10:10+07:00"
+    },
+    {
+      "id": "151e07342d68",
+      "title": "Polisi telusuri aset bos Hanania untuk pulihkan kerugian korban",
+      "url": "https://www.antaranews.com/berita/5613204/polisi-telusuri-aset-bos-hanania-untuk-pulihkan-kerugian-korban",
+      "source": "antaranews.com",
+      "summary": "Pihak kepolisian menyatakan tengah menelusuri aset-aset milik bos Hanania Travel yang menjadi tersangka yakni ASF (30), ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-06-18T17:08:58+07:00"
+    },
+    {
+      "id": "5ac260d10762",
+      "title": "Bahlil berpeluang revisi harga batu bara PLN",
+      "url": "https://www.antaranews.com/berita/5613201/bahlil-berpeluang-revisi-harga-batu-bara-pln",
+      "source": "antaranews.com",
+      "summary": "Menteri Energi dan Sumber Daya Mineral (ESDM) Bahlil Lahadalia berpeluang merevisi harga batu bara bagi PT PLN ...",
+      "topics": [
+        "ekonomi",
+        "politik"
+      ],
+      "published": "2026-06-18T17:08:05+07:00"
+    },
     {
       "id": "0263f8b44e6f",
       "title": "Menkum serahkan lahan 6,3 hektare untuk pembangunan Sekolah Rakyat",
