@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-19T16:04:46.095081+07:00",
+  "updated": "2026-07-19T21:23:35.740872+07:00",
   "source": "YouTube Data API v3",
   "retention_days": 7,
-  "video_count": 26,
-  "total_comments": 1124,
+  "video_count": 27,
+  "total_comments": 1125,
   "videos": [
     {
       "video_id": "-rVJAGFTVFc",
@@ -11789,6 +11789,31 @@
           "reply_count": 0,
           "topics": [
             "umum"
+          ]
+        }
+      ]
+    },
+    {
+      "video_id": "nf6ffpACtCA",
+      "title": "Agustus Menghitung Hari‼️Stok 5 Barang Ini Sebelum Harga Bergerak Naik",
+      "channel": "Sekilas Uang",
+      "url": "https://www.youtube.com/watch?v=nf6ffpACtCA",
+      "published": "2026-07-19T04:00:02Z",
+      "stats": {
+        "views": 2179,
+        "likes": 34,
+        "comments": 1
+      },
+      "comment_count": 1,
+      "comments": [
+        {
+          "text": "Cerita mu cuma berlaku di konoha",
+          "author": "@alextee9547",
+          "likes": 0,
+          "published": "2026-07-19T08:18:56Z",
+          "reply_count": 0,
+          "topics": [
+            "ekonomi"
           ]
         }
       ]
