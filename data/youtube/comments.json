@@ -1,9 +1,9 @@
 {
-  "updated": "2026-09-09T00:05:51.025474+07:00",
+  "updated": "2026-09-09T04:36:04.996729+07:00",
   "source": "YouTube Data API v3",
   "retention_days": 7,
-  "video_count": 33,
-  "total_comments": 1200,
+  "video_count": 35,
+  "total_comments": 1204,
   "videos": [
     {
       "video_id": "vc5DCJwPAVg",
@@ -12678,6 +12678,76 @@
       },
       "comment_count": 0,
       "comments": []
+    },
+    {
+      "video_id": "I4IUzdHAWDY",
+      "title": "​&quot;Jumlah Pengangguran Tembus 7,22 Juta Orang, Menteri UMKM Imbau Warga Berwirausaha.&quot;",
+      "channel": "DuniaBerkata",
+      "url": "https://www.youtube.com/watch?v=I4IUzdHAWDY",
+      "published": "2026-09-07T08:15:51Z",
+      "stats": {
+        "views": 4509,
+        "likes": 15,
+        "comments": 3
+      },
+      "comment_count": 3,
+      "comments": [
+        {
+          "text": "Usaha sendiri, modal sendiri kalau sukses negara ambil pajak",
+          "author": "@Bangjatayu",
+          "likes": 0,
+          "published": "2026-09-08T08:51:21Z",
+          "reply_count": 0,
+          "topics": [
+            "umum"
+          ]
+        },
+        {
+          "text": "Kasih modal dong bukan omdo",
+          "author": "@zalikecik5924",
+          "likes": 0,
+          "published": "2026-09-08T14:20:20Z",
+          "reply_count": 0,
+          "topics": [
+            "umum"
+          ]
+        },
+        {
+          "text": "Kbnyakan umkm...mlh memble..yg beli gk ada",
+          "author": "@gastonchannel3818",
+          "likes": 0,
+          "published": "2026-09-07T08:21:17Z",
+          "reply_count": 0,
+          "topics": [
+            "umum"
+          ]
+        }
+      ]
+    },
+    {
+      "video_id": "a28igCp4p1U",
+      "title": "ENAK BANGET WALAU HARUS BLUSUKAN #umkmindonesia #pasarjatinegara",
+      "channel": "Momilandboys",
+      "url": "https://www.youtube.com/watch?v=a28igCp4p1U",
+      "published": "2026-09-05T08:04:37Z",
+      "stats": {
+        "views": 1499,
+        "likes": 27,
+        "comments": 1
+      },
+      "comment_count": 1,
+      "comments": [
+        {
+          "text": "Mama ini Alvaro",
+          "author": "@JamilaKamarullah",
+          "likes": 0,
+          "published": "2026-09-07T10:22:54Z",
+          "reply_count": 0,
+          "topics": [
+            "umum"
+          ]
+        }
+      ]
     },
     {
       "video_id": "9QyS6k0q2Bo",
