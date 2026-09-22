@@ -1,9 +1,114 @@
 {
-  "updated": "2026-09-23T00:32:16.377029+07:00",
+  "updated": "2026-09-23T04:47:57.796944+07:00",
   "source": "RSS aggregator",
   "retention_days": 7,
-  "count": 1072,
+  "count": 1061,
   "items": [
+    {
+      "id": "6b52d6b74cbb",
+      "title": "Real Madrid serang balik Presiden LaLiga",
+      "url": "https://www.antaranews.com/berita/5753828/real-madrid-serang-balik-presiden-laliga",
+      "source": "antaranews.com",
+      "summary": "Klub Liga Spanyol Real Madrid menanggapi komentar Presiden LaLiga Javier Tebas yang mengkritik Los Blancos, dengan ...",
+      "topics": [
+        "politik",
+        "olahraga"
+      ],
+      "published": "2026-09-23T02:33:49+07:00"
+    },
+    {
+      "id": "e68ae00371e3",
+      "title": "Indonesia harapkan China dukung terwujudnya Sentralitas ASEAN",
+      "url": "https://www.antaranews.com/berita/5753827/indonesia-harapkan-china-dukung-terwujudnya-sentralitas-asean",
+      "source": "antaranews.com",
+      "summary": "Menteri Koordinator bidang Politik dan Keamanan Djamari Chaniago mengungkapkan harapan agar China dapat terus mendukung ...",
+      "topics": [
+        "politik",
+        "internasional"
+      ],
+      "published": "2026-09-23T01:16:38+07:00"
+    },
+    {
+      "id": "b46053e9d401",
+      "title": "Wamenaker dorong anak muda manfaatkan peluang kerja di luar negeri",
+      "url": "https://www.antaranews.com/berita/5753824/wamenaker-dorong-anak-muda-manfaatkan-peluang-kerja-di-luar-negeri",
+      "source": "antaranews.com",
+      "summary": "Wakil Menteri Ketenagakerjaan (Wamenaker) Afriansyah Noor mendorong anak-anak muda memanfaatkan potensi besar dari ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-09-23T01:00:16+07:00"
+    },
+    {
+      "id": "acbf3e7fd52e",
+      "title": "KAI Daop 6 gelar drama musikal Roro Jonggrang di Stasiun Yogyakarta",
+      "url": "https://www.antaranews.com/video/5753820/kai-daop-6-gelar-drama-musikal-roro-jonggrang-di-stasiun-yogyakarta",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Sebagai bagian dari rangkaian kegiatan KAI Mini Fair menyambut HUT PT KAI Ke-81, Daop 6 Yogyakarta gelar ...",
+      "topics": [
+        "teknologi",
+        "hiburan"
+      ],
+      "published": "2026-09-23T00:56:31+07:00"
+    },
+    {
+      "id": "52a0450845ac",
+      "title": "Rayakan Hari Nasional, China sambut capaian dialog strategis dengan RI",
+      "url": "https://www.antaranews.com/berita/5753823/rayakan-hari-nasional-china-sambut-capaian-dialog-strategis-dengan-ri",
+      "source": "antaranews.com",
+      "summary": "Kuasa Usaha China di Indonesia Zhou Kan menyoroti keberhasilan negaranya mencapai babak baru kemitraan dengan Indonesia ...",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-09-23T00:54:56+07:00"
+    },
+    {
+      "id": "6a4994f82d2c",
+      "title": "Pemprov Sulteng entaskan kemiskinan lewat sektor perumahan",
+      "url": "https://www.antaranews.com/video/5753809/pemprov-sulteng-entaskan-kemiskinan-lewat-sektor-perumahan",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Pemerintah Provinsi Sulawesi Tengah terus mendorong pengentasan kemiskinan melalui berbagai langkah salah ...",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-09-23T00:43:58+07:00"
+    },
+    {
+      "id": "a9a37a36e2ea",
+      "title": "Wali Kota Palu minta pelaku UMKM tak ragu laporkan pungli",
+      "url": "https://www.antaranews.com/video/5753813/wali-kota-palu-minta-pelaku-umkm-tak-ragu-laporkan-pungli",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Pemerintah Kota Palu terus memperkuat upaya pencegahan pungutan liar (pungli) terhadap pelaku usaha mikro, ...",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-09-23T00:41:07+07:00"
+    },
+    {
+      "id": "e13aca5fd40a",
+      "title": "Prabowo arahkan evaluasi tarif untuk perkuat industri TPT",
+      "url": "https://www.antaranews.com/video/5753725/prabowo-arahkan-evaluasi-tarif-untuk-perkuat-industri-tpt",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Pemerintah menyiapkan sejumlah langkah untuk memperkuat industri Tekstil dan Produk Tekstil (TPT) nasional ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-09-23T00:35:45+07:00"
+    },
+    {
+      "id": "7905d6c81c2e",
+      "title": "Gekrafs hadir di UEA siap jadikan Dubai Hub kolaborasi ekonomi kreatif",
+      "url": "https://www.antaranews.com/berita/5753817/gekrafs-hadir-di-uea-siap-jadikan-dubai-hub-kolaborasi-ekonomi-kreatif",
+      "source": "antaranews.com",
+      "summary": "DPP Gerakan Ekonomi Kreatif Nasional (Gekrafs) resmi melantik kepengurusan Dewan Perwakilan Luar Negeri (DPLN) Gekrafs ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-09-23T00:33:25+07:00"
+    },
     {
       "id": "c5218b66b111",
       "title": "Eks penjara Tan Malaka di Madiun disiapkan jadi wisata sejarah",
@@ -11995,235 +12100,6 @@
         "olahraga"
       ],
       "published": "2026-09-16T04:49:55+07:00"
-    },
-    {
-      "id": "298d06a10b13",
-      "title": "Arsenal atasi Ipswich Town 4-2 pada putaran ketiga Piala Liga Inggris",
-      "url": "https://www.antaranews.com/berita/5743024/arsenal-atasi-ipswich-town-4-2-pada-putaran-ketiga-piala-liga-inggris",
-      "source": "antaranews.com",
-      "summary": "Arsenal mengatasi perlawanan Ipswich Town dengan skor 4-2 pada putaran ketiga Piala Liga Inggris di Stadion Portman ...",
-      "topics": [
-        "olahraga"
-      ],
-      "published": "2026-09-16T04:24:03+07:00"
-    },
-    {
-      "id": "2704a90ece47",
-      "title": "Maarten Paes dan Nathan Tjoe-A-On tampil saat Ajax hantam Willem II",
-      "url": "https://www.antaranews.com/berita/5743021/maarten-paes-dan-nathan-tjoe-a-on-tampil-saat-ajax-hantam-willem-ii",
-      "source": "antaranews.com",
-      "summary": "Dua penggawa tim nasional Indonesia kiper Maarten Paes dan bek sayap Nathan Tjoe-A-On tampil saat Ajax menghantam ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-09-16T04:02:18+07:00"
-    },
-    {
-      "id": "de5fb864f90e",
-      "title": "Emil Audero bermain penuh saat Rayo Vallecano bekuk Espanyol",
-      "url": "https://www.antaranews.com/berita/5743020/emil-audero-bermain-penuh-saat-rayo-vallecano-bekuk-espanyol",
-      "source": "antaranews.com",
-      "summary": "Kiper tim nasional Indonesia Emil Audero bermain penuh saat Rayo Vallecano membekuk Espanyol pada pekan keenam Liga ...",
-      "topics": [
-        "teknologi",
-        "olahraga"
-      ],
-      "published": "2026-09-16T03:57:31+07:00"
-    },
-    {
-      "id": "a12d2ffd93a6",
-      "title": "James Rodriguez putuskan pensiun dari Timnas Kolombia",
-      "url": "https://www.antaranews.com/berita/5743016/james-rodriguez-putuskan-pensiun-dari-timnas-kolombia",
-      "source": "antaranews.com",
-      "summary": "Gelandang senior James Rodriguez memutuskan untuk pensiun dari tim nasional Kolombia setelah 15 tahun melalui akun ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-09-16T03:51:16+07:00"
-    },
-    {
-      "id": "9feabf3f296f",
-      "title": "Wakil PM Malaysia akan melawat ke Indonesia lagi, temui Wapres Gibran",
-      "url": "https://www.antaranews.com/berita/5743013/wakil-pm-malaysia-akan-melawat-ke-indonesia-lagi-temui-wapres-gibran",
-      "source": "antaranews.com",
-      "summary": "Wakil Perdana Menteri Malaysia Ahmad Zahid Hamidi diagendakan melakukan lawatan kerja ke Indonesia pekan ini untuk ...",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-09-16T03:01:47+07:00"
-    },
-    {
-      "id": "c8aed8d57120",
-      "title": "Basarnas siapkan skenario jika cuaca hambat penyelaman KM Virgo",
-      "url": "https://www.antaranews.com/berita/5743009/basarnas-siapkan-skenario-jika-cuaca-hambat-penyelaman-km-virgo",
-      "source": "antaranews.com",
-      "summary": "Badan SAR Nasional (Basarnas) menyiapkan berbagai skenario alternatif dalam pencarian korban Kapal Motor (KM) Virgo ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-09-16T02:50:54+07:00"
-    },
-    {
-      "id": "9696ae33cdf1",
-      "title": "China sumbangkan sampel dari sisi jauh bulan kepada PBB di Wina",
-      "url": "https://www.antaranews.com/berita/5743005/china-sumbangkan-sampel-dari-sisi-jauh-bulan-kepada-pbb-di-wina",
-      "source": "antaranews.com",
-      "summary": "China secara resmi menyumbangkan sebuah sampel Bulan yang dikumpulkan oleh misi Chang'e-6 kepada Perserikatan ...",
-      "topics": [
-        "internasional"
-      ],
-      "published": "2026-09-16T02:08:41+07:00"
-    },
-    {
-      "id": "325793d2611b",
-      "title": "Mantan Menhub Budi Karya Sumadi absen sidang karena sakit",
-      "url": "https://www.antaranews.com/berita/5743004/mantan-menhub-budi-karya-sumadi-absen-sidang-karena-sakit",
-      "source": "antaranews.com",
-      "summary": "Komisi Pemberantasan Korupsi (KPK) menyatakan&nbsp;mantan Menteri Perhubungan Budi Karya Sumadi absen dari sidang ...",
-      "topics": [
-        "politik",
-        "sosial"
-      ],
-      "published": "2026-09-16T02:00:47+07:00"
-    },
-    {
-      "id": "6830ae9f6380",
-      "title": "KPK akan maksimalkan pemidanaan usai Fahd Arafiq hattrick tersangka",
-      "url": "https://www.antaranews.com/berita/5743003/kpk-akan-maksimalkan-pemidanaan-usai-fahd-arafiq-hattrick-tersangka",
-      "source": "antaranews.com",
-      "summary": "Komisi Pemberantasan Korupsi menyatakan akan memaksimalkan pemidanaan terhadap Ketua DPP Partai Golkar Fahd El Fouz ...",
-      "topics": [
-        "politik",
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-09-16T01:54:42+07:00"
-    },
-    {
-      "id": "aff4cdb7c681",
-      "title": "KPK sebut pemanggilan Nusron Wahid tergantung kebutuhan penyidik",
-      "url": "https://www.antaranews.com/berita/5742999/kpk-sebut-pemanggilan-nusron-wahid-tergantung-kebutuhan-penyidik",
-      "source": "antaranews.com",
-      "summary": "Komisi Pemberantasan Korupsi menyatakan&nbsp;pemanggilan Menteri Agraria dan Tata Ruang/Kepala Badan Pertanahan ...",
-      "topics": [
-        "politik",
-        "sosial"
-      ],
-      "published": "2026-09-16T01:31:58+07:00"
-    },
-    {
-      "id": "ade586fd4527",
-      "title": "Basarnas tegaskan operasi SAR KM Virgo sesuai standar internasional",
-      "url": "https://www.antaranews.com/berita/5742995/basarnas-tegaskan-operasi-sar-km-virgo-sesuai-standar-internasional",
-      "source": "antaranews.com",
-      "summary": "Basarnas menegaskan seluruh operasi pencarian dan pertolongan (SAR) kecelakaan KM Virgo Transport 8 di Laut ...",
-      "topics": [
-        "teknologi",
-        "internasional"
-      ],
-      "published": "2026-09-16T01:24:35+07:00"
-    },
-    {
-      "id": "c41c27e9535d",
-      "title": "Kejagung segera limpahkan perkara Febrie Adriansyah ke penuntutan",
-      "url": "https://www.antaranews.com/video/5742989/kejagung-segera-limpahkan-perkara-febrie-adriansyah-ke-penuntutan",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Kejaksaan Agung (Kejagung) segera melimpahkan perkara dugaan tindak pidana pencucian uang (TPPU) yang menjerat ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-09-16T01:15:08+07:00"
-    },
-    {
-      "id": "593078dbb633",
-      "title": "Korupsi ATR/BPN, KPK tidak fokus pada latar belakang politik Fahd Arafiq",
-      "url": "https://www.antaranews.com/berita/5742993/korupsi-atr-bpn-kpk-tidak-fokus-pada-latar-belakang-politik-fahd-arafiq",
-      "source": "antaranews.com",
-      "summary": "Komisi Pemberantasan Korupsi menyatakan tidak berfokus pada latar belakang politik Fahd El Fouz alias Fahd Arafiq yang ...",
-      "topics": [
-        "politik",
-        "sosial"
-      ],
-      "published": "2026-09-16T01:10:59+07:00"
-    },
-    {
-      "id": "62920ca1a495",
-      "title": "Mendagri tegaskan reforma agraria untuk kepentingan rakyat",
-      "url": "https://www.antaranews.com/berita/5742991/mendagri-tegaskan-reforma-agraria-untuk-kepentingan-rakyat",
-      "source": "antaranews.com",
-      "summary": "Menteri Dalam Negeri Muhammad Tito Karnavian menegaskan reforma agraria harus diarahkan untuk mewujudkan keadilan dan ...",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-09-16T01:05:40+07:00"
-    },
-    {
-      "id": "a8fa858153da",
-      "title": "KPK sita barang bukti Rp106,3 miliar terkait OTT di Kementerian ATR/BPN",
-      "url": "https://www.antaranews.com/berita/5742985/kpk-sita-barang-bukti-rp1063-miliar-terkait-ott-di-kementerian-atr-bpn",
-      "source": "antaranews.com",
-      "summary": "Komisi Pemberantasan Korupsi menyita sejumlah barang bukti elektronik dan uang dengan jumlah keseluruhan sekitar ...",
-      "topics": [
-        "politik",
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-09-16T00:57:47+07:00"
-    },
-    {
-      "id": "bc3cdf97fdfb",
-      "title": "Pemkot upayakan 417 depot air minum di Palu miliki SLHS",
-      "url": "https://www.antaranews.com/video/5742976/pemkot-upayakan-417-depot-air-minum-di-palu-miliki-slhs",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Pemerintah Kota Palu tengah mengupayakan agar para pelaku usaha depot air minum isi ulang dapat memenuhi ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-09-16T00:54:49+07:00"
-    },
-    {
-      "id": "df1f74f6ef06",
-      "title": "Penataan Kota Tua Padang mulai dilakukan secara bertahap",
-      "url": "https://www.antaranews.com/video/5742879/penataan-kota-tua-padang-mulai-dilakukan-secara-bertahap",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Revitalisasi kawasan Kota Tua Padang di Provinsi Sumatera Barat mulai dilakukan secara bertahap melalui ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-09-16T00:52:35+07:00"
-    },
-    {
-      "id": "4680b2cf3736",
-      "title": "Konser YE di Jakarta diproyeksikan tarik ribuan wisatawan mancanegara",
-      "url": "https://www.antaranews.com/berita/5742981/konser-ye-di-jakarta-diproyeksikan-tarik-ribuan-wisatawan-mancanegara",
-      "source": "antaranews.com",
-      "summary": "Raw Vision Collective&nbsp;selaku promotor konser &quot;YE Live in Jakarta&quot;&nbsp;pada 24 Oktober 2026 ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-09-16T00:51:54+07:00"
-    },
-    {
-      "id": "bc330f4bcecd",
-      "title": "BNPB: Jumlah pengungsi akibat gempa NTT turun jadi 46 ribu orang",
-      "url": "https://www.antaranews.com/video/5742944/bnpb-jumlah-pengungsi-akibat-gempa-ntt-turun-jadi-46-ribu-orang",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Badan Nasional Penanggulangan Bencana (BNPB) mencatat terdapat penurunan jumlah warga yang mengungsi akibat ...",
-      "topics": [
-        "sosial"
-      ],
-      "published": "2026-09-16T00:50:36+07:00"
-    },
-    {
-      "id": "6c2c87635d0f",
-      "title": "Di balik seragam, Polwan Kaltara mengabdi sebagai relawan pengajar",
-      "url": "https://www.antaranews.com/berita/5742977/di-balik-seragam-polwan-kaltara-mengabdi-sebagai-relawan-pengajar",
-      "source": "antaranews.com",
-      "summary": "Sejumlah polisi wanita (Polwan) Polda Kalimantan Utara mengabdikan diri sebagai relawan pengajar di luar tugas ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-09-16T00:42:24+07:00"
     }
   ]
 }
