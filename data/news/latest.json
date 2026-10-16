@@ -1,9 +1,577 @@
 {
-  "updated": "2026-10-16T04:57:13.929044+07:00",
+  "updated": "2026-10-16T12:29:51.583239+07:00",
   "source": "RSS aggregator",
   "retention_days": 7,
-  "count": 938,
+  "count": 988,
   "items": [
+    {
+      "id": "bf1881d2286f",
+      "title": "Mendag dorong penciptaan pasar fesyen modest baru",
+      "url": "https://www.antaranews.com/berita/5790709/mendag-dorong-penciptaan-pasar-fesyen-modest-baru",
+      "source": "antaranews.com",
+      "summary": "Menteri Perdagangan (Mendag) Budi Santoso mengatakan Kementerian Perdagangan (Kemendag) berkomitmen untuk terus ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-10-16T12:25:56+07:00"
+    },
+    {
+      "id": "a405198dfba5",
+      "title": "IHSG anjlok pada pembukaan sesi I Jumat ini, perdagangan dihentikan sementara",
+      "url": "https://www.antaranews.com/foto/5790705/ihsg-anjlok-pada-pembukaan-sesi-i-jumat-ini-perdagangan-dihentikan-sementara",
+      "source": "antaranews.com",
+      "summary": "Pengunjung memantau layar pergerakan Indeks Harga Saham Gabungan (IHSG) di Bursa Efek Indonesia, Jakarta, Jumat ...",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-10-16T12:24:38+07:00"
+    },
+    {
+      "id": "480dc262593c",
+      "title": "Guru Besar UI soroti pentingnya edukasi budaya dalam pengasuhan bayi",
+      "url": "https://www.antaranews.com/berita/5790701/guru-besar-ui-soroti-pentingnya-edukasi-budaya-dalam-pengasuhan-bayi",
+      "source": "antaranews.com",
+      "summary": "Guru Besar Keperawatan Anak dari Fakultas Ilmu Keperawatan (FIK) Universitas Indonesia (UI), Prof&nbsp;Dessie Wanda ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T12:23:46+07:00"
+    },
+    {
+      "id": "06340c0c46b2",
+      "title": "Warga bisa naik perahu gratis di Festival CiLung 2026",
+      "url": "https://www.antaranews.com/berita/5790697/warga-bisa-naik-perahu-gratis-di-festival-cilung-2026",
+      "source": "antaranews.com",
+      "summary": "Warga dapat menikmati pengalaman naik perahu yang terbuat dari botol plastik bekas secara gratis dalam Festival Perahu ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T12:22:13+07:00"
+    },
+    {
+      "id": "d5589d8217fc",
+      "title": "Kemenpar promosikan wisata Yogyakarta kepada agen perjalanan Singapura",
+      "url": "https://www.antaranews.com/berita/5790693/kemenpar-promosikan-wisata-yogyakarta-kepada-agen-perjalanan-singapura",
+      "source": "antaranews.com",
+      "summary": "Kementerian Pariwisata mempromosikan destinasi berserta atraksi wisata yang ada di kawasan DI Yogyakarta kepada agen ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-10-16T12:22:06+07:00"
+    },
+    {
+      "id": "545e03593b0b",
+      "title": "Wamen Fajar: Pascasarjana berperan cetak penggerak inovasi kebijakan",
+      "url": "https://www.antaranews.com/berita/5790689/wamen-fajar-pascasarjana-berperan-cetak-penggerak-inovasi-kebijakan",
+      "source": "antaranews.com",
+      "summary": "Wakil Menteri Pendidikan Dasar dan Menengah (Wamendikdasmen) Fajar Riza Ul Haq mendorong Sekolah Pascasarjana ...",
+      "topics": [
+        "politik",
+        "sosial"
+      ],
+      "published": "2026-10-16T12:16:47+07:00"
+    },
+    {
+      "id": "eeaa9a72f9ed",
+      "title": "Bulog dukung penguatan peran KDMP sebagai distribusi saluran pangan",
+      "url": "https://www.antaranews.com/berita/5790685/bulog-dukung-penguatan-peran-kdmp-sebagai-distribusi-saluran-pangan",
+      "source": "antaranews.com",
+      "summary": "Pemimpin Perum Badan Urusan Logistik (Bulog) Kantor Wilayah DKI Jakarta dan Banten Taufan Akib menegaskan Bulog ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T12:14:29+07:00"
+    },
+    {
+      "id": "5b45e6c3bf06",
+      "title": "RSUD Dr Soetomo tangani dua korban karhutla Bromo",
+      "url": "https://www.antaranews.com/berita/5790681/rsud-dr-soetomo-tangani-dua-korban-karhutla-bromo",
+      "source": "antaranews.com",
+      "summary": "RSUD Dr Soetomo Surabaya menangani dua korban kebakaran di kawasan Taman Nasional Bromo Tengger Semeru (TNBTS), ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T12:12:52+07:00"
+    },
+    {
+      "id": "de4af252f8dc",
+      "title": "IPC TPK perluas pasar ekspor-impor lewat direct call ke China",
+      "url": "https://www.antaranews.com/berita/5790677/ipc-tpk-perluas-pasar-ekspor-impor-lewat-direct-call-ke-china",
+      "source": "antaranews.com",
+      "summary": "PT IPC Terminal Petikemas (IPC TPK)&nbsp;menghadirkan layanan rute baru pelayaran Mediterranean Shipping Company (MSC) ...",
+      "topics": [
+        "ekonomi",
+        "internasional"
+      ],
+      "published": "2026-10-16T12:12:13+07:00"
+    },
+    {
+      "id": "5da3ecbb7089",
+      "title": "Pertamina Patra Niaga dorong kemandirian disabilitas di Bitung",
+      "url": "https://www.antaranews.com/berita/5790673/pertamina-patra-niaga-dorong-kemandirian-disabilitas-di-bitung",
+      "source": "antaranews.com",
+      "summary": "PT Pertamina Patra Niaga Regional Sulawesi mendorong kemandirian penyandang disabilitas di Bitung, Sulawesi Utara, ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T11:45:25+07:00"
+    },
+    {
+      "id": "7348d0006018",
+      "title": "Pemerintah antisipasi ancaman komputasi kuantum terhadap keamanan data",
+      "url": "https://www.antaranews.com/berita/5790669/pemerintah-antisipasi-ancaman-komputasi-kuantum-terhadap-keamanan-data",
+      "source": "antaranews.com",
+      "summary": "Pemerintah mengantisipasi ancaman perkembangan komputasi kuantum terhadap keamanan data digital melalui kesiapan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T11:41:08+07:00"
+    },
+    {
+      "id": "4e533772a899",
+      "title": "OJK: Bank bisa pilih mekanisme pemenuhan \"free float\" sesuai kondisi",
+      "url": "https://www.antaranews.com/berita/5790665/ojk-bank-bisa-pilih-mekanisme-pemenuhan-free-float-sesuai-kondisi",
+      "source": "antaranews.com",
+      "summary": "Otoritas Jasa Keuangan (OJK) memberikan ruang kepada bank dan pemegang saham untuk memilih langkah yang sesuai dengan ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-10-16T11:39:04+07:00"
+    },
+    {
+      "id": "34c7d46c5846",
+      "title": "Disbun Kaltim tetapkan harga tertinggi TBS sawit Rp3.542 per kg",
+      "url": "https://www.antaranews.com/berita/5790661/disbun-kaltim-tetapkan-harga-tertinggi-tbs-sawit-rp3542-per-kg",
+      "source": "antaranews.com",
+      "summary": "Dinas Perkebunan Provinsi Kalimantan Timur menetapkan harga tertinggi tandan buah segar (TBS) kelapa sawit periode 1-15 ...",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-10-16T11:30:50+07:00"
+    },
+    {
+      "id": "56792b4949e6",
+      "title": "Kegunaan oatmeal untuk menjaga kesehatan tubuh secara menyeluruh",
+      "url": "https://www.antaranews.com/berita/5790657/kegunaan-oatmeal-untuk-menjaga-kesehatan-tubuh-secara-menyeluruh",
+      "source": "antaranews.com",
+      "summary": "Oatmeal merupakan salah satu menu sarapan pengganti nasi yang bernutrisi dan mendukung kesehatan secara ...",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-10-16T11:25:08+07:00"
+    },
+    {
+      "id": "f182ac2bc277",
+      "title": "BMW mulai produksi massal baterai generasi keenam di Tiongkok",
+      "url": "https://otomotif.antaranews.com/berita/5790653/bmw-mulai-produksi-massal-baterai-generasi-keenam-di-tiongkok",
+      "source": "antaranews.com",
+      "summary": "BMW Group secara resmi memulai produksi massal baterai tegangan tinggi generasi keenamnya pada Kamis (15/10) di ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T11:23:28+07:00"
+    },
+    {
+      "id": "d27a847344d6",
+      "title": "Jennie BLACKPINK akan isi soundtrack film animasi \"Steps\"",
+      "url": "https://www.antaranews.com/berita/5790649/jennie-blackpink-akan-isi-soundtrack-film-animasi-steps",
+      "source": "antaranews.com",
+      "summary": "Solois sekaligus anggota grup K-pop BLACKPINK Jennie akan mengisi soundtrack film animasi terbaru ...",
+      "topics": [
+        "hiburan"
+      ],
+      "published": "2026-10-16T11:12:00+07:00"
+    },
+    {
+      "id": "1c861015fd6f",
+      "title": "IGEL Menunjuk Pemimpin Zero Trust AS, Randy Resnick, untuk Memajukan Strategi IGEL Adaptive Secure Endpoint Platform™",
+      "url": "https://www.antaranews.com/berita/5790645/igel-menunjuk-pemimpin-zero-trust-as-randy-resnick-untuk-memajukan-strategi-igel-adaptive-secure-endpoint-platform",
+      "source": "antaranews.com",
+      "summary": "&nbsp;IGEL&reg;,&nbsp;perusahaan perangkat lunak global yang menyediakan IGEL Adaptive Secure Endpoint Platform&trade; ...",
+      "topics": [
+        "internasional"
+      ],
+      "published": "2026-10-16T11:07:22+07:00"
+    },
+    {
+      "id": "d668c9b8dc06",
+      "title": "Menekraf: Budaya Indonesia jadi modal desainer tembus pasar global",
+      "url": "https://www.antaranews.com/berita/5790641/menekraf-budaya-indonesia-jadi-modal-desainer-tembus-pasar-global",
+      "source": "antaranews.com",
+      "summary": "Menteri Ekonomi Kreatif/Kepala Badan Ekonomi Kreatif (Menekraf)&nbsp;Teuku Riefky Harsya menilai kekayaan budaya ...",
+      "topics": [
+        "ekonomi",
+        "politik",
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-10-16T11:04:02+07:00"
+    },
+    {
+      "id": "14d2c0a79b39",
+      "title": "Kehadiran iPad mini 8 terbongkar lewat situs Apple",
+      "url": "https://www.antaranews.com/berita/5790637/kehadiran-ipad-mini-8-terbongkar-lewat-situs-apple",
+      "source": "antaranews.com",
+      "summary": "Apple dilaporkan mendaftarkan aksesori Smart Folio untuk iPad mini generasi terbaru, iPad mini 8, yang belum dirilis ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T11:03:10+07:00"
+    },
+    {
+      "id": "cd4a6d31c5f3",
+      "title": "PPATK dan MIND ID Perkuat Kolaborasi, Jaga Integritas Industri Pertambangan Nasional",
+      "url": "https://www.antaranews.com/berita/5790633/ppatk-dan-mind-id-perkuat-kolaborasi-jaga-integritas-industri-pertambangan-nasional",
+      "source": "antaranews.com",
+      "summary": "Jakarta (ANTARA) &ndash; Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) dan PT Mineral Industri Indonesia ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T11:01:55+07:00"
+    },
+    {
+      "id": "be0d4f82c74a",
+      "title": "Wamenpar sebut kekayaan budaya menjadi bekal membangun pariwisata",
+      "url": "https://www.antaranews.com/berita/5790629/wamenpar-sebut-kekayaan-budaya-menjadi-bekal-membangun-pariwisata",
+      "source": "antaranews.com",
+      "summary": "Wakil Menteri Pariwisata Ni Luh Puspa mengajak lulusan Poli Teknik Pariwisata (Poltekpar) untuk beradaptasi dengan ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-10-16T10:58:29+07:00"
+    },
+    {
+      "id": "ab85ebbdfd05",
+      "title": "Xinhua Silk Road: Linyi Trade City di Tiongkok Bagian Timur Buka Pusat Pengadaan Internasional, Dorong Aktivitas Perdagangan Global",
+      "url": "https://www.antaranews.com/berita/5790625/xinhua-silk-road-linyi-trade-city-di-tiongkok-bagian-timur-buka-pusat-pengadaan-internasional-dorong-aktivitas-perdagangan-global",
+      "source": "antaranews.com",
+      "summary": "Linyi Trade City, pusat perdagangan komoditas di Provinsi Shandong, Tiongkok bagian timur, baru-baru ini membuka pusat ...",
+      "topics": [
+        "internasional"
+      ],
+      "published": "2026-10-16T10:56:50+07:00"
+    },
+    {
+      "id": "cb9770987721",
+      "title": "Kemenpar komitmen sediakan akses informasi pariwisata kepada publik",
+      "url": "https://www.antaranews.com/berita/5790621/kemenpar-komitmen-sediakan-akses-informasi-pariwisata-kepada-publik",
+      "source": "antaranews.com",
+      "summary": "Kementerian Pariwisata menyatakan terus berkomitmen dan akan konsisten menjaga kinerjanya untuk meningkatkan ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-10-16T10:52:14+07:00"
+    },
+    {
+      "id": "c2e7b3adc8c5",
+      "title": "Kimia Farma Apotek raih juara kategori ritel CX100 Danantara",
+      "url": "https://www.antaranews.com/berita/5790617/kimia-farma-apotek-raih-juara-kategori-ritel-cx100-danantara",
+      "source": "antaranews.com",
+      "summary": "Anak usaha PT Kimia Farma Tbk, PT Kimia Farma Apotek (KFA), meraih penghargaan juara kategori ritel dalam ajang ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-10-16T10:49:05+07:00"
+    },
+    {
+      "id": "72df03c5abe8",
+      "title": "Pemerintah memetakan kesiapan regulasi untuk aksesi CPTPP",
+      "url": "https://www.antaranews.com/berita/5790613/pemerintah-memetakan-kesiapan-regulasi-untuk-aksesi-cptpp",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Indonesia memetakan kesiapan regulasi nasional untuk aksesi&nbsp;(proses bergabung) dalam Perjanjian ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T10:47:19+07:00"
+    },
+    {
+      "id": "39950e83e96d",
+      "title": "Simak daftar harga emas Galeri24-Antam-UBS di Pegadaian pada Jumat",
+      "url": "https://www.antaranews.com/berita/5790609/simak-daftar-harga-emas-galeri24-antam-ubs-di-pegadaian-pada-jumat",
+      "source": "antaranews.com",
+      "summary": "Harga emas di laman Pegadaian dikutip dari Jakarta, Jumat pukul 10.30 WIB, menunjukkan harga emas jenama Galeri24, ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-10-16T10:40:59+07:00"
+    },
+    {
+      "id": "fa0581b2b311",
+      "title": "PT Astra International Tbk Hadirkan Produk Unggulan Lokal di Trade Expo Indonesia 2026",
+      "url": "https://www.antaranews.com/berita/5790605/pt-astra-international-tbk-hadirkan-produk-unggulan-lokal-di-trade-expo-indonesia-2026",
+      "source": "antaranews.com",
+      "summary": "Dalam upaya mendukung pertumbuhan ekspor UMKM nasional, PT Astra International Tbk (Astra) menghadirkan produk ...",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-10-16T10:37:59+07:00"
+    },
+    {
+      "id": "f995780e1c9d",
+      "title": "Ketika yang tumbuh bukan cuma usaha, PNM hadirkan dampak lebih luas bagi nasabah",
+      "url": "https://www.antaranews.com/berita/5790601/ketika-yang-tumbuh-bukan-cuma-usaha-pnm-hadirkan-dampak-lebih-luas-bagi-nasabah",
+      "source": "antaranews.com",
+      "summary": "Jakarta (ANTARA) &ndash; Bagi pengusaha kecil, tambahan modal bisa berarti banyak hal. Bisa berarti stok dagangan yang ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T10:22:36+07:00"
+    },
+    {
+      "id": "3dda6338d283",
+      "title": "Tiga eks pejabat Bea Cukai hadapi sidang tuntutan kasus suap hari ini",
+      "url": "https://www.antaranews.com/berita/5790597/tiga-eks-pejabat-bea-cukai-hadapi-sidang-tuntutan-kasus-suap-hari-ini",
+      "source": "antaranews.com",
+      "summary": "Tiga mantan pejabat Direktorat Jenderal Bea dan Cukai Kementerian Keuangan menghadapi sidang tuntutan di Pengadilan ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-10-16T10:20:52+07:00"
+    },
+    {
+      "id": "030339d50587",
+      "title": "BP Batam wajibkan pengembang data center bangun instalasi air mandiri",
+      "url": "https://www.antaranews.com/berita/5790593/bp-batam-wajibkan-pengembang-data-center-bangun-instalasi-air-mandiri",
+      "source": "antaranews.com",
+      "summary": "Badan Pengusahaan (BP) Batam, Kepulauan Riau (Kepri), mewajibkan pengembang pusat data (data center) membangun dan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T10:18:29+07:00"
+    },
+    {
+      "id": "4a993631f958",
+      "title": "Rumor akuisisi BCA oleh Haji Isam hingga dugaan pelecehan di Unpas",
+      "url": "https://www.antaranews.com/berita/5790589/rumor-akuisisi-bca-oleh-haji-isam-hingga-dugaan-pelecehan-di-unpas",
+      "source": "antaranews.com",
+      "summary": "Sejumlah berita menarik dari berbagai kanal di ANTARA telah dirangkum pada Jumat, di antaranya ada tanggapan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T10:17:00+07:00"
+    },
+    {
+      "id": "1047d87398d8",
+      "title": "LPS kebut penyiapan regulasi kepesertaan penjaminan polis asuransi",
+      "url": "https://www.antaranews.com/berita/5790585/lps-kebut-penyiapan-regulasi-kepesertaan-penjaminan-polis-asuransi",
+      "source": "antaranews.com",
+      "summary": "Lembaga Penjamin Simpanan (LPS) mengebut penyiapan regulasi model kepesertaan penjaminan polis asuransi yang ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T10:14:29+07:00"
+    },
+    {
+      "id": "bcc5aab50b25",
+      "title": "Rupiah sentuh Rp18 ribu, BI terus intervensi pasar di tengah risk-off",
+      "url": "https://www.antaranews.com/berita/5790581/rupiah-sentuh-rp18-ribu-bi-terus-intervensi-pasar-di-tengah-risk-off",
+      "source": "antaranews.com",
+      "summary": "Bank Indonesia (BI) menyebut akan terus hadir di pasar keuangan untuk menjaga stabilitas nilai tukar rupiah sesuai ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-10-16T10:13:32+07:00"
+    },
+    {
+      "id": "20b8daa7934c",
+      "title": "Korlantas komitmen cegah pungli lewat transparansi pelayanan",
+      "url": "https://www.antaranews.com/berita/5790577/korlantas-komitmen-cegah-pungli-lewat-transparansi-pelayanan",
+      "source": "antaranews.com",
+      "summary": "Kepala Korps Lalu Lintas (Kakorlantas) Polri Brigjen Pol. Aries Syahbudin menegaskan komitmen jajaran kepolisian lalu ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T10:10:29+07:00"
+    },
+    {
+      "id": "bc05666db251",
+      "title": "Rupiah melemah ke Rp18.021 seiring rilis MSCI terkait pasar saham RI",
+      "url": "https://www.antaranews.com/berita/5790573/rupiah-melemah-ke-rp18021-seiring-rilis-msci-terkait-pasar-saham-ri",
+      "source": "antaranews.com",
+      "summary": "Nilai tukar rupiah terhadap dolar AS pada pembukaan perdagangan Jumat, bergerak melemah 83 poin atau 0,46 persen ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-10-16T10:03:52+07:00"
+    },
+    {
+      "id": "3eeecb0ea345",
+      "title": "Gugat balik Apple, OpenAI tuduh mantan pegawai curi rahasia dagang",
+      "url": "https://www.antaranews.com/berita/5790569/gugat-balik-apple-openai-tuduh-mantan-pegawai-curi-rahasia-dagang",
+      "source": "antaranews.com",
+      "summary": "Setelah Apple memprakarsai gugatan terhadap OpenAI pada Juli lalu atas dugaan pencurian kekayaan intelektual, kini ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T10:00:49+07:00"
+    },
+    {
+      "id": "4e543fbe700d",
+      "title": "Wamenkes dorong kolaborasi UKI siapkan SDM kesehatan menuju 2045",
+      "url": "https://www.antaranews.com/berita/5790565/wamenkes-dorong-kolaborasi-uki-siapkan-sdm-kesehatan-menuju-2045",
+      "source": "antaranews.com",
+      "summary": "Wakil Menteri Kesehatan (Wamenkes) Benjamin&nbsp;P Octavianus mendorong kolaborasi antara pemerintah dan Universitas ...",
+      "topics": [
+        "politik",
+        "sosial"
+      ],
+      "published": "2026-10-16T10:00:09+07:00"
+    },
+    {
+      "id": "5dca569cf557",
+      "title": "Wamendag dorong RI-Belanda perkuat kemitraan rantai pasok global",
+      "url": "https://www.antaranews.com/berita/5790561/wamendag-dorong-ri-belanda-perkuat-kemitraan-rantai-pasok-global",
+      "source": "antaranews.com",
+      "summary": "Wakil Menteri Perdagangan (Wamendag) Dyah Roro Esti Widya Putri mendorong penguatan kemitraan bisnis Indonesia dan ...",
+      "topics": [
+        "ekonomi",
+        "politik",
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-10-16T09:56:14+07:00"
+    },
+    {
+      "id": "a9fb4feeee9a",
+      "title": "Dari stabilitas harga hingga UMKM menembus pasar global",
+      "url": "https://www.antaranews.com/berita/5790557/dari-stabilitas-harga-hingga-umkm-menembus-pasar-global",
+      "source": "antaranews.com",
+      "summary": "Produk dari desa kini ikut membidik pasar internasional. Pelaku usaha mikro, kecil, dan menengah (UMKM) tidak lagi ...",
+      "topics": [
+        "ekonomi",
+        "internasional"
+      ],
+      "published": "2026-10-16T09:56:14+07:00"
+    },
+    {
+      "id": "3b907b3b20f9",
+      "title": "BNNP Bali buru WNA diduga kendalikan penyelundupan 4,59 kg kokain",
+      "url": "https://www.antaranews.com/berita/5790553/bnnp-bali-buru-wna-diduga-kendalikan-penyelundupan-459-kg-kokain",
+      "source": "antaranews.com",
+      "summary": "Badan Narkotika Nasional Provinsi (BNNP) Bali masih memburu seorang warga negara asing (WNA) yang diduga menjadi ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T09:53:24+07:00"
+    },
+    {
+      "id": "a339676162a5",
+      "title": "Nelayan Anambas ditemukan selamat di Perairan Malaysia",
+      "url": "https://www.antaranews.com/berita/5790549/nelayan-anambas-ditemukan-selamat-di-perairan-malaysia",
+      "source": "antaranews.com",
+      "summary": "Kantor Pencarian dan Pertolongan (SAR) Natuna, Kepulauan Riau mengatakan Bachtiar (61), warga Genting Pulur, Kabupaten ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T09:53:16+07:00"
+    },
+    {
+      "id": "c309c6dc032f",
+      "title": "Pulau Lanjukang, wisata bahari yang \"menjual\" konservasi",
+      "url": "https://www.antaranews.com/berita/5790545/pulau-lanjukang-wisata-bahari-yang-menjual-konservasi",
+      "source": "antaranews.com",
+      "summary": "- menjual paket wisata yang dipadukan dengan edukasi tentang lingkungan dan konservasi laut.\n\nMenurut Koordinator ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T09:48:14+07:00"
+    },
+    {
+      "id": "246d9d5bcd02",
+      "title": "DLH: Sampah ajang MotoGP Indonesia 2026 masih disisir",
+      "url": "https://www.antaranews.com/berita/5790541/dlh-sampah-ajang-motogp-indonesia-2026-masih-disisir",
+      "source": "antaranews.com",
+      "summary": "Dinas Lingkungan Hidup (DLH) Kabupaten Lombok Tengah, Nusa Tenggara Barat (NTB) menyatakan sampah ajang MotoGP ...",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-10-16T09:43:57+07:00"
+    },
+    {
+      "id": "148bfbf9397a",
+      "title": "Wakil Wali Kota Jakpus tekankan etika dalam jurnalistik digital pemuda",
+      "url": "https://www.antaranews.com/berita/5790537/wakil-wali-kota-jakpus-tekankan-etika-dalam-jurnalistik-digital-pemuda",
+      "source": "antaranews.com",
+      "summary": "Wakil Wali Kota Jakarta Pusat (Jakpus)&nbsp;Eric PZ Lumbun menekankan pentingnya literasi digital dan etika jurnalistik ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T09:43:24+07:00"
+    },
+    {
+      "id": "8f5795b3548e",
+      "title": "OJK hormati pandangan MSCI dan tindak lanjuti masukan atas bursa RI",
+      "url": "https://www.antaranews.com/berita/5790533/ojk-hormati-pandangan-msci-dan-tindak-lanjuti-masukan-atas-bursa-ri",
+      "source": "antaranews.com",
+      "summary": "Ketua Dewan Komisioner Otoritas Jasa Keuangan (OJK) Friderica Widyasari Dewi menyampaikan bahwa OJK menghormati ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T09:42:10+07:00"
+    },
+    {
+      "id": "6f96d1e0677f",
+      "title": "Houthi serang Istana Presiden Yaman dengan rudal balistik",
+      "url": "https://www.antaranews.com/berita/5790529/houthi-serang-istana-presiden-yaman-dengan-rudal-balistik",
+      "source": "antaranews.com",
+      "summary": "Lima orang tewas dan 16 lainnya luka-luka dalam serangan rudal balistik oleh&nbsp;kelompok Houthi&nbsp;ke Istana ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-10-16T09:38:43+07:00"
+    },
+    {
+      "id": "4b4f40aa68e6",
+      "title": "Adyos Astan langsung petakan lawan seusai kemenangan perdana",
+      "url": "https://www.antaranews.com/berita/5790525/adyos-astan-langsung-petakan-lawan-seusai-kemenangan-perdana",
+      "source": "antaranews.com",
+      "summary": "Atlet para tenis meja Indonesia Adyos Astan langsung memetakan kekuatan calon lawan berikutnya setelah membuka Asian ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-10-16T09:36:16+07:00"
+    },
+    {
+      "id": "b01df2aa0f29",
+      "title": "KPK umumkan telah tetapkan tersangka terkait OTT Bupati Klaten",
+      "url": "https://www.antaranews.com/berita/5790521/kpk-umumkan-telah-tetapkan-tersangka-terkait-ott-bupati-klaten",
+      "source": "antaranews.com",
+      "summary": "Komisi Pemberantasan Korupsi (KPK) mengumumkan telah menetapkan tersangka terkait operasi tangkap tangan (OTT) yang ...",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-10-16T09:34:17+07:00"
+    },
+    {
+      "id": "6dd77607f68d",
+      "title": "Xinhua Silk Road: Forum di Jakarta Perkuat Kerja Sama Perpajakan antara Negara-Negara \"Belt and Road\"",
+      "url": "https://www.antaranews.com/berita/5790517/xinhua-silk-road-forum-di-jakarta-perkuat-kerja-sama-perpajakan-antara-negara-negara-belt-and-road",
+      "source": "antaranews.com",
+      "summary": "Ajang 7th Belt and Road Initiative Tax Administration Cooperation Forum (BRITACOF) resmi dibuka pada Selasa lalu di ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T09:33:12+07:00"
+    },
+    {
+      "id": "ca4a7912728c",
+      "title": "Moncler Re/Icons: Cher, JENNIE, dan Grace Jones Ciptakan Ulang Makna Menjadi Seorang Perintis",
+      "url": "https://www.antaranews.com/berita/5790513/moncler-re-icons-cher-jennie-dan-grace-jones-ciptakan-ulang-makna-menjadi-seorang-perintis",
+      "source": "antaranews.com",
+      "summary": "- Sejak awal berdiri, Moncler selalu berada di garis depan dan melengkapi penampilan para perintis paling berani di ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-10-16T09:32:59+07:00"
+    },
     {
       "id": "d9236d59abbf",
       "title": "Wamenhan: Industri pertahanan didorong untuk perkuat TNI dan ekonomi",
