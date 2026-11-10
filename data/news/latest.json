@@ -1,9 +1,1576 @@
 {
-  "updated": "2026-11-10T15:01:04.229048+07:00",
+  "updated": "2026-11-11T03:16:17.911867+07:00",
   "source": "RSS aggregator",
   "retention_days": 7,
-  "count": 1641,
+  "count": 1652,
   "items": [
+    {
+      "id": "155294455f2b",
+      "title": "Menteri LH luncurkan CarbonNex di COP31, wadah kerja sama karbon",
+      "url": "https://www.antaranews.com/berita/5845495/menteri-lh-luncurkan-carbonnex-di-cop31-wadah-kerja-sama-karbon",
+      "source": "antaranews.com",
+      "summary": "Menteri Lingkungan Hidup Jumhur Hidayat meluncurkan platform Carbon Connection For Climate Next (CarbonNex), sebagai ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-11T03:09:53+07:00"
+    },
+    {
+      "id": "6a54fdbe3afa",
+      "title": "Menteri LH mulai gelar dialog dengan sejumlah negara di COP31",
+      "url": "https://www.antaranews.com/berita/5845491/menteri-lh-mulai-gelar-dialog-dengan-sejumlah-negara-di-cop31",
+      "source": "antaranews.com",
+      "summary": "Menteri Lingkungan Hidup Jumhur Hidayat mulai menggelar dialog permulaan dengan perwakilan beberapa negara seperti ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-11T03:07:12+07:00"
+    },
+    {
+      "id": "399951a32bd4",
+      "title": "Pejuang gerilya Letkol Sroedji dianugerahkan gelar pahlawan nasional",
+      "url": "https://www.antaranews.com/berita/5845487/pejuang-gerilya-letkol-sroedji-dianugerahkan-gelar-pahlawan-nasional",
+      "source": "antaranews.com",
+      "summary": "Letnan Kolonel Infanteri (Anumerta) Mochamad Sroedji, Komandan Brigade III Damarwulan, menerima anugerah gelar pahlawan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-11T02:52:59+07:00"
+    },
+    {
+      "id": "4c3097f32812",
+      "title": "Polisi Usut Pelajar SMP Keroyok Siswa SD di Batam dan Unggah ke IG",
+      "url": "https://www.cnnindonesia.com/nasional/20261110192815-12-1425598/polisi-usut-pelajar-smp-keroyok-siswa-sd-di-batam-dan-unggah-ke-ig",
+      "source": "cnnindonesia.com",
+      "summary": "Polresta Barelang menyelidiki kasus perundungan siswa SMP terhadap siswa SD di Batam. Korban berusia 14 tahun, video perundungan viral di media sosial.",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-11-11T02:30:19+07:00"
+    },
+    {
+      "id": "a3052c086fed",
+      "title": "Sassuolo resmi tunjuk Roberto D'Aversa sebagai pelatih baru",
+      "url": "https://www.antaranews.com/berita/5845483/sassuolo-resmi-tunjuk-roberto-daversa-sebagai-pelatih-baru",
+      "source": "antaranews.com",
+      "summary": "Klub Liga Italia Sassuolo resmi menunjuk Roberto D'Aversa sebagai pelatih kepala baru menggantikan Alberto Aquilani ...",
+      "topics": [
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-11-11T02:28:18+07:00"
+    },
+    {
+      "id": "c3c33a54cef8",
+      "title": "Kroupi dipanggil perdana ke timnas Prancis gantikan Thuram",
+      "url": "https://www.antaranews.com/berita/5845479/kroupi-dipanggil-perdana-ke-timnas-prancis-gantikan-thuram",
+      "source": "antaranews.com",
+      "summary": "Penyerang Bournemouth Eli Junior Kroupi mendapat panggilan perdana ke tim nasional senior Prancis untuk menggantikan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-11T02:16:42+07:00"
+    },
+    {
+      "id": "f7bc9d946196",
+      "title": "Mensos: Operasional Sekolah Rakyat di Nagan Raya berjalan sangat baik",
+      "url": "https://www.antaranews.com/berita/5845475/mensos-operasional-sekolah-rakyat-di-nagan-raya-berjalan-sangat-baik",
+      "source": "antaranews.com",
+      "summary": "Menteri Sosial Republik Indonesia, Saifullah Yusuf menyatakan operasional Sekolah Rakyat di Kabupaten Nagan Raya, ...",
+      "topics": [
+        "politik",
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-11-11T02:10:10+07:00"
+    },
+    {
+      "id": "45df0d821df1",
+      "title": "Cassano sebut panggilan timnas senior Italia mimpi jadi nyata",
+      "url": "https://www.antaranews.com/berita/5845471/cassano-sebut-panggilan-timnas-senior-italia-mimpi-jadi-nyata",
+      "source": "antaranews.com",
+      "summary": "Gelandang muda Como 1907 Riccardo Cassano mengaku pemanggilan perdananya ke tim nasional senior Italia merupakan mimpi ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-11T02:07:59+07:00"
+    },
+    {
+      "id": "1611fe015c17",
+      "title": "Cedera otot, Stankovic absen lawan Jerman dan Yunani",
+      "url": "https://www.antaranews.com/berita/5845467/cedera-otot-stankovic-absen-lawan-jerman-dan-yunani",
+      "source": "antaranews.com",
+      "summary": "Gelandang Inter Milan Aleksandar Stankovic dipastikan absen membela tim nasional Serbia dalam dua pertandingan UEFA ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-11T01:57:42+07:00"
+    },
+    {
+      "id": "5ee4f0e5da06",
+      "title": "Pemimpin Perang Paser Sultan Ibrahim Chaliludin jadi pahlawan nasional",
+      "url": "https://www.antaranews.com/berita/5845463/pemimpin-perang-paser-sultan-ibrahim-chaliludin-jadi-pahlawan-nasional",
+      "source": "antaranews.com",
+      "summary": "Pangeran Mangku Jaya Kesuma Adiningrat yang bergelar Sultan Ibrahim Chaliludin menerima anugerah gelar pahlawan ...",
+      "topics": [
+        "internasional"
+      ],
+      "published": "2026-11-11T01:54:59+07:00"
+    },
+    {
+      "id": "cc994f8b7107",
+      "title": "MA unggah putusan lengkap mengenai suket pendidikan SMA Gibran",
+      "url": "https://www.antaranews.com/berita/5845459/ma-unggah-putusan-lengkap-mengenai-suket-pendidikan-sma-gibran",
+      "source": "antaranews.com",
+      "summary": "Mahkamah Agung (MA) mengunggah secara lengkap putusan Nomor 742 K/TUN/2026 terkait permohonan kasasi yang diajukan ...",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-11-11T01:30:49+07:00"
+    },
+    {
+      "id": "7787b9cf134e",
+      "title": "Pelaku industri konstruksi RI unjuk gigi di BuildXpo 2026 Malaysia",
+      "url": "https://www.antaranews.com/video/5845451/pelaku-industri-konstruksi-ri-unjuk-gigi-di-buildxpo-2026-malaysia",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Kedutaan Besar Republik Indonesia Kuala Lumpur (KBRI KL) melalui Atase Perdagangan, mendukung keterlibatan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-11T01:16:00+07:00"
+    },
+    {
+      "id": "fbe7c5d65fde",
+      "title": "Kiai Abbas \"Sang Macan dari Barat\" dianugerahi gelar pahlawan nasional",
+      "url": "https://www.antaranews.com/berita/5845455/kiai-abbas-sang-macan-dari-barat-dianugerahi-gelar-pahlawan-nasional",
+      "source": "antaranews.com",
+      "summary": "Kiai Haji Abbas Abdul Jamil, yang merupakan ulama pejuang dan pendiri Pondok Pesantren Buntet, ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-11T01:15:32+07:00"
+    },
+    {
+      "id": "f8d32c1fcf07",
+      "title": "Kemenkum Integrasikan Data Korporasi, Bidik Transparansi Dunia Usaha",
+      "url": "https://www.cnnindonesia.com/nasional/20261110225317-12-1425652/kemenkum-integrasikan-data-korporasi-bidik-transparansi-dunia-usaha",
+      "source": "cnnindonesia.com",
+      "summary": "Ditjen AHU Kementerian Hukum integrasikan data korporasi dengan 50 kementerian untuk pelayanan publik dan investasi.",
+      "topics": [
+        "ekonomi",
+        "politik",
+        "sosial"
+      ],
+      "published": "2026-11-11T01:03:17+07:00"
+    },
+    {
+      "id": "b717c195cf9c",
+      "title": "KPPU sebut persekongkolan tender jadi pelanggaran dominan di Sumbagut",
+      "url": "https://www.antaranews.com/video/5845447/kppu-sebut-persekongkolan-tender-jadi-pelanggaran-dominan-di-sumbagut",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Komisi Pengawas Persaingan Usaha (KPPU) Kantor Wilayah I mencatat persekongkolan tender pengadaan barang dan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-11T00:54:55+07:00"
+    },
+    {
+      "id": "5991231da837",
+      "title": "Mendagri tegaskan moratorium daerah otonomi baru belum dicabut",
+      "url": "https://www.antaranews.com/berita/5845443/mendagri-tegaskan-moratorium-daerah-otonomi-baru-belum-dicabut",
+      "source": "antaranews.com",
+      "summary": "Menteri Dalam Negeri Republik Indonesia HM Titp Karmavian menyatakan saat ini pemerintah belum mencabut moratorium ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-11T00:33:36+07:00"
+    },
+    {
+      "id": "1bc1743b9eae",
+      "title": "Mendagri: Pemerintah masih bahas lambang dan logo daerah Aceh",
+      "url": "https://www.antaranews.com/berita/5845439/mendagri-pemerintah-masih-bahas-lambang-dan-logo-daerah-aceh",
+      "source": "antaranews.com",
+      "summary": "Menteri Dalam Negeri Republik Indonesia HM Tito&nbsp;Karmavian mengatakan pemerintah saat ini masih melakukan ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-11T00:27:26+07:00"
+    },
+    {
+      "id": "4381c91b07b5",
+      "title": "Pemprov Sumut tekan inflasi pada triwulan III 2026 jadi 2,71 persen",
+      "url": "https://www.antaranews.com/berita/5845435/pemprov-sumut-tekan-inflasi-pada-triwulan-iii-2026-jadi-271-persen",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Provinsi (Pemprov) Sumatera Utara (Sumut) menekan angka inflasi secara tahunan pada triwulan III 2026 dari ...",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-11T00:25:16+07:00"
+    },
+    {
+      "id": "857c4fce8ff5",
+      "title": "Hampir empat ribu atlet berlaga pada Porprov II Kaltara 2026",
+      "url": "https://www.antaranews.com/berita/5845431/hampir-empat-ribu-atlet-berlaga-pada-porprov-ii-kaltara-2026",
+      "source": "antaranews.com",
+      "summary": "Sebanyak 3.955 atlet dari lima kabupaten/kota mengikuti Pekan Olahraga Provinsi (Porprov) II Kalimantan Utara (Kaltara) ...",
+      "topics": [
+        "olahraga"
+      ],
+      "published": "2026-11-11T00:21:53+07:00"
+    },
+    {
+      "id": "76921128884e",
+      "title": "KemenHAM ajak mitra internasional dan sipil dukung program 2027",
+      "url": "https://www.antaranews.com/berita/5845427/kemenham-ajak-mitra-internasional-dan-sipil-dukung-program-2027",
+      "source": "antaranews.com",
+      "summary": "Kementerian Hak Asasi Manusia (KemenHAM) menggelar forum kemitraan strategis HAM 2026 di Jakarta, Selasa, untuk ...",
+      "topics": [
+        "politik",
+        "internasional"
+      ],
+      "published": "2026-11-11T00:17:42+07:00"
+    },
+    {
+      "id": "8a78f3f762cc",
+      "title": "Yusril optimistis RI jadi anggota OECD paling lambat 3 tahun lagi",
+      "url": "https://www.antaranews.com/berita/5845423/yusril-optimistis-ri-jadi-anggota-oecd-paling-lambat-3-tahun-lagi",
+      "source": "antaranews.com",
+      "summary": "Menteri Koordinator Bidang Hukum, Hak Asasi Manusia, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra optimistis ...",
+      "topics": [
+        "politik",
+        "sosial"
+      ],
+      "published": "2026-11-11T00:12:05+07:00"
+    },
+    {
+      "id": "7e2675d43855",
+      "title": "Menkum: Perusahaan tak lapor BO diblokir karena perburuk penataan",
+      "url": "https://www.antaranews.com/berita/5845419/menkum-perusahaan-tak-lapor-bo-diblokir-karena-perburuk-penataan",
+      "source": "antaranews.com",
+      "summary": "nya akan diblokir karena memperburuk penataan dunia usaha.\n\nSaat ini, kata dia, terdapat sisa sebanyak 700 ribu badan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-11T00:10:21+07:00"
+    },
+    {
+      "id": "7e9d0ec5d1db",
+      "title": "Mendagri: Pengibaran merah putih 24 KM di Nagan Raya Aceh perkuat NKRI",
+      "url": "https://www.antaranews.com/berita/5845415/mendagri-pengibaran-merah-putih-24-km-di-nagan-raya-aceh-perkuat-nkri",
+      "source": "antaranews.com",
+      "summary": "Menteri Dalam Negeri Republik Indonesia HM Tito Karnavian mengatakan rencana Pemerintah Kabupaten Nagan Raya, Aceh ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-11T00:06:29+07:00"
+    },
+    {
+      "id": "46cda79b3fb2",
+      "title": "Pigai serahkan bukan karya Prabowo Subianto ke Dubes Vatikan",
+      "url": "https://www.antaranews.com/berita/5845411/pigai-serahkan-bukan-karya-prabowo-subianto-ke-dubes-vatikan",
+      "source": "antaranews.com",
+      "summary": "Menteri Hak Asasi Manusia (HAM) Natalius Pigai menyerahkan buku berjudul &quot;Strategi Transformasi Bangsa&quot; karya ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-11T00:06:15+07:00"
+    },
+    {
+      "id": "21cd6f68b812",
+      "title": "Kubu Silmy Karim Klaim Perkara Pemerasan Akan Sulit Dibuktikan",
+      "url": "https://www.cnnindonesia.com/nasional/20261110224830-12-1425651/kubu-silmy-karim-klaim-perkara-pemerasan-akan-sulit-dibuktikan",
+      "source": "cnnindonesia.com",
+      "summary": "Penasihat hukum Silmy Karim menyatakan JPU KPK mengakui tidak ada OTT terhadap kliennya. Kasus pemerasan dianggap sulit dibuktikan.",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-11-11T00:01:30+07:00"
+    },
+    {
+      "id": "1d33c515e714",
+      "title": "PKS: Sohibul Iman gantikan Hidayat Nur Wahid sebagai Wakil Ketua MPR",
+      "url": "https://www.antaranews.com/berita/5845407/pks-sohibul-iman-gantikan-hidayat-nur-wahid-sebagai-wakil-ketua-mpr",
+      "source": "antaranews.com",
+      "summary": "Partai Keadilan Sejahtera (PKS) menunjuk Mohamad Sohibul Iman untuk menggantikan Hidayat Nur Wahid (HNW) sebagai Wakil ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-11T00:00:14+07:00"
+    },
+    {
+      "id": "eee450cea4af",
+      "title": "Pemkot : HBKL gerakkan ekonomi serta dekatkan layanan pada warga",
+      "url": "https://www.antaranews.com/berita/5845403/pemkot-hbkl-gerakkan-ekonomi-serta-dekatkan-layanan-pada-warga",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Kota Jakarta Utara menilai pelaksanaan Hari Bebas Kendaraan Lokal (HBKL) Plumpang-Semper&nbsp;mampu ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-11-10T23:57:14+07:00"
+    },
+    {
+      "id": "8afc10858402",
+      "title": "Wajah baru pemain timnas sepak bola ikuti pemusatan latihan di Bali",
+      "url": "https://www.antaranews.com/video/5845387/wajah-baru-pemain-timnas-sepak-bola-ikuti-pemusatan-latihan-di-bali",
+      "source": "antaranews.com",
+      "summary": "ANTARA - &lrm;&lrm;Sejumlah wajah baru pemain timnas sepak bola mengikuti pemusatan latihan di Bali United Training ...",
+      "topics": [
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-11-10T23:55:57+07:00"
+    },
+    {
+      "id": "e241b887f4b6",
+      "title": "Mendagri salurkan pompa air bantu pemulihan bencana di Nagan Raya Aceh",
+      "url": "https://www.antaranews.com/berita/5845399/mendagri-salurkan-pompa-air-bantu-pemulihan-bencana-di-nagan-raya-aceh",
+      "source": "antaranews.com",
+      "summary": "Menteri Dalam Negeri Republik Indonesia HM Tito Karnavian menyerahkan bantuan pompa air bertekanan tinggi kepada ...",
+      "topics": [
+        "politik",
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-11-10T23:55:55+07:00"
+    },
+    {
+      "id": "f33af5f6f62c",
+      "title": "Magic dan Kings sama-sama incar kemenangan di Sacramento",
+      "url": "https://www.antaranews.com/berita/5845395/magic-dan-kings-sama-sama-incar-kemenangan-di-sacramento",
+      "source": "antaranews.com",
+      "summary": "Orlando Magic dan Sacramento Kings sama-sama berupaya mengakhiri rentetan kekalahan saat bertemu dalam lanjutan NBA ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T23:53:58+07:00"
+    },
+    {
+      "id": "1f2e850ee0e1",
+      "title": "Kapolri ungkap lakukan operasi senyap tangkap scammer di Filipina",
+      "url": "https://www.antaranews.com/berita/5845391/kapolri-ungkap-lakukan-operasi-senyap-tangkap-scammer-di-filipina",
+      "source": "antaranews.com",
+      "summary": "Kapolri Jenderal Polisi Suyudi Ario Seto memberi&nbsp;bocoran&nbsp;terkait upaya jajarannya melakukan operasi senyap ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T23:53:44+07:00"
+    },
+    {
+      "id": "63271e888441",
+      "title": "Tiwi/Fadia maknai Hari Pahlawan lewat prestasi olahraga",
+      "url": "https://www.antaranews.com/berita/5845383/tiwi-fadia-maknai-hari-pahlawan-lewat-prestasi-olahraga",
+      "source": "antaranews.com",
+      "summary": "Ganda putri Indonesia Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti memaknai Hari Pahlawan yang ...",
+      "topics": [
+        "teknologi",
+        "olahraga"
+      ],
+      "published": "2026-11-10T23:50:35+07:00"
+    },
+    {
+      "id": "3054076576d3",
+      "title": "KPI gaungkan kolaborasi hadapi tantangan penyiaran di era digital",
+      "url": "https://www.antaranews.com/berita/5845379/kpi-gaungkan-kolaborasi-hadapi-tantangan-penyiaran-di-era-digital",
+      "source": "antaranews.com",
+      "summary": "Komisi Penyiaran Indonesia (KPI) memperkuat kolaborasi antar-pemangku kepentingan untuk menjaga keberlangsungan ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T23:38:48+07:00"
+    },
+    {
+      "id": "cfe8f704d19f",
+      "title": "Advokat sebut JPU akui tak ada OTT terhadap Silmy Karim",
+      "url": "https://www.antaranews.com/berita/5845375/advokat-sebut-jpu-akui-tak-ada-ott-terhadap-silmy-karim",
+      "source": "antaranews.com",
+      "summary": "Advokat terdakwa Silmy Karim, Soleman Ponto menyebut jaksa penuntut umum Komisi Pemberantasan Korupsi (JPU KPK) telah ...",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-11-10T23:36:15+07:00"
+    },
+    {
+      "id": "93cdd5fbfced",
+      "title": "Kepala Bakom Bantah Gibran: Tak Mungking Prabowo Saran Fight di PTUN",
+      "url": "https://www.cnnindonesia.com/nasional/20261110231748-32-1425656/kepala-bakom-bantah-gibran-tak-mungking-prabowo-saran-fight-di-ptun",
+      "source": "cnnindonesia.com",
+      "summary": "Kabakom Syahganda Nainggolan bantah Wapres Gibran soal saran Prabowo untuk buktikan ijazah SMA di PTUN. Yusril menegaskan putusan MK dan MA final.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T23:35:06+07:00"
+    },
+    {
+      "id": "fe296e7643da",
+      "title": "Thunder incar kemenangan kelima beruntun di kandang Blazers",
+      "url": "https://www.antaranews.com/berita/5845371/thunder-incar-kemenangan-kelima-beruntun-di-kandang-blazers",
+      "source": "antaranews.com",
+      "summary": "Oklahoma City Thunder membidik kemenangan kelima berturut-turut saat bertandang menghadapi Portland Trail Blazers dalam ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T23:30:01+07:00"
+    },
+    {
+      "id": "cf753284b1c9",
+      "title": "Harga minyak anjlok usai Trump sebut serangan baru ke Iran tak mungkin",
+      "url": "https://www.antaranews.com/berita/5845367/harga-minyak-anjlok-usai-trump-sebut-serangan-baru-ke-iran-tak-mungkin",
+      "source": "antaranews.com",
+      "summary": "Harga minyak mentah berjangka turun lebih dari 5 persen pada satu titik selama perdagangan Senin pagi di tengah ...",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-11-10T23:29:48+07:00"
+    },
+    {
+      "id": "d51e0034a7a4",
+      "title": "Pemkab Bogor siapkan Rp400 juta per titik untuk lumbung sosial",
+      "url": "https://www.antaranews.com/berita/5845363/pemkab-bogor-siapkan-rp400-juta-per-titik-untuk-lumbung-sosial",
+      "source": "antaranews.com",
+      "summary": "Pemerintah Kabupaten Bogor, Jawa Barat, menyiapkan anggaran Rp400 juta per titik untuk pembangunan infrastruktur ...",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-11-10T23:27:43+07:00"
+    },
+    {
+      "id": "c7ed295789ab",
+      "title": "Empat ton gula disebar sebagai bagian festival Serak Gulo Kota Padang",
+      "url": "https://www.antaranews.com/video/5845347/empat-ton-gula-disebar-sebagai-bagian-festival-serak-gulo-kota-padang",
+      "source": "antaranews.com",
+      "summary": "ANTARA -&nbsp;Sebanyak empat ton gula ditebar dalam festival Serak Gulo yang digelar warga keturunan India muslim di ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T23:25:55+07:00"
+    },
+    {
+      "id": "2e98b0c656f0",
+      "title": "Dua jembatan darurat di Aceh Tengah ambruk akibat banjir",
+      "url": "https://www.antaranews.com/berita/5845359/dua-jembatan-darurat-di-aceh-tengah-ambruk-akibat-banjir",
+      "source": "antaranews.com",
+      "summary": "Dua jembatan darurat yang baru dibangun satu bulan terakhir oleh Badan Penanggulangan Bencana Daerah (BPBD ) Kabupaten ...",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-11-10T23:24:34+07:00"
+    },
+    {
+      "id": "aa7e1df28df6",
+      "title": "Kembang api dan api unggun picu polusi udara di Inggris",
+      "url": "https://www.antaranews.com/berita/5845355/kembang-api-dan-api-unggun-picu-polusi-udara-di-inggris",
+      "source": "antaranews.com",
+      "summary": "Kembang api dan api unggun telah berkontribusi pada tingginya tingkat polusi udara di beberapa bagian Inggris, dengan ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T23:23:25+07:00"
+    },
+    {
+      "id": "9d1dd7d85c40",
+      "title": "Komisi III DPR RI apresiasi langkah Polri pecat AS",
+      "url": "https://www.antaranews.com/berita/5845351/komisi-iii-dpr-ri-apresiasi-langkah-polri-pecat-as",
+      "source": "antaranews.com",
+      "summary": "Komisi III DPR RI mengapresiasi langkah Kepolisian Negara Republik Indonesia (Polri) yang memecat AS selaku salah satu ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T23:23:10+07:00"
+    },
+    {
+      "id": "dd0950bc4fec",
+      "title": "UIN Ar-Raniry dukung pengembangan edukasi Syekh Yusuf Al-Makassari",
+      "url": "https://www.antaranews.com/berita/5845343/uin-ar-raniry-dukung-pengembangan-edukasi-syekh-yusuf-al-makassari",
+      "source": "antaranews.com",
+      "summary": "Fakultas Adab dan Humaniora (FAH) Universitas Islam Negeri (UIN) Ar-Raniry Banda Aceh mendukung pengembangan video ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T23:21:20+07:00"
+    },
+    {
+      "id": "7d4cd504978c",
+      "title": "Pencatatan hak cipta gratis kurangi hambatan hingga perlu pendampingan",
+      "url": "https://www.antaranews.com/berita/5845339/pencatatan-hak-cipta-gratis-kurangi-hambatan-hingga-perlu-pendampingan",
+      "source": "antaranews.com",
+      "summary": "Konsultan bisnis musik Aldo Sianturi menilai bahwa kebijakan penerapan tarif Rp0 pencatatan hak cipta berpotensi ...",
+      "topics": [
+        "ekonomi",
+        "teknologi",
+        "hiburan"
+      ],
+      "published": "2026-11-10T23:20:14+07:00"
+    },
+    {
+      "id": "8cac65451a43",
+      "title": "JPU minta perlawanan Silmy Karim ditolak karena dakwaan penuhi syarat",
+      "url": "https://www.antaranews.com/berita/5845335/jpu-minta-perlawanan-silmy-karim-ditolak-karena-dakwaan-penuhi-syarat",
+      "source": "antaranews.com",
+      "summary": "Jaksa Penuntut Umum (JPU) dari Komisi Pemberantasan Korupsi Achmad Husin Madya meminta agar majelis hakim menolak ...",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-11-10T23:16:51+07:00"
+    },
+    {
+      "id": "92e887cc5cbb",
+      "title": "BPJPH dukung sinergi edukasi jaminan halal bagi siswa Sekolah Rakyat",
+      "url": "https://www.antaranews.com/berita/5845331/bpjph-dukung-sinergi-edukasi-jaminan-halal-bagi-siswa-sekolah-rakyat",
+      "source": "antaranews.com",
+      "summary": "Badan Penyelenggara Jaminan Produk Halal (BPJPH) mendukung potensi sinergi edukasi jaminan produk halal bagi siswa ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T23:16:23+07:00"
+    },
+    {
+      "id": "7ae072d466b4",
+      "title": "Sekjen PKS: Gibran Lebih Baik Mundur atau HMP Terus Berjalan",
+      "url": "https://www.cnnindonesia.com/nasional/20261110144008-32-1425434/sekjen-pks-gibran-lebih-baik-mundur-atau-hmp-terus-berjalan",
+      "source": "cnnindonesia.com",
+      "summary": "Sekjen PKS Muhammad Kholid meminta Gibran mundur setelah MA batalkan suket ijazahnya. Proses konstitusional di DPR akan berlanjut jika Gibran tetap bertahan.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T23:15:39+07:00"
+    },
+    {
+      "id": "a9daf1d4566f",
+      "title": "Zayed Award 2027 catat rekor 380 nominasi dari lebih 90 negara",
+      "url": "https://www.antaranews.com/berita/5845327/zayed-award-2027-catat-rekor-380-nominasi-dari-lebih-90-negara",
+      "source": "antaranews.com",
+      "summary": "Zayed Award for Human Fraternity mencatat rekor dengan menerima sekitar 380 nominasi dari lebih 90 negara untuk ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T23:11:42+07:00"
+    },
+    {
+      "id": "c2c0276c12be",
+      "title": "Knicks incar kemenangan keempat beruntun saat hadapi Bucks",
+      "url": "https://www.antaranews.com/berita/5845323/knicks-incar-kemenangan-keempat-beruntun-saat-hadapi-bucks",
+      "source": "antaranews.com",
+      "summary": "New York Knicks membidik kemenangan keempat beruntun saat menjamu Milwaukee Bucks dalam lanjutan NBA 2026/2027 di ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T23:04:58+07:00"
+    },
+    {
+      "id": "d65a4c1ba18b",
+      "title": "Revisi UU Penyiaran ciptakan keadilan media konvensional dan digital",
+      "url": "https://www.antaranews.com/berita/5845319/revisi-uu-penyiaran-ciptakan-keadilan-media-konvensional-dan-digital",
+      "source": "antaranews.com",
+      "summary": "Pemerintah berkomitmen menciptakan keadilan dan kedudukan proposional antara industri penyiaran konvensional dan ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T23:04:47+07:00"
+    },
+    {
+      "id": "a7c46f81104f",
+      "title": "Kapolri ajak gerakan pemuda jaga Indonesia dari tindak kejahatan",
+      "url": "https://www.antaranews.com/berita/5845315/kapolri-ajak-gerakan-pemuda-jaga-indonesia-dari-tindak-kejahatan",
+      "source": "antaranews.com",
+      "summary": "Kapolri Jenderal Polisi Suyudi Ario Seto mengajak seluruh elemen Organisasi Kepemudaan (OKP) di Indonesia untuk terus ...",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T23:03:44+07:00"
+    },
+    {
+      "id": "54fd61bb6f26",
+      "title": "Raih Indonesia Kita Awards, AHY: Infrastruktur harus berdampak nyata",
+      "url": "https://www.antaranews.com/video/5845303/raih-indonesia-kita-awards-ahy-infrastruktur-harus-berdampak-nyata",
+      "source": "antaranews.com",
+      "summary": "ANTARA - Menteri Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan Agus Harimurti Yudhoyono (AHY) menerima ...",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T22:59:02+07:00"
+    },
+    {
+      "id": "d7fbef7bd0ec",
+      "title": "PT INKA sambut rencana pengadaan sebanyak 23 trainset baru KRL",
+      "url": "https://www.antaranews.com/berita/5845311/pt-inka-sambut-rencana-pengadaan-sebanyak-23-trainset-baru-krl",
+      "source": "antaranews.com",
+      "summary": "PT Industri Kereta Api (Persero) atau PT INKA menyambut baik rencana PT KAI (Persero) untuk memenuhi kebutuhan 23 ...",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T22:57:59+07:00"
+    },
+    {
+      "id": "db76bccd2925",
+      "title": "Akademisi: Dugaan penyadapan Presiden isu serius ketahanan nasional",
+      "url": "https://www.antaranews.com/berita/5845307/akademisi-dugaan-penyadapan-presiden-isu-serius-ketahanan-nasional",
+      "source": "antaranews.com",
+      "summary": "Akademisi Universitas Al Azhar Indonesia Heri Herdiawanto mengingatkan dugaan penyadapan ilegal terhadap Presiden ...",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-10T22:57:39+07:00"
+    },
+    {
+      "id": "dcf73b6ee398",
+      "title": "James Gunn dikabarkan hengkang dari DC Studios",
+      "url": "https://www.antaranews.com/berita/5845299/james-gunn-dikabarkan-hengkang-dari-dc-studios",
+      "source": "antaranews.com",
+      "summary": "Sutradara James Gunn dikabarkan meninggalkan posisinya sebagai salah satu pimpinan (co-chief) perusahaan hiburan DC ...",
+      "topics": [
+        "teknologi",
+        "hiburan"
+      ],
+      "published": "2026-11-10T22:49:21+07:00"
+    },
+    {
+      "id": "e8651863c114",
+      "title": "PKS Ungkap Alasan Hidayat Nur Wahid Mundur dari Wakil Ketua MPR",
+      "url": "https://www.cnnindonesia.com/nasional/20261110213307-32-1425637/pks-ungkap-alasan-hidayat-nur-wahid-mundur-dari-wakil-ketua-mpr",
+      "source": "cnnindonesia.com",
+      "summary": "Sekjen PKS Muhammad Kholid umumkan pengunduran Hidayat Nur Wahid dari Wakil Ketua MPR untuk menjabat Ketua BKSAP, fokus pada diplomasi dan dukungan Palestina.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T22:15:55+07:00"
+    },
+    {
+      "id": "c354e607620c",
+      "title": "RI Siapkan Dumai Hub Incar Pasar Kapal Selat Malaka, Saingi Singapura",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261109213406-92-1425155/ri-siapkan-dumai-hub-incar-pasar-kapal-selat-malaka-saingi-singapura",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Pelindo siapkan langkah untuk menyaingi dominasi Singapura di Selat Malaka, targetkan 40 persen pangsa pasar kapal.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T21:40:41+07:00"
+    },
+    {
+      "id": "88070d1c84ba",
+      "title": "FOTO: Sekolah Ambruk di Tasikmalaya, Siswa Belajar di Tenda Darurat",
+      "url": "https://www.cnnindonesia.com/nasional/20261110182814-22-1425548/foto-sekolah-ambruk-di-tasikmalaya-siswa-belajar-di-tenda-darurat",
+      "source": "cnnindonesia.com",
+      "summary": "Siswa mengikuti Kegiatan Belajar Mengajar (KBM) di dalam tenda darurat di SD Negeri Cioray, Desa Kertanegla, Kabupaten Tasikmalaya.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T21:20:11+07:00"
+    },
+    {
+      "id": "ac9f190bb3f2",
+      "title": "Hasil Sidang Etik, Ahrie Sonta Terbukti Sadap Prabowo Secara Ilegal",
+      "url": "https://www.cnnindonesia.com/nasional/20261110210358-12-1425635/hasil-sidang-etik-ahrie-sonta-terbukti-sadap-prabowo-secara-ilegal",
+      "source": "cnnindonesia.com",
+      "summary": "Eks Kadiv Hukum Polri Irjen Ahrie Sonta dinyatakan terbukti melanggar Kode Etik karena telah melakukan penyadapan secara ilegal.",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-11-10T21:08:23+07:00"
+    },
+    {
+      "id": "b7858c552616",
+      "title": "Menperin Bicara Nasib Industri Rokok Elektrik usai MUI Haramkan Vape",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110203746-92-1425620/menperin-bicara-nasib-industri-rokok-elektrik-usai-mui-haramkan-vape",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Menperin Sarmuji merespons penerbitan fatwa haram oleh MUI terhadap seluruh aktivitas yang berkaitan dengan rokok elektrik atau vape.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T20:57:11+07:00"
+    },
+    {
+      "id": "27d5447edc40",
+      "title": "Polri Resmi Pecat Irjen Ahrie Sonta Buntut Kasus Penyadapan Prabowo",
+      "url": "https://www.cnnindonesia.com/nasional/20261110203455-12-1425619/polri-resmi-pecat-irjen-ahrie-sonta-buntut-kasus-penyadapan-prabowo",
+      "source": "cnnindonesia.com",
+      "summary": "Polri memecat Irjen Ahrie Sonta akibat pelanggaran kode etik terkait penyadapan Presiden Prabowo. Sidang etik juga menetapkan tersangka lain dalam kasus ini.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T20:56:52+07:00"
+    },
+    {
+      "id": "09af120257bc",
+      "title": "KRL Green Line Kelebihan Muatan hingga 160%, KAI Siapkan Solusi Ini",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110201818-92-1425615/krl-green-line-kelebihan-muatan-hingga-160-kai-siapkan-solusi-ini",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "KRL Green Line kelebihan muatan hingga 160 persen di jam sibuk. Maka itu, KAI bakal menambah 4 gardu listrik agar KRL bisa menarik 12 gerbong.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T20:43:40+07:00"
+    },
+    {
+      "id": "2a9a7bc95ce4",
+      "title": "Hidayat Nur Wahid Mundur dari Kursi Wakil Ketua MPR RI",
+      "url": "https://www.cnnindonesia.com/nasional/20261110204027-32-1425622/hidayat-nur-wahid-mundur-dari-kursi-wakil-ketua-mpr-ri",
+      "source": "cnnindonesia.com",
+      "summary": "Wakil Ketua Majelis Syuro PKS, Hidayat Nur Wahid alias HNW mengumumkan pengunduran diri sebagai Wakil Ketua MPR RI dari fraksinya.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T20:42:29+07:00"
+    },
+    {
+      "id": "1284374bf899",
+      "title": "Gubernur Jateng Harap Gelar Pahlawan RM Margono Jadi Inspirasi Pemuda",
+      "url": "https://www.cnnindonesia.com/nasional/20261110200027-25-1425612/gubernur-jateng-harap-gelar-pahlawan-rm-margono-jadi-inspirasi-pemuda",
+      "source": "cnnindonesia.com",
+      "summary": "Presiden Prabowo tetapkan RM Margono Djojohadikusumo sebagai Pahlawan Nasional, Gubernur Jateng berharap perjuangannya menginspirasi generasi muda.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T20:33:10+07:00"
+    },
+    {
+      "id": "c140b18c963b",
+      "title": "Bulog Siap Bangun 100 Gudang Baru di Bontang Kaltim",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110150007-92-1425453/bulog-siap-bangun-100-gudang-baru-di-bontang-kaltim",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Rencana pembangunan 100 gudang Bulog di Bontang masih tahap penyusunan studi kelayakan hingga perhitungan kebutuhan anggaran dan desain teknis.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T20:31:10+07:00"
+    },
+    {
+      "id": "69c6e8ecd004",
+      "title": "FOTO: Gibran Tanggapi Isu Mundur Usai Temui Prabowo",
+      "url": "https://www.cnnindonesia.com/nasional/20261110190056-34-1425569/foto-gibran-tanggapi-isu-mundur-usai-temui-prabowo",
+      "source": "cnnindonesia.com",
+      "summary": "Gibran tidak secara lugas menyatakan akan mundur. Sebaliknya, dia mengklaim Prabowo justru mendukungnya untuk berjuang di pengadilan terlebih dulu.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T20:30:33+07:00"
+    },
+    {
+      "id": "eff8edffdcab",
+      "title": "Pemerintah Gelar Forum Akselerasi Ekonomi Daerah di Medan",
+      "url": "https://www.cnnindonesia.com/nasional/20261110193000-25-1425595/pemerintah-gelar-forum-akselerasi-ekonomi-daerah-di-medan",
+      "source": "cnnindonesia.com",
+      "summary": "Pemerintah gelar Forum Akselerasi Pertumbuhan Ekonomi Daerah di Medan, fokus pada hilirisasi hutan, perkebunan, dan manufaktur untuk kesejahteraan Sumatera.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-10T20:30:12+07:00"
+    },
+    {
+      "id": "6d28969c1d4a",
+      "title": "Peringati Hari Pahlawan, Taj Yasin Ajak Selamatkan Anak Putus Sekolah",
+      "url": "https://www.cnnindonesia.com/nasional/20261110202104-25-1425616/peringati-hari-pahlawan-taj-yasin-ajak-selamatkan-anak-putus-sekolah",
+      "source": "cnnindonesia.com",
+      "summary": "Kirab Merah Putih sepanjang 1.945 meter meriahkan Hari Pahlawan 2026 di Semarang, melibatkan 7.000 peserta dan mencatat rekor baru.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T20:22:24+07:00"
+    },
+    {
+      "id": "a6a75fb5aead",
+      "title": "Amran Ancam Sanksi Pedagang Jual Bahan Pokok di Atas HET",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110184828-92-1425563/amran-ancam-sanksi-pedagang-jual-bahan-pokok-di-atas-het",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Mentan/Kepala Bapanas Andi Amran Sulaiman mengancam akan menjatuhkan sanksi kepada pedagang yang melanggar ketentuan HPP, HET, hingga harga beras SPHP.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-11-10T20:17:43+07:00"
+    },
+    {
+      "id": "36c602700224",
+      "title": "PDIP Sentil Gibran: Aneh, Apa Urusannya Sama PTUN?",
+      "url": "https://www.cnnindonesia.com/nasional/20261110194733-32-1425600/pdip-sentil-gibran-aneh-apa-urusannya-sama-ptun",
+      "source": "cnnindonesia.com",
+      "summary": "Anggota DPR dari Fraksi PDIP, Deddy Yevry Sitorus mengaku heran Wakil Presiden Gibran Rakabuming Raka baru mau buka-bukaan soal polemik ijazah di PTUN.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-10T20:07:18+07:00"
+    },
+    {
+      "id": "64360919b8c7",
+      "title": "Menperin Bocorkan Syarat Mobil Hybrid Bisa Dapat Insentif di 2027",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110190534-92-1425579/menperin-bocorkan-syarat-mobil-hybrid-bisa-dapat-insentif-di-2027",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Menperin Sarmuji membocorkan syarat agar mobil hybrid bisa mendapatkan insentif dari pemerintah pada tahun depan.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T20:06:37+07:00"
+    },
+    {
+      "id": "3b60b9b86a50",
+      "title": "BEI Perketat Penyaringan Saham HSC, 383 Emiten Bakal Dicoret dari IHSG",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110193054-92-1425597/bei-perketat-penyaringan-saham-hsc-383-emiten-bakal-dicoret-dari-ihsg",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Total emiten yang masuk dalam daftar HSC bertambah menjadi 383 saham. Seluruh saham HSC tersebut bakal dikeluarkan dari perhitungan IHSG.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-10T19:51:17+07:00"
+    },
+    {
+      "id": "b8707bb6cfec",
+      "title": "Pemerintah Targetkan Groundbreaking PSEL Medan Raya Awal 2027",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110190147-97-1425577/pemerintah-targetkan-groundbreaking-psel-medan-raya-awal-2027",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Pemerintah percepat pembangunan PSEL Medan Raya untuk olah 1.700 ton sampah/hari, target hentikan open dumping 2028 dengan solusi berkelanjutan.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T19:47:48+07:00"
+    },
+    {
+      "id": "3dcad3702d30",
+      "title": "Yusril Ungkap Potensi PTUN Hentikan Perkara Ijazah Gibran",
+      "url": "https://www.cnnindonesia.com/nasional/20261110191623-12-1425583/yusril-ungkap-potensi-ptun-hentikan-perkara-ijazah-gibran",
+      "source": "cnnindonesia.com",
+      "summary": "Menko Kumham Yusril Ihza Mahendra menyatakan PTUN berpotensi menghentikan perkara keabsahan ijazah Gibran setelah ada putusan Mahkamah Agung.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T19:44:25+07:00"
+    },
+    {
+      "id": "6300496ae4d0",
+      "title": "Pramono Apresiasi Prabowo 3 Tokoh Usulan Jakarta Dapat Gelar Pahlawan",
+      "url": "https://www.cnnindonesia.com/nasional/20261110190211-25-1425578/pramono-apresiasi-prabowo-3-tokoh-usulan-jakarta-dapat-gelar-pahlawan",
+      "source": "cnnindonesia.com",
+      "summary": "Pemprov DKI Jakarta apresiasi Presiden Prabowo atas gelar Pahlawan Nasional untuk Ali Sadikin, Hoegeng, dan Sutan Takdir. Semangat perjuangan harus diteruskan.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-10T19:39:12+07:00"
+    },
+    {
+      "id": "d1f5b65af327",
+      "title": "Amran Siap Setop Impor Gula Asalkan Produksi Lokal Cukup",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110183426-92-1425558/amran-siap-setop-impor-gula-asalkan-produksi-lokal-cukup",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Amran menyatakan sepakat dengan produsen gula nasional untuk menghentikan impor gula kristal putih (GKP) alias gula konsumsi.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-10T19:31:33+07:00"
+    },
+    {
+      "id": "cca0400900f2",
+      "title": "Polisi di Medan Dicopot dari Jabatan Usai Viral Pakai Vape Narkoba",
+      "url": "https://www.cnnindonesia.com/nasional/20261110183301-12-1425562/polisi-di-medan-dicopot-dari-jabatan-usai-viral-pakai-vape-narkoba",
+      "source": "cnnindonesia.com",
+      "summary": "Video viral menunjukkan Brigadir IS dari Polrestabes Medan menggunakan vape berisi narkotika alias pod getar.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T19:20:47+07:00"
+    },
+    {
+      "id": "d5748fb8ba9e",
+      "title": "KAI Bakal Pensiunkan 86 KRL Eks Jepang Secara Bertahap",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110174116-92-1425533/kai-bakal-pensiunkan-86-krl-eks-jepang-secara-bertahap",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "PT Kereta Api Indonesia (Persero) (KAI) berencana memensiunkan 86 rangkaian KRL bekas dari Jepang secara bertahap dalam beberapa tahun mendatang.",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-11-10T19:17:03+07:00"
+    },
+    {
+      "id": "626188c1c6ce",
+      "title": "BI Prediksi Harga Barang Makin Mahal pada Desember 2026 dan Maret 2027",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110164839-532-1425514/bi-prediksi-harga-barang-makin-mahal-pada-desember-2026-dan-maret-2027",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Bank Indonesia (BI) memproyeksikan inflasi pada Desember 2026 dan Maret 2027 meningkat.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-10T19:01:24+07:00"
+    },
+    {
+      "id": "5ea66f06db96",
+      "title": "Gubernur Jabar Berharap Porprov Beri Dampak ke Pedagang hingga Ojol",
+      "url": "https://www.cnnindonesia.com/nasional/20261110183655-25-1425560/gubernur-jabar-berharap-porprov-beri-dampak-ke-pedagang-hingga-ojol",
+      "source": "cnnindonesia.com",
+      "summary": "Gubernur Dedi Mulyadi dorong Porprov Jabar XV 2026 untuk tingkatkan ekonomi masyarakat kecil, beri manfaat pelaku usaha lokal dan sportivitas atlet.",
+      "topics": [
+        "ekonomi",
+        "politik"
+      ],
+      "published": "2026-11-10T19:01:08+07:00"
+    },
+    {
+      "id": "5ff6dd32e729",
+      "title": "Amien Rais Baca Sinyal Jokowi Ditinggalkan Usai 3 Elite PSI Mundur",
+      "url": "https://www.cnnindonesia.com/nasional/20261110183456-32-1425559/amien-rais-baca-sinyal-jokowi-ditinggalkan-usai-3-elite-psi-mundur",
+      "source": "cnnindonesia.com",
+      "summary": "Amien Rais menilai mundurnya tiga elite PSI dari kabinet Prabowo menunjukkan Jokowi mulai ditinggalkan.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T18:50:38+07:00"
+    },
+    {
+      "id": "6e365ba3412b",
+      "title": "Elev8 Raih Penghargaan Broker Paling Inovatif 2026 dari BrokersView",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110182342-625-1425546/elev8-raih-penghargaan-broker-paling-inovatif-2026-dari-brokersview",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Broker Elev8 meraih penghargaan 'Broker Paling Inovatif 2026', Inovasi Elev8 mendukung trader dengan akses pasar dan pengelolaan transaksi efisien.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-11-10T18:49:49+07:00"
+    },
+    {
+      "id": "b636031c17a1",
+      "title": "Sektor Jasa dan Pariwisata Topang Ekonomi Jabar di Triwulan III-2026",
+      "url": "https://www.cnnindonesia.com/nasional/20261110183049-25-1425557/sektor-jasa-dan-pariwisata-topang-ekonomi-jabar-di-triwulan-iii-2026",
+      "source": "cnnindonesia.com",
+      "summary": "Di balik pertumbuhan ekonomi Jabar pada triwulan III 2026, ada lonjakan aktivitas pariwisata, sektor jasa, serta belanja pemerintah sebagai motor penggeraknya.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-11-10T18:48:50+07:00"
+    },
+    {
+      "id": "4903ba425d51",
+      "title": "Incar Status Anggota Penuh OECD 2028, RI Siap Rampungkan 3 Aturan Ini",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261109213056-532-1425154/incar-status-anggota-penuh-oecd-2028-ri-siap-rampungkan-3-aturan-ini",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Airlangga targetkan Indonesia jadi anggota OECD pada 2028. Tiga regulasi utama akan diselesaikan, termasuk aturan foreign bribery dan revisi undang-undang.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T18:44:37+07:00"
+    },
+    {
+      "id": "3b93215cc933",
+      "title": "Storytelling Jadi Kekuatan Kreator Konten Dorong Gerakan Pilah Sampah",
+      "url": "https://www.cnnindonesia.com/nasional/20261022084626-20-1418265/storytelling-jadi-kekuatan-kreator-konten-dorong-gerakan-pilah-sampah",
+      "source": "cnnindonesia.com",
+      "summary": "Kreator konten Jakarta Selatan, Cynthia Suci Lestari, berhasil memenangkan juara pertama kategori influencer dalam ajang Pilah Olah Sampah Heroes Jakarta 2026.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T18:40:17+07:00"
+    },
+    {
+      "id": "302c301bb997",
+      "title": "Bobby Respons Soal Jokowi Dikaitkan dengan Penyadapan Prabowo",
+      "url": "https://www.cnnindonesia.com/nasional/20261110182903-32-1425556/bobby-respons-soal-jokowi-dikaitkan-dengan-penyadapan-prabowo",
+      "source": "cnnindonesia.com",
+      "summary": "Kasus penyadapan ilegal oleh mantan Kapolri Listyo Sigit terhadap Presiden Prabowo Subianto terus disorot. Gubernur Bobby Nasution minta tunggu proses hukum.",
+      "topics": [
+        "politik",
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-11-10T18:40:06+07:00"
+    },
+    {
+      "id": "6a4d8666e3b4",
+      "title": "Fotografer CNN Indonesia Sabet MRT Jakarta Journalism Award 2026",
+      "url": "https://www.cnnindonesia.com/nasional/20261110182245-20-1425545/fotografer-cnn-indonesia-sabet-mrt-jakarta-journalism-award-2026",
+      "source": "cnnindonesia.com",
+      "summary": "Fotografer CNN Indonesia, Adhi Wicaksono, berhasil merebut MRT Jakarta Journalism Award 2026 untuk kategori Karya Jurnalistik Foto Terbaik.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T18:26:20+07:00"
+    },
+    {
+      "id": "fc74850c8346",
+      "title": "Danareksa Ganti Nama Jadi Kawasan Industri Indonesia",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110175033-92-1425537/danareksa-ganti-nama-jadi-kawasan-industri-indonesia",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Pemegang saham PT Danareksa (Persero) menyetujui perubahan nama perusahaan menjadi PT Kawasan Industri Indonesia (Persero) pada Senin (9/11).",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-10T18:26:11+07:00"
+    },
+    {
+      "id": "ff946f88ab8b",
+      "title": "DPR: Tak Ada Aturan Prabowo Harus Setujui Pengunduran Diri Gibran",
+      "url": "https://www.cnnindonesia.com/nasional/20261110175100-32-1425538/dpr-tak-ada-aturan-prabowo-harus-setujui-pengunduran-diri-gibran",
+      "source": "cnnindonesia.com",
+      "summary": "Wakil Ketua Umum Golkar, Ahmad Doli Kurnia, menegaskan pengunduran diri Gibran sebagai Wakil Presiden tidak perlu persetujuan Prabowo, melainkan DPR/MPR.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T18:15:12+07:00"
+    },
+    {
+      "id": "5b257ec6bd2a",
+      "title": "Tekan Risiko Kecelakaan, Hutama Karya Perketat Pengawasan Truk ODOL",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110174736-625-1425536/tekan-risiko-kecelakaan-hutama-karya-perketat-pengawasan-truk-odol",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Kendaraan yang terbukti melanggar ketentuan muatan dapat dilarang melanjutkan perjalanan, atau diarahkan untuk putar balik melalui jalur yang telah ditentukan.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T18:12:55+07:00"
+    },
+    {
+      "id": "9c8d6dd5f4f2",
+      "title": "Yusril soal Gibran Mau Buktikan Asli Ijazah ke PTUN: Tak Ada Gunanya",
+      "url": "https://www.cnnindonesia.com/nasional/20261110173941-32-1425531/yusril-soal-gibran-mau-buktikan-asli-ijazah-ke-ptun-tak-ada-gunanya",
+      "source": "cnnindonesia.com",
+      "summary": "Menko Kumham Imipas Yusril Ihza Mahendra menyebut PK yang hendak ditempuh Wapres Gibran Rakabuming Raka membuktikan keabsahan ijazahnya tak ada gunanya.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T18:07:03+07:00"
+    },
+    {
+      "id": "fac1b6fcdeda",
+      "title": "Tak Mendadak, Perusahaan Amran Ditawarkan Low Tuck Kwong Masuk Bayan",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110161609-92-1425504/tak-mendadak-perusahaan-amran-ditawarkan-low-tuck-kwong-masuk-bayan",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Perusahaan milik Amran mengungkap pembelian 2 persen saham Bayan tidak tiba-tiba dilakukan. Low Tuck Kwong sempat tawarkan saham ke sejumlah pihak.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-10T18:02:02+07:00"
+    },
+    {
+      "id": "d1914361c622",
+      "title": "Juara Pilah Olah Sampah Heroes 2026 Merasa Diapresiasi Pemprov DKI",
+      "url": "https://www.cnnindonesia.com/nasional/20261110174435-20-1425535/juara-pilah-olah-sampah-heroes-2026-merasa-diapresiasi-pemprov-dki",
+      "source": "cnnindonesia.com",
+      "summary": "Ketua RT di Kelurahan Malaka Jaya, Duren Sawit, Taufiq Supriadi, berhasil memperoleh juara satu kategori penggerak dalam Pilah Olah Sampah Heroes Jakarta 2026.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T17:52:52+07:00"
+    },
+    {
+      "id": "0f4c445c033f",
+      "title": "Sutan Takdir Alisjahbana, Pelopor Pembaruan Sastra Indonesia",
+      "url": "https://www.cnnindonesia.com/nasional/20261110124446-20-1425353/sutan-takdir-alisjahbana-pelopor-pembaruan-sastra-indonesia",
+      "source": "cnnindonesia.com",
+      "summary": "Presiden Prabowo menganugerahkan gelar Pahlawan Nasional kepada Sutan Takdir Alisjahbana, sastrawan yang berperan dalam pengembangan bahasa Indonesia modern.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-10T17:49:46+07:00"
+    },
+    {
+      "id": "2c6adc421146",
+      "title": "Produksi Tertinggi dalam 10 Tahun, Pengusaha Minta Impor Gula Disetop",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110154131-92-1425474/produksi-tertinggi-dalam-10-tahun-pengusaha-minta-impor-gula-disetop",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Asosiasi Gula Indonesia (AGI) meminta pemerintah tidak membuka keran impor yang berpotensi mengganggu penyerapan gula hasil produksi dalam negeri.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-10T17:47:06+07:00"
+    },
+    {
+      "id": "cce793bba03b",
+      "title": "AM Sangadji, Tokoh Pergerakan Nasional dari Maluku",
+      "url": "https://www.cnnindonesia.com/nasional/20261110122348-20-1425341/am-sangadji-tokoh-pergerakan-nasional-dari-maluku",
+      "source": "cnnindonesia.com",
+      "summary": "Abdoel Moethalib Sangadji atau AM Sangadji merupakan tokoh pergerakan nasional asal Maluku yang menerima gelar Pahlawan Nasional.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T17:45:36+07:00"
+    },
+    {
+      "id": "f27976b1dc7e",
+      "title": "Soengkono, Komandan BKR dalam Pertempuran Surabaya 10 November 1945",
+      "url": "https://www.cnnindonesia.com/nasional/20261110133132-20-1425378/soengkono-komandan-bkr-dalam-pertempuran-surabaya-10-november-1945",
+      "source": "cnnindonesia.com",
+      "summary": "Soengkono dianugerahi gelar Pahlawan Nasional oleh Presiden Prabowo pada 10 November 2026. Ia berperan penting dalam pertempuran Surabaya 1945.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-10T17:44:03+07:00"
+    },
+    {
+      "id": "eb99e2f2d7bd",
+      "title": "Hoegeng Iman Santoso, Tokoh Teladan Polri yang Jadi Pahlawan Nasional",
+      "url": "https://www.cnnindonesia.com/nasional/20261110124354-20-1425352/hoegeng-iman-santoso-tokoh-teladan-polri-yang-jadi-pahlawan-nasional",
+      "source": "cnnindonesia.com",
+      "summary": "Presiden Prabowo Subianto menganugerahkan gelar Pahlawan Nasional kepada Jenderal Polisi (Purn) Hoegeng Iman Santoso.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-10T17:37:45+07:00"
+    },
+    {
+      "id": "c2554dd55561",
+      "title": "Gibran Buka Suara soal Niat Mundur dari Wapres",
+      "url": "https://www.cnnindonesia.com/nasional/20261110172249-32-1425528/gibran-buka-suara-soal-niat-mundur-dari-wapres",
+      "source": "cnnindonesia.com",
+      "summary": "Wakil Presiden RI Gibran Rakabuming Raka buka suara usai disebut pihak istana telah menyampaikan niatan pengunduran diri ke Presiden RI Prabowo Subianto.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T17:37:03+07:00"
+    },
+    {
+      "id": "615200074f52",
+      "title": "Kiai Modjo, Ulama Kepercayaan Pangeran Diponegoro dalam Perang Jawa",
+      "url": "https://www.cnnindonesia.com/nasional/20261110123754-20-1425345/kiai-modjo-ulama-kepercayaan-pangeran-diponegoro-dalam-perang-jawa",
+      "source": "cnnindonesia.com",
+      "summary": "Kiai Modjo, ulama dan tokoh penting Perang Jawa, dianugerahi gelar Pahlawan Nasional. Ia berjuang melawan Belanda dan meninggal dalam pengasingan.",
+      "topics": [
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-11-10T17:32:19+07:00"
+    },
+    {
+      "id": "54f7a9ff4dbb",
+      "title": "INKA Bakal Jadi Anak Usaha KAI, Tiru Model Bisnis Kereta di Jepang",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110144204-532-1425436/inka-bakal-jadi-anak-usaha-kai-tiru-model-bisnis-kereta-di-jepang",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "PT Industri Kereta Api (Persero) atau INKA akan bergabung menjadi anak perusahaan PT Kereta Api Indonesia (Persero) atau KAI.",
+      "topics": [
+        "ekonomi",
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-11-10T17:31:53+07:00"
+    },
+    {
+      "id": "add8d6e1c3ed",
+      "title": "Bulog Pikir-pikir Tahan Ekspor Beras ke Malaysia-Saudi Imbas El Nino",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110124020-92-1425350/bulog-pikir-pikir-tahan-ekspor-beras-ke-malaysia-saudi-imbas-el-nino",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Perum Bulog mempertimbangkan menahan atau mengurangi ekspor beras ke luar negeri untuk mengantisipasi risiko El Nino berkepanjangan.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-10T17:17:43+07:00"
+    },
+    {
+      "id": "8097e7ab7d99",
+      "title": "Genjot Investasi Migas, Pemerintah Buka Empat Wilayah Kerja Available",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110170606-90-1425521/genjot-investasi-migas-pemerintah-buka-empat-wilayah-kerja-available",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Dari lepas pantai Papua, daratan dan perairan Papua Barat Daya, Laut Arafuru, hingga lepas pantai NTT, empat wilayah kerja migas kini terbuka bagi investor.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-11-10T17:16:06+07:00"
+    },
+    {
+      "id": "4e25a1c15a56",
+      "title": "Isi Pesan Prabowo ke Wapres Gibran saat Ajukan Mundur",
+      "url": "https://www.cnnindonesia.com/nasional/20261110165416-32-1425518/isi-pesan-prabowo-ke-wapres-gibran-saat-ajukan-mundur",
+      "source": "cnnindonesia.com",
+      "summary": "Seorang petinggi negara yang mengetahui pertemuan tersebut mengungkap isi saran Presiden Prabowo kepada Gibran saat mengajukan mundur dari kursi Wapres.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-10T17:12:43+07:00"
+    },
+    {
+      "id": "952ef0a3d7a9",
+      "title": "Pemprov Jabar Gelontorkan Rp230 Miliar untuk Infrastruktur Majalengka",
+      "url": "https://www.cnnindonesia.com/nasional/20261110163025-25-1425507/pemprov-jabar-gelontorkan-rp230-miliar-untuk-infrastruktur-majalengka",
+      "source": "cnnindonesia.com",
+      "summary": "Pemprov Jabar alokasikan Rp230 miliar untuk infrastruktur di Majalengka, Gubernur Dedi Mulyadi tekankan pentingnya perbaikan jalan dan kebersihan.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T17:06:26+07:00"
+    },
+    {
+      "id": "2b52f65b45f6",
+      "title": "Frans Seda, Pahlawan Nasional dari Timur Indonesia",
+      "url": "https://www.cnnindonesia.com/nasional/20261110111847-20-1425307/frans-seda-pahlawan-nasional-dari-timur-indonesia",
+      "source": "cnnindonesia.com",
+      "summary": "Frans Seda dianugerahi gelar Pahlawan Nasional oleh Presiden Prabowo. Tokoh penting dalam ekonomi dan pemerintahan, ia berkontribusi besar bagi Indonesia.",
+      "topics": [
+        "ekonomi",
+        "politik"
+      ],
+      "published": "2026-11-10T17:05:57+07:00"
+    },
+    {
+      "id": "21a0bdd02a34",
+      "title": "Ali Sadikin, 'Jenderal DKI' yang Raih Gelar Pahlawan Nasional",
+      "url": "https://www.cnnindonesia.com/nasional/20261110104150-20-1425290/ali-sadikin-jenderal-dki-yang-raih-gelar-pahlawan-nasional",
+      "source": "cnnindonesia.com",
+      "summary": "Pemerintah Indonesia menganugerahkan gelar kepada Sadikin, mantan Gubernur DKI Jakarta, pada Hari Pahlawan 2026.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T16:59:28+07:00"
+    },
+    {
+      "id": "bfdcc7daa606",
+      "title": "Sepanjang 2026, Pemprov Jabar Tambah 1.185 Unit PJU di Priangan Timur",
+      "url": "https://www.cnnindonesia.com/nasional/20261110162520-25-1425505/sepanjang-2026-pemprov-jabar-tambah-1185-unit-pju-di-priangan-timur",
+      "source": "cnnindonesia.com",
+      "summary": "Di sepanjang 2026, sebanyak 1.185 unit PJU telah terpasang di beberapa daerah Priangan Timur, yakni Garut, Tasikmalaya dan Ciamis.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T16:58:05+07:00"
+    },
+    {
+      "id": "55dcbaf93cbe",
+      "title": "FOTO: Para Pahlawan Lingkungan di Pilah Olah Sampah Heroes 2026",
+      "url": "https://www.cnnindonesia.com/nasional/20261110155130-22-1425481/foto-para-pahlawan-lingkungan-di-pilah-olah-sampah-heroes-2026",
+      "source": "cnnindonesia.com",
+      "summary": "Acara puncak Pilah Olah Sampah Heroes 2026 memberikan penghargaan bagi para pahlawan lingkungan yang selama ini punya aksi nyata dalam mengolah sampah.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-10T16:57:04+07:00"
+    },
+    {
+      "id": "6d4638b05b49",
+      "title": "Ini Putusan Lengkap MA Batalkan Suket Penyetaraan SMA Gibran",
+      "url": "https://www.cnnindonesia.com/nasional/20261110160059-12-1425494/putusan-lengkap-ma-soal-pembatalan-suket-penyetaraan-sma-gibran",
+      "source": "cnnindonesia.com",
+      "summary": "MA membatalkan surat keterangan penyetaraan pendidikan Gibran Rakabuming. Putusan ini mempertimbangkan juga putusan MA.",
+      "topics": [
+        "sosial"
+      ],
+      "published": "2026-11-10T16:55:50+07:00"
+    },
+    {
+      "id": "d045b9c02b8b",
+      "title": "Wagub DKI Usul Beli Produk Kompos dari Warga untuk Penghijauan",
+      "url": "https://www.cnnindonesia.com/nasional/20261110164613-20-1425512/wagub-dki-usul-beli-produk-kompos-dari-warga-untuk-penghijauan",
+      "source": "cnnindonesia.com",
+      "summary": "Wakil Gubernur DKI Jakarta Rano Karno usulkan pembelian kompos dari masyarakat untuk mendukung penghijauan sesuai permintaan Presiden Prabowo Subianto.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T16:52:35+07:00"
+    },
+    {
+      "id": "1826b4ff6975",
+      "title": "Profil M Jusuf, Jenderal Asal Sulawesi Saksi Kunci Supersemar",
+      "url": "https://www.cnnindonesia.com/nasional/20261110131310-20-1425368/profil-m-jusuf-jenderal-asal-sulawesi-saksi-kunci-supersemar",
+      "source": "cnnindonesia.com",
+      "summary": "M Jusuf dianugerahi gelar Pahlawan Nasional oleh Presiden Prabowo. Ia juga menjadi salah satu saksi penting dalam peristiwa penandatangan Supersemar.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-10T16:52:13+07:00"
+    },
+    {
+      "id": "de1a5f2cf5ad",
+      "title": "Bos KAI Beber Alasan Batal Impor KRL Bekas Jepang",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110145348-92-1425442/bos-kai-beber-alasan-batal-impor-krl-bekas-jepang",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Direktur Utama KAI Bobby Rasiyidin mengungkap alasan pihaknya batal mengimpor kereta rel listrik (KRL) bekas dari Jepang.",
+      "topics": [
+        "ekonomi",
+        "teknologi",
+        "internasional"
+      ],
+      "published": "2026-11-10T16:51:52+07:00"
+    },
+    {
+      "id": "370d67005532",
+      "title": "Margono Djojohadikusumo, Pendiri BNI yang Raih Gelar Pahlawan Nasional",
+      "url": "https://www.cnnindonesia.com/nasional/20261110115400-20-1425323/margono-djojohadikusumo-pendiri-bni-yang-raih-gelar-pahlawan-nasional",
+      "source": "cnnindonesia.com",
+      "summary": "Raden Mas (RM) Margono Djojohadikusumo mendapat gelar Pahlawan Nasional dalam upacara peringatan Hari Pahlawan di Istana Negara, Jakarta, Selasa (10/11).",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T16:46:44+07:00"
+    },
+    {
+      "id": "53e815bb07a4",
+      "title": "BAZNAS Anugerahi Tempo Scan sebagai Muzaki Perusahaan Terbaik",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110163041-625-1425508/baznas-anugerahi-tempo-scan-sebagai-muzaki-perusahaan-terbaik",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Tempo Scan Group raih penghargaan Muzaki Perusahaan Terbaik dari BAZNAS 2026, Penghargaan ini mengapresiasi kontribusi sosial dalam kesejahteraan masyarakat.",
+      "topics": [
+        "ekonomi",
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-11-10T16:41:15+07:00"
+    },
+    {
+      "id": "2cc3ebbed1d0",
+      "title": "Vinhomes Green Paradise Melaju ke Tahap Voting Ajang New7Wonders",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261104181004-625-1423356/vinhomes-green-paradise-melaju-ke-tahap-voting-ajang-new7wonders",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Mengungguli lebih dari 260 kandidat 7 Wonders of Future Urban Developments, Vinhomes Green Paradise keluar sebagai kandidat pertama yang lolos seleksi.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T16:38:54+07:00"
+    },
+    {
+      "id": "73eb65212c18",
+      "title": "Kejagung Geledah 6 Perusahaan Afiliasi Bos Nikel Arif Kurniawan",
+      "url": "https://www.cnnindonesia.com/nasional/20261110160918-12-1425498/kejagung-geledah-6-perusahaan-afiliasi-bos-nikel-arif-kurniawan",
+      "source": "cnnindonesia.com",
+      "summary": "Kejaksaan Agung menggeledah enam kantor perusahaan terkait Arif Kurniawan dalam kasus korupsi nikel di Sulawesi Tenggara, menyita uang tunai Rp11,8 miliar.",
+      "topics": [
+        "teknologi",
+        "sosial"
+      ],
+      "published": "2026-11-10T16:34:36+07:00"
+    },
+    {
+      "id": "5ea2bcf9947a",
+      "title": "Sambut Hari Pahlawan, Pemprov DKI Soroti 'Pahlawan' Lingkungan",
+      "url": "https://www.cnnindonesia.com/nasional/20261110161932-20-1425501/sambut-hari-pahlawan-pemprov-dki-soroti-pahlawan-lingkungan",
+      "source": "cnnindonesia.com",
+      "summary": "Kadiskominfotik Marulina Dewi Mutiara mengapresiasi pahlawan lingkungan di Jakarta melalui Pilah Olah Sampah Heroes 2026, dorong perubahan perilaku masyarakat.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T16:32:02+07:00"
+    },
+    {
+      "id": "79cbf26e0f74",
+      "title": "Daftar 19 Tokoh Pahlawan Nasional 2026: Hoegeng hingga Sutan Takdir",
+      "url": "https://www.cnnindonesia.com/nasional/20261110091430-20-1425243/daftar-19-tokoh-pahlawan-nasional-2026-hoegeng-hingga-sutan-takdir",
+      "source": "cnnindonesia.com",
+      "summary": "Pemerintah RI menganugerahi 19 tokoh gelar pahlawan nasional pada Hari Pahlawan, termasuk Hoegeng dan Ali Sastroamidjojo, dalam upacara di Istana Negara.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T16:31:45+07:00"
+    },
+    {
+      "id": "66b8cfcb2cd4",
+      "title": "Gibran Dampingi Prabowo Acara di Istana Usai Niat Mundur Wapres",
+      "url": "https://www.cnnindonesia.com/nasional/20261110161632-32-1425497/gibran-dampingi-prabowo-acara-di-istana-usai-niat-mundur-wapres",
+      "source": "cnnindonesia.com",
+      "summary": "Wakil Presiden Gibran Rakabuming Raka hadir ke acara penganugerahan gelar Pahlawan Nasional 2026 di tengah sorotan niat mundur dari jabatan Wapres.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T16:29:59+07:00"
+    },
+    {
+      "id": "e42ea819451c",
+      "title": "Istana Wapres Sepi Usai Gibran Ajukan Pengunduran Diri",
+      "url": "https://www.cnnindonesia.com/nasional/20261110160949-20-1425496/istana-wapres-sepi-usai-gibran-ajukan-pengunduran-diri",
+      "source": "cnnindonesia.com",
+      "summary": "Istana Wakil Presiden sepi setelah Gibran Rakabuming Raka menyatakan niat mundur. Demonstrasi terjadi di luar, menuntut pertanggungjawaban Jokowi dan Gibran.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T16:25:33+07:00"
+    },
+    {
+      "id": "9ecac34b9ba1",
+      "title": "IHSG Menanjak 1,02 Persen ke 5.125 Sore Ini",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110161906-92-1425500/ihsg-menanjak-102-persen-ke-5125-sore-ini",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Indeks Harga Saham Gabungan (IHSG) ditutup menguat 1,02 persen ke 5.125 pada perdagangan Selasa (10/11) sore.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-10T16:22:21+07:00"
+    },
+    {
+      "id": "9b1dc428a926",
+      "title": "KAI Diskon 30 Persen Tiket Kereta untuk Nataru, Sudah Bisa Dipesan",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110154858-92-1425478/kai-diskon-30-persen-tiket-kereta-untuk-nataru-sudah-bisa-dipesan",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "KAI menebar diskon tiket hingga 30 persen untuk Nataru. Pemesanan tiket kereta dibuka sejak 7 November 2026 melalui Access by KAI dan kanal resmi lainnya.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T16:16:37+07:00"
+    },
+    {
+      "id": "3b778f5f1a04",
+      "title": "Aturan UUD Jika Gibran Mundur: Prabowo Usulkan 2 Calon Wapres ke MPR",
+      "url": "https://www.cnnindonesia.com/nasional/20261110154214-32-1425475/aturan-uud-jika-gibran-mundur-prabowo-usulkan-2-calon-wapres-ke-mpr",
+      "source": "cnnindonesia.com",
+      "summary": "Wakil Presiden Gibran Rakabuming berencana mundur dari jabatannya. Tekanan politik terkait ijazahnya memicu niatan ini. Bagaimana mekanisme penggantian wapres?",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T16:11:00+07:00"
+    },
+    {
+      "id": "5fb98829fe2e",
+      "title": "Mensesneg: Gibran Sampaikan Niat Mundur ke Prabowo",
+      "url": "https://www.cnnindonesia.com/nasional/20261110154722-36-1425477/mensesneg-gibran-sampaikan-niat-mundur-ke-prabowo",
+      "source": "cnnindonesia.com",
+      "summary": "Gibran Rakabuming Raka disebut berniat mengundurkan diri dari jabatan Wakil Presiden (Wapres) Republik Indonesia.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T16:00:03+07:00"
+    },
+    {
+      "id": "30971cde3329",
+      "title": "Istana Tegaskan Pemerintah Fokus Kerja Meski Wapres Gibran Niat Mundur",
+      "url": "https://www.cnnindonesia.com/nasional/20261110154514-32-1425480/istana-tegaskan-pemerintah-fokus-kerja-meski-wapres-gibran-niat-mundur",
+      "source": "cnnindonesia.com",
+      "summary": "Istana Kepresidenan menegaskan tugas pemerintah tetap berjalan meski Wapres Gibran mengajukan permohonan mundur. Prabowo tidak menolak permohonan tersebut.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-10T15:59:44+07:00"
+    },
+    {
+      "id": "bf40c0463c1f",
+      "title": "Sampaikan Niat Mundur Wapres, Gibran Temui Prabowo Selama 2,5 Jam",
+      "url": "https://www.cnnindonesia.com/nasional/20261110152851-32-1425462/sampaikan-niat-mundur-wapres-gibran-temui-prabowo-selama-25-jam",
+      "source": "cnnindonesia.com",
+      "summary": "Wakil Presiden Gibran Rakabuming Raka bertemu Prabowo untuk menyampaikan niatan pengunduran diri. Pertemuan berlangsung 2,5 jam di tengah tekanan politik.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T15:54:53+07:00"
+    },
+    {
+      "id": "eadb54561a21",
+      "title": "Pernyataan Lengkap Istana soal Permohonan Gibran untuk Mundur",
+      "url": "https://www.cnnindonesia.com/nasional/20261110152027-32-1425457/pernyataan-lengkap-istana-soal-permohonan-gibran-untuk-mundur",
+      "source": "cnnindonesia.com",
+      "summary": "Mensesneg mengatakan Wapres Gibran telah bertemu Presiden Prabowo, dan salah satu isinya menyampaikan permohonan mengundurkan diri. Apa jawab Prabowo?",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T15:42:23+07:00"
+    },
+    {
+      "id": "539572792751",
+      "title": "Rupiah Menguat ke Rp18.062 per Dolar AS Sore Ini",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110153602-78-1425473/rupiah-menguat-ke-rp18062-per-dolar-as-sore-ini",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Nilai tukar rupiah berada di level Rp18.062 per dolar AS pada Selasa (10/11) sore, menguat 23 poin atau 0,13 persen dibandingkan perdagangan sebelumnya.",
+      "topics": [
+        "ekonomi",
+        "teknologi"
+      ],
+      "published": "2026-11-10T15:41:12+07:00"
+    },
+    {
+      "id": "b5f10029a67f",
+      "title": "Gibran Minta Waktu ke Prabowo Buktikan Keabsahan Ijazah Lewat PTUN",
+      "url": "https://www.cnnindonesia.com/nasional/20261110152807-32-1425461/gibran-minta-waktu-ke-prabowo-buktikan-keabsahan-ijazah-lewat-ptun",
+      "source": "cnnindonesia.com",
+      "summary": "Wakil Presiden Gibran Rakabuming Raka mengajukan permohonan mundur dan meminta waktu untuk membuktikan keabsahan dokumen pendidikannya melalui PTUN.",
+      "topics": [
+        "politik",
+        "sosial"
+      ],
+      "published": "2026-11-10T15:39:53+07:00"
+    },
+    {
+      "id": "fe060864e9f4",
+      "title": "Prabowo Tidak Menolak Niat Gibran Mundur",
+      "url": "https://www.cnnindonesia.com/nasional/20261110151920-32-1425458/prabowo-tidak-menolak-niat-gibran-mundur",
+      "source": "cnnindonesia.com",
+      "summary": "Mensesneg Prasetyo Hadi mengungkapkan bahwa Prabowo Subianto tidak menolak niat Gibran Rakabuming Raka untuk mengundurkan diri setelah pertemuan 2,5 jam.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T15:32:41+07:00"
+    },
+    {
+      "id": "313d8ab08712",
+      "title": "KKP Buka Suara soal Kerja Sama Publikasi: Transparan dan Akuntabel",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110151610-97-1425455/kkp-buka-suara-soal-kerja-sama-publikasi-transparan-dan-akuntabel",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "Kementerian Kelautan dan Perikanan (KKP) menanggapi polemik kerja sama publikasi, menegaskan komitmen untuk komunikasi publik yang transparan dan akuntabel.",
+      "topics": [
+        "politik"
+      ],
+      "published": "2026-11-10T15:20:20+07:00"
+    },
+    {
+      "id": "b3e460b2b5b7",
+      "title": "Gibran Ajukan Pengunduran Diri ke Prabowo",
+      "url": "https://www.cnnindonesia.com/nasional/20261109144457-32-1424988/gibran-ajukan-pengunduran-diri-ke-prabowo",
+      "source": "cnnindonesia.com",
+      "summary": "Gibran Rakabuming Raka berniat mundur dari jabatan Wapres RI setelah tekanan politik terkait putusan MA dan MK mengenai ijazahnya.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T15:18:33+07:00"
+    },
+    {
+      "id": "50bc700540ca",
+      "title": "Wagub Jateng Soroti Anak Putus Sekolah di Momen Kirab Rekor Leprid",
+      "url": "https://www.cnnindonesia.com/nasional/20261110145517-25-1425444/wagub-jateng-soroti-anak-putus-sekolah-di-momen-kirab-rekor-leprid",
+      "source": "cnnindonesia.com",
+      "summary": "Kota Semarang rayakan Hari Pahlawan 2026 dengan Kirab Merah Putih III, libatkan 7.000 peserta dan rekor bendera 1.945 meter serta 2.026 potret pahlawan.",
+      "topics": [
+        "umum"
+      ],
+      "published": "2026-11-10T15:16:31+07:00"
+    },
+    {
+      "id": "e547f957d4f9",
+      "title": "FOTO: Geliat Pemakzulan Gibran Muncul di Sidang Paripurna DPR",
+      "url": "https://www.cnnindonesia.com/nasional/20261110140655-34-1425396/foto-geliat-pemakzulan-gibran-muncul-di-sidang-paripurna-dpr",
+      "source": "cnnindonesia.com",
+      "summary": "Usulan Hak Menyatakan Pendapat terkait Gibran menguat di DPR, hawa dorongan pilihan dimakzulkan atau mundur pun mengemuka di sidang paripurna.",
+      "topics": [
+        "teknologi"
+      ],
+      "published": "2026-11-10T15:06:34+07:00"
+    },
+    {
+      "id": "cdfce55f6f41",
+      "title": "KemenPU Tuntaskan Rekonstruksi Jalan dan Jembatan di Aceh Tenggara",
+      "url": "https://www.cnnindonesia.com/nasional/20261110143813-25-1425432/kemenpu-tuntaskan-rekonstruksi-jalan-dan-jembatan-di-aceh-tenggara",
+      "source": "cnnindonesia.com",
+      "summary": "Ketiga infrastruktur digarap Kementerian PU, yaitu rekonstruksi ruas Jalan Lawe Ger Ger dan Jalan Bener Berpapah, serta penggantian Jembatan Lawe Mengkudu I.",
+      "topics": [
+        "politik",
+        "teknologi"
+      ],
+      "published": "2026-11-10T15:04:13+07:00"
+    },
+    {
+      "id": "ff27a37c0141",
+      "title": "OJK Ungkap Alasan IHSG Babak Belur Buntut Bersih-Bersih Saham",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261110133418-92-1425380/ojk-ungkap-alasan-ihsg-babak-belur-buntut-bersih-bersih-saham",
+      "source": "cnnindonesia.com/ekonomi",
+      "summary": "OJK mengungkapkan IHSG merosot belakangan ini imbas aksi 'bersih-bersih' dan reformasi tata kelola yang dilakukan bursa dan regulator.",
+      "topics": [
+        "ekonomi"
+      ],
+      "published": "2026-11-10T15:03:01+07:00"
+    },
     {
       "id": "ac394184f765",
       "title": "Bocoran spesifikasi kamera seri Samsung Galaxy S27 muncul",
@@ -17265,1452 +18832,6 @@
         "teknologi"
       ],
       "published": "2026-11-04T03:45:29+07:00"
-    },
-    {
-      "id": "30f97d9e8059",
-      "title": "Menhan Minta Prajurit Yonif TP Kuasai Kemampuan Tempur-Pembangunan",
-      "url": "https://www.cnnindonesia.com/nasional/20261103225201-12-1422977/menhan-minta-prajurit-yonif-tp-kuasai-kemampuan-tempur-pembangunan",
-      "source": "cnnindonesia.com",
-      "summary": "Menteri Pertahanan Sjafrie menekankan pentingnya kualifikasi ganda bagi prajurit Yonif TP 840/GS untuk mendukung pembangunan daerah.",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-04T03:00:02+07:00"
-    },
-    {
-      "id": "765b885112d8",
-      "title": "Trump setop dana bantuan militer AS untuk Israel, Tel Aviv kaget",
-      "url": "https://www.antaranews.com/berita/5830251/trump-setop-dana-bantuan-militer-as-untuk-israel-tel-aviv-kaget",
-      "source": "antaranews.com",
-      "summary": "Para pejabat militer dan pertahanan Israel dibuat kaget oleh keputusan Presiden Amerika Serikat Donald Trump&nbsp;akan ...",
-      "topics": [
-        "politik",
-        "internasional"
-      ],
-      "published": "2026-11-04T02:03:34+07:00"
-    },
-    {
-      "id": "d81c186b2c01",
-      "title": "Al Shorta tekuk  Al Hussein, Al Seeb taklukkan East Bengal",
-      "url": "https://www.antaranews.com/berita/5830247/al-shorta-tekuk-al-hussein-al-seeb-taklukkan-east-bengal",
-      "source": "antaranews.com",
-      "summary": "Al Shorta mengalahkan Al Hussein, sedangkan Al Seeb menaklukkan East Bengal pada pertandingan keempat fase grup Liga ...",
-      "topics": [
-        "olahraga"
-      ],
-      "published": "2026-11-04T01:54:50+07:00"
-    },
-    {
-      "id": "aad705cd05f3",
-      "title": "Andrea Bocelli, Lea Simanjuntak duet bawakan \"The Prayer\" di Jakarta",
-      "url": "https://www.antaranews.com/berita/5830243/andrea-bocelli-lea-simanjuntak-duet-bawakan-the-prayer-di-jakarta",
-      "source": "antaranews.com",
-      "summary": "Penyanyi tenor dunia asal Italia,&nbsp;Andrea Bocelli, menggandeng penyanyi Indonesia,&nbsp;Lea Simanjuntak, dalam ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-04T01:49:19+07:00"
-    },
-    {
-      "id": "e17072cebec5",
-      "title": "BRAN kawal kepastian tanah dan perlindungan bagi nelayan pantura",
-      "url": "https://www.antaranews.com/berita/5830239/bran-kawal-kepastian-tanah-dan-perlindungan-bagi-nelayan-pantura",
-      "source": "antaranews.com",
-      "summary": "Badan Reforma Agraria Nasional (BRAN) menyatakan, kepastian tanah, perlindungan nelayan, keberlanjutan usaha petambak, ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-04T01:46:27+07:00"
-    },
-    {
-      "id": "2dc04f972d5f",
-      "title": "Christo sabet medali perak wushu pada Youth Olympic Games 2026",
-      "url": "https://www.antaranews.com/berita/5830235/christo-sabet-medali-perak-wushu-pada-youth-olympic-games-2026",
-      "source": "antaranews.com",
-      "summary": "Atlet wushu Asael Christo Jacob Rondonuwu mempersembahkan medali perak kepada Indonesia dari nomor gabungan Changquan ...",
-      "topics": [
-        "hiburan"
-      ],
-      "published": "2026-11-04T01:45:31+07:00"
-    },
-    {
-      "id": "87b3b6df07ac",
-      "title": "Scaloni umumkan skuad Argentina setelah Lionel Messi pensiun",
-      "url": "https://www.antaranews.com/berita/5830231/scaloni-umumkan-skuad-argentina-setelah-lionel-messi-pensiun",
-      "source": "antaranews.com",
-      "summary": "Tim nasional Argentina mengumumkan skuad setelah megabintang Lionel Messi pensiun untuk menghadapi FIFA Matchday ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-04T01:37:09+07:00"
-    },
-    {
-      "id": "a144905223c2",
-      "title": "Rakyat AS datangi TPS salurkan suara untuk Pemilu Sela",
-      "url": "https://www.antaranews.com/berita/5830227/rakyat-as-datangi-tps-salurkan-suara-untuk-pemilu-sela",
-      "source": "antaranews.com",
-      "summary": "Tempat pemungutan suara di seantero Amerika Serikat dibuka pada Selasa waktu setempat dalam rangka pemilu sela di mana ...",
-      "topics": [
-        "politik",
-        "internasional"
-      ],
-      "published": "2026-11-04T01:30:43+07:00"
-    },
-    {
-      "id": "a07340797396",
-      "title": "PT PYFA catatkan pendapatan tumbuh 17,2 persen pada kuartal III",
-      "url": "https://www.antaranews.com/berita/5830223/pt-pyfa-catatkan-pendapatan-tumbuh-172-persen-pada-kuartal-iii",
-      "source": "antaranews.com",
-      "summary": "PT Pyridam Farma Tbk (PYFA) menyatakan bahwa kinerja keuangan pada kuartal III 2026 membukukan pendapatan neto sebesar ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-04T01:11:59+07:00"
-    },
-    {
-      "id": "547fe64a6f0c",
-      "title": "Cuaca Ekstrem Intai 21 Kabupaten/Kota di Jawa Timur Sepekan ke Depan",
-      "url": "https://www.cnnindonesia.com/nasional/20261103170313-20-1422841/cuaca-ekstrem-intai-21-kabupaten-kota-di-jawa-timur-sepekan-ke-depan",
-      "source": "cnnindonesia.com",
-      "summary": "BMKG merilis peringatan dini cuaca ekstrem yang berpotensi memicu bencana hidrometeorologi di 21 kabupaten/kota di Jawa Timur.",
-      "topics": [
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-11-04T01:00:04+07:00"
-    },
-    {
-      "id": "ca161786adc4",
-      "title": "KWI sambut baik program Minggu Kasih Polri ciptakan rasa aman",
-      "url": "https://www.antaranews.com/berita/5830215/kwi-sambut-baik-program-minggu-kasih-polri-ciptakan-rasa-aman",
-      "source": "antaranews.com",
-      "summary": "Konferensi Waligereja Indonesia (KWI) menyambut baik program &ldquo;Minggu Kasih&rdquo; Polri sebagai bentuk sinergi ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-04T00:48:39+07:00"
-    },
-    {
-      "id": "043843320bf4",
-      "title": "DPR desak proses hukum profesional dalam kasus penyadapan presiden",
-      "url": "https://www.antaranews.com/video/5830207/dpr-desak-proses-hukum-profesional-dalam-kasus-penyadapan-presiden",
-      "source": "antaranews.com",
-      "summary": "ANTARA -&nbsp;Ketua Komisi III DPR RI Habiburokhman, Selasa (3/11), menghormati proses penegakan hukum atas kasus ...",
-      "topics": [
-        "politik",
-        "sosial"
-      ],
-      "published": "2026-11-04T00:45:02+07:00"
-    },
-    {
-      "id": "c6c226decc5e",
-      "title": "Searah dukung pemerintah wujudkan ketahanan energi lewat produksi gas",
-      "url": "https://www.antaranews.com/berita/5830211/searah-dukung-pemerintah-wujudkan-ketahanan-energi-lewat-produksi-gas",
-      "source": "antaranews.com",
-      "summary": "Perusahaan energi, Searah memperkuat pasokan gas nasional serta mendukung upaya pemerintah dalam mewujudkan ketahanan ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-04T00:42:57+07:00"
-    },
-    {
-      "id": "f29ea861c5e5",
-      "title": "Presiden Belarus anjurkan Donald Trump jadi Sekjen PBB",
-      "url": "https://www.antaranews.com/berita/5830203/presiden-belarus-anjurkan-donald-trump-jadi-sekjen-pbb",
-      "source": "antaranews.com",
-      "summary": "Presiden Belarus Alexander Lukashenko menganjurkan agar Presiden Amerika Serikat Donald Trump menjadi Sekretaris ...",
-      "topics": [
-        "politik",
-        "internasional"
-      ],
-      "published": "2026-11-04T00:35:42+07:00"
-    },
-    {
-      "id": "078cce069c1b",
-      "title": "Menkeu: Pertumbuhan ekonomi RI pada triwulan III tetap kuat",
-      "url": "https://www.antaranews.com/video/5830183/menkeu-pertumbuhan-ekonomi-ri-pada-triwulan-iii-tetap-kuat",
-      "source": "antaranews.com",
-      "summary": "ANTARA -&nbsp;Menteri Keuangan Suahasil Nazara mengatakan pertumbuhan ekonomi Indonesia pada triwulan III tahun 2026 ...",
-      "topics": [
-        "ekonomi",
-        "politik"
-      ],
-      "published": "2026-11-04T00:31:52+07:00"
-    },
-    {
-      "id": "e06b574693ee",
-      "title": "Istri Sah Pembunuh Sadis Madiun Mengaku Syok Suami Punya Istri Siri",
-      "url": "https://www.cnnindonesia.com/nasional/20261103161749-12-1422826/istri-sah-pembunuh-sadis-madiun-mengaku-syok-suami-punya-istri-siri",
-      "source": "cnnindonesia.com",
-      "summary": "Istri sah Dwi Bagus mengaku terkejut suami berpoligami dan terlibat dalam kasus pembunuhan istri siri dan anak tirinya.",
-      "topics": [
-        "olahraga"
-      ],
-      "published": "2026-11-04T00:30:34+07:00"
-    },
-    {
-      "id": "f03eee55205e",
-      "title": "Kopi Nusantara pikat pengunjung Swiss Coffee Festival 2026",
-      "url": "https://www.antaranews.com/berita/5830199/kopi-nusantara-pikat-pengunjung-swiss-coffee-festival-2026",
-      "source": "antaranews.com",
-      "summary": "Beragam specialty coffee Indonesia yang dibawa oleh Cademo Coffee dan Rayanna Roast dari Belanda serta Meramanis Coffee ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-04T00:29:55+07:00"
-    },
-    {
-      "id": "e0f5b94f93c3",
-      "title": "Danantara siapkan daftar proyek kerja sama dengan AS pada G20 di Miami",
-      "url": "https://www.antaranews.com/video/5830179/danantara-siapkan-daftar-proyek-kerja-sama-dengan-as-pada-g20-di-miami",
-      "source": "antaranews.com",
-      "summary": "ANTARA -&nbsp;Badan Pengelola Investasi (BPI) Danantara tengah menyusun daftar proyek yang dapat dikerjasamakan dengan ...",
-      "topics": [
-        "ekonomi"
-      ],
-      "published": "2026-11-04T00:28:30+07:00"
-    },
-    {
-      "id": "8285299ab678",
-      "title": "Studi: Kematian akibat kanker serviks diproyeksikan naik hingga tahun 2050",
-      "url": "https://www.antaranews.com/berita/5830195/studi-kematian-akibat-kanker-serviks-diproyeksikan-naik-hingga-tahun-2050",
-      "source": "antaranews.com",
-      "summary": "Penelitian baru menemukan bahwa kasus dan kematian akibat kanker serviks global diperkirakan akan meningkat ...",
-      "topics": [
-        "teknologi",
-        "internasional"
-      ],
-      "published": "2026-11-04T00:18:22+07:00"
-    },
-    {
-      "id": "ffced8147507",
-      "title": "PKSS bagikan masker dan susu untuk warga terdampak karhutla di Kalteng",
-      "url": "https://www.antaranews.com/berita/5830191/pkss-bagikan-masker-dan-susu-untuk-warga-terdampak-karhutla-di-kalteng",
-      "source": "antaranews.com",
-      "summary": "PT Prima Karya Sarana Sejahtera (PKSS) menyalurkan ribuan masker KN95 dan susu steril kepada Pemerintah Provinsi ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-04T00:18:14+07:00"
-    },
-    {
-      "id": "4129cc28358f",
-      "title": "Gubernur BI: Transaksi LCT naik dua kali lipat capai 52,6 M dolar AS",
-      "url": "https://www.antaranews.com/video/5830167/gubernur-bi-transaksi-lct-naik-dua-kali-lipat-capai-526-m-dolar-as",
-      "source": "antaranews.com",
-      "summary": "ANTARA -&nbsp;&#8203;Bank Indonesia mencatat nilai transaksi penggunaan mata uang lokal atau Local Currency Transaction ...",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-04T00:15:35+07:00"
-    },
-    {
-      "id": "a2409d489dd6",
-      "title": "KPK periksa direksi Summarecon soal SDM perusahaan dan anak usaha",
-      "url": "https://www.antaranews.com/berita/5830187/kpk-periksa-direksi-summarecon-soal-sdm-perusahaan-dan-anak-usaha",
-      "source": "antaranews.com",
-      "summary": "Komisi Pemberantasan Korupsi (KPK) memeriksa Direktur PT Summarecon Agung Tbk berinisial NW sebagai saksi pada Selasa ...",
-      "topics": [
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-11-04T00:13:27+07:00"
-    },
-    {
-      "id": "21c462540e09",
-      "title": "Indonesia sepakati sejumlah kerja sama hulu migas di ADIPEC 2026",
-      "url": "https://www.antaranews.com/berita/5830175/indonesia-sepakati-sejumlah-kerja-sama-hulu-migas-di-adipec-2026",
-      "source": "antaranews.com",
-      "summary": "Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak dan Gas Bumi (SKK Migas) menyampaikan terdapat penandatanganan ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-04T00:04:57+07:00"
-    },
-    {
-      "id": "cbc54932b5cf",
-      "title": "KPK dalami arahan Bupati Klaten nonaktif terkait pengadaan di pemkab",
-      "url": "https://www.antaranews.com/berita/5830171/kpk-dalami-arahan-bupati-klaten-nonaktif-terkait-pengadaan-di-pemkab",
-      "source": "antaranews.com",
-      "summary": "Komisi Pemberantasan Korupsi (KPK) mendalami arahan Bupati Klaten nonaktif Hamenang Wajar Ismoyo terkait pengadaan ...",
-      "topics": [
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-11-04T00:04:11+07:00"
-    },
-    {
-      "id": "5a5683f46487",
-      "title": "Gelombang peretasan incar lemari pendingin di supermarket Eropa",
-      "url": "https://www.antaranews.com/berita/5830163/gelombang-peretasan-incar-lemari-pendingin-di-supermarket-eropa",
-      "source": "antaranews.com",
-      "summary": "Sistem kendali suhu lemari pendingin di sejumlah pasar swalayan di Jerman menjadi korban terbaru serangan siber ...",
-      "topics": [
-        "internasional"
-      ],
-      "published": "2026-11-04T00:02:53+07:00"
-    },
-    {
-      "id": "fc5e68329b41",
-      "title": "KPK periksa dua swasta untuk dalami aliran uang kasus Muhammad Haniv",
-      "url": "https://www.antaranews.com/berita/5830159/kpk-periksa-dua-swasta-untuk-dalami-aliran-uang-kasus-muhammad-haniv",
-      "source": "antaranews.com",
-      "summary": "Komisi Pemberantasan Korupsi (KPK) memeriksa dua pihak swasta sebagai saksi untuk mendalami aliran uang kasus dugaan ...",
-      "topics": [
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-11-04T00:00:24+07:00"
-    },
-    {
-      "id": "95f5448e3c2e",
-      "title": "Korupsi Pasar Ikan Modern Rp5,031 M, Eks Wali Kota Sibolga Ditahan",
-      "url": "https://www.cnnindonesia.com/nasional/20261103182105-12-1422870/korupsi-pasar-ikan-modern-rp5031-m-eks-wali-kota-sibolga-ditahan",
-      "source": "cnnindonesia.com",
-      "summary": "Mantan Wali Kota Sibolga, Jamaludin Pohan, ditahan karena dugaan korupsi proyek Pasar Ikan Modern dengan kerugian negara Rp5,031 miliar.",
-      "topics": [
-        "sosial"
-      ],
-      "published": "2026-11-04T00:00:00+07:00"
-    },
-    {
-      "id": "0b6aa3a32ffc",
-      "title": "Menko Yusril tegaskan penyadapan tidak terindikasi upaya makar",
-      "url": "https://www.antaranews.com/video/5830151/menko-yusril-tegaskan-penyadapan-tidak-terindikasi-upaya-makar",
-      "source": "antaranews.com",
-      "summary": "ANTARA -&nbsp;Menteri Koordinator bidang Hukum, Ham, Imigrasi, dan Pemasyarakatan, Yusril Ihza Mahendra, di Jakarta ...",
-      "topics": [
-        "politik",
-        "sosial"
-      ],
-      "published": "2026-11-03T23:59:48+07:00"
-    },
-    {
-      "id": "52d4973ee127",
-      "title": "RSPO tegaskan akuntabilitas dalam tangani krisis karhutla di Indonesia",
-      "url": "https://www.antaranews.com/berita/5830155/rspo-tegaskan-akuntabilitas-dalam-tangani-krisis-karhutla-di-indonesia",
-      "source": "antaranews.com",
-      "summary": "Roundtable on Sustainable Palm Oil (RSPO) menegaskan komitmen mereka dengan menunjukkan data, fakta, serta bukti nyata ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T23:58:00+07:00"
-    },
-    {
-      "id": "f058923b24e2",
-      "title": "PLN EPI perkirakan butuh 174 juta ton batu bara untuk 2027",
-      "url": "https://www.antaranews.com/berita/5830147/pln-epi-perkirakan-butuh-174-juta-ton-batu-bara-untuk-2027",
-      "source": "antaranews.com",
-      "summary": "PT PLN Energi Primer Indonesia (PLN EPI) memperkirakan kebutuhan batu bara untuk memasok pembangkit listrik tenaga uap ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T23:51:53+07:00"
-    },
-    {
-      "id": "2d4ffd38fa71",
-      "title": "KPK harap film peserta ACFFEST dapat tayang di bioskop hingga layanan \"streaming\"",
-      "url": "https://www.antaranews.com/berita/5830143/kpk-harap-film-peserta-acffest-dapat-tayang-di-bioskop-hingga-layanan-streaming",
-      "source": "antaranews.com",
-      "summary": "Komisi Pemberantasan Korupsi (KPK) berharap film karya peserta Anti-Corruption Film Festival (ACFFEST) atau Festival ...",
-      "topics": [
-        "sosial",
-        "hiburan"
-      ],
-      "published": "2026-11-03T23:48:56+07:00"
-    },
-    {
-      "id": "cb8f7fe130ff",
-      "title": "Kapolri beri penghargaan kepada lima  jurnalis yang hilang di Krakatau",
-      "url": "https://www.antaranews.com/video/5830135/kapolri-beri-penghargaan-kepada-lima-jurnalis-yang-hilang-di-krakatau",
-      "source": "antaranews.com",
-      "summary": "ANTARA -&nbsp;Kapolri Jenderal Suyudi Ario Seto memberikan penghargaan sekaligus penghormatan kepada lima jurnalis yang ...",
-      "topics": [
-        "ekonomi"
-      ],
-      "published": "2026-11-03T23:46:34+07:00"
-    },
-    {
-      "id": "2d69daa975ce",
-      "title": "Korlantas Datangi Ponpes di Tangerang, Layani Pembuatan SIM Santri",
-      "url": "https://www.cnnindonesia.com/nasional/20261103144602-12-1422787/korlantas-datangi-ponpes-di-tangerang-layani-pembuatan-sim-santri",
-      "source": "cnnindonesia.com",
-      "summary": "Korlantas Polri hadir di Pondok Pesantren Daar El-Qolam untuk mempermudah santri dalam pembuatan dan perpanjangan SIM.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T23:45:29+07:00"
-    },
-    {
-      "id": "087884f7dc4f",
-      "title": "Sambangi KWI, Kapolri ajak tokoh agama perkuat kerukunan dan kamtibnas",
-      "url": "https://www.antaranews.com/video/5830127/sambangi-kwi-kapolri-ajak-tokoh-agama-perkuat-kerukunan-dan-kamtibnas",
-      "source": "antaranews.com",
-      "summary": "ANTARA - Kapolri Jenderal Polisi&nbsp;Suyudi Ario Seto menyambangi kantor Konferensi Wali Gereja Indonesia (KWI) di ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T23:35:41+07:00"
-    },
-    {
-      "id": "ebf8c62b4b49",
-      "title": "Yusril tekankan solusi bersama penyelesaian masalah strategis di Aceh",
-      "url": "https://www.antaranews.com/berita/5830139/yusril-tekankan-solusi-bersama-penyelesaian-masalah-strategis-di-aceh",
-      "source": "antaranews.com",
-      "summary": "Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra menekankan pentingnya mencari ...",
-      "topics": [
-        "politik",
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-11-03T23:34:05+07:00"
-    },
-    {
-      "id": "c3354e5f2aad",
-      "title": "Pelni Cabang Makassar tingkatkan layanan jelang Natal dan Tahun Baru",
-      "url": "https://www.antaranews.com/video/5830099/pelni-cabang-makassar-tingkatkan-layanan-jelang-natal-dan-tahun-baru",
-      "source": "antaranews.com",
-      "summary": "ANTARA - PT Pelayaran Nasional Indonesia (Pelni) Cabang Makassar meningkatkan kualitas layanan menjelang \"peak season\" ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T23:31:44+07:00"
-    },
-    {
-      "id": "304e43142563",
-      "title": "Kampung Haji Indonesia di Mekkah mulai dibangun Desember 2026",
-      "url": "https://www.antaranews.com/video/5830107/kampung-haji-indonesia-di-mekkah-mulai-dibangun-desember-2026",
-      "source": "antaranews.com",
-      "summary": "ANTARA -&nbsp;Menteri Investasi dan Hilirisasi sekaligus CEO Danantara Indonesia, Rosan Roeslani, Selasa (3/11), ...",
-      "topics": [
-        "ekonomi",
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T23:31:33+07:00"
-    },
-    {
-      "id": "1dc78d372730",
-      "title": "PLN EPI sebut EV hingga pusat data dongkrak konsumsi listrik",
-      "url": "https://www.antaranews.com/berita/5830131/pln-epi-sebut-ev-hingga-pusat-data-dongkrak-konsumsi-listrik",
-      "source": "antaranews.com",
-      "summary": "PT PLN Energi Primer Indonesia (PLN EPI) mengatakan pertumbuhan kendaraan listrik (EV), elektrifikasi sektor ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T23:26:56+07:00"
-    },
-    {
-      "id": "220372e425f4",
-      "title": "Yusril tegaskan pemerintah lakukan evaluasi pascakasus penyadapan",
-      "url": "https://www.antaranews.com/berita/5830123/yusril-tegaskan-pemerintah-lakukan-evaluasi-pascakasus-penyadapan",
-      "source": "antaranews.com",
-      "summary": "Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra menegaskan pemerintah akan ...",
-      "topics": [
-        "politik",
-        "sosial"
-      ],
-      "published": "2026-11-03T23:24:37+07:00"
-    },
-    {
-      "id": "d0491067d833",
-      "title": "Anthropic makin dekat dengan AI mampu membangun dirinya sendiri",
-      "url": "https://www.antaranews.com/berita/5830119/anthropic-makin-dekat-dengan-ai-mampu-membangun-dirinya-sendiri",
-      "source": "antaranews.com",
-      "summary": "Perusahaan kecerdasan artifisial (AI), Anthropic, menyatakan perusahaannya makin dekat dengan model AI yang dapat ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T23:24:29+07:00"
-    },
-    {
-      "id": "a92b908b4d6d",
-      "title": "Yusril sebut presiden mengetahui perihal penyadapan lewat Kapolri",
-      "url": "https://www.antaranews.com/video/5830087/yusril-sebut-presiden-mengetahui-perihal-penyadapan-lewat-kapolri",
-      "source": "antaranews.com",
-      "summary": "ANTARA -&nbsp;Menteri Koordinator bidang Hukum, Ham, Imigrasi, dan Pemasyarakatan, Yusril Ihza Mahendra, saat ...",
-      "topics": [
-        "politik",
-        "sosial"
-      ],
-      "published": "2026-11-03T23:23:30+07:00"
-    },
-    {
-      "id": "84bbca4b5469",
-      "title": "Yusril: Negara yang kuat bukan berarti memiliki kekuasaan tanpa batas",
-      "url": "https://www.antaranews.com/berita/5830115/yusril-negara-yang-kuat-bukan-berarti-memiliki-kekuasaan-tanpa-batas",
-      "source": "antaranews.com",
-      "summary": "Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra menegaskan negara yang kuat ...",
-      "topics": [
-        "politik",
-        "sosial"
-      ],
-      "published": "2026-11-03T23:20:45+07:00"
-    },
-    {
-      "id": "b22c213e1608",
-      "title": "Pemkab Bogor lelang dini 10 proyek prioritas 2027",
-      "url": "https://www.antaranews.com/berita/5830111/pemkab-bogor-lelang-dini-10-proyek-prioritas-2027",
-      "source": "antaranews.com",
-      "summary": "Pemerintah Kabupaten Bogor, Jawa Barat, menyiapkan lelang dini terhadap sekitar 10 proyek prioritas pembangunan tahun ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T23:20:38+07:00"
-    },
-    {
-      "id": "3dc41c9917d8",
-      "title": "OJK beri perhatian serius soal kendala transaksi nasabah MNC Bank",
-      "url": "https://www.antaranews.com/berita/5830103/ojk-beri-perhatian-serius-soal-kendala-transaksi-nasabah-mnc-bank",
-      "source": "antaranews.com",
-      "summary": "Otoritas Jasa Keuangan (OJK) memberikan perhatian serius terhadap kendala transaksi dan penarikan dana nasabah MNC Bank ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T23:14:15+07:00"
-    },
-    {
-      "id": "d693ec7268b5",
-      "title": "Yusril: Presiden Prabowo tahu disadap dari laporan Kapolri Suyudi",
-      "url": "https://www.antaranews.com/berita/5830095/yusril-presiden-prabowo-tahu-disadap-dari-laporan-kapolri-suyudi",
-      "source": "antaranews.com",
-      "summary": "Menteri Koordinator Bidang Hukum, Hak Asasi Manusia, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra mengatakan ...",
-      "topics": [
-        "politik",
-        "sosial"
-      ],
-      "published": "2026-11-03T23:10:17+07:00"
-    },
-    {
-      "id": "cdbdb9eecb0e",
-      "title": "Yusril: Kekayaan intelektual berpotensi besar ciptakan nilai ekonomi",
-      "url": "https://www.antaranews.com/berita/5830091/yusril-kekayaan-intelektual-berpotensi-besar-ciptakan-nilai-ekonomi",
-      "source": "antaranews.com",
-      "summary": "Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra menekankan kekayaan ...",
-      "topics": [
-        "ekonomi",
-        "politik",
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-11-03T23:05:55+07:00"
-    },
-    {
-      "id": "69a5a4b37970",
-      "title": "Snap sepakati penyelesaian damai gugatan soal kecanduan media sosial",
-      "url": "https://www.antaranews.com/berita/5830083/snap-sepakati-penyelesaian-damai-gugatan-soal-kecanduan-media-sosial",
-      "source": "antaranews.com",
-      "summary": "Snap menyepakati penyelesaian damai atas gugatan mengenai kecanduan media sosial yang diajukan oleh dua remaja di ...",
-      "topics": [
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-11-03T23:00:23+07:00"
-    },
-    {
-      "id": "d47b5b7ff566",
-      "title": "Vantage Markets andalkan perdagangan emas bidik pasar RI",
-      "url": "https://www.antaranews.com/berita/5830079/vantage-markets-andalkan-perdagangan-emas-bidik-pasar-ri",
-      "source": "antaranews.com",
-      "summary": "Perusahaan pialang berjangka PT Vantage Markets Futures, yang merupakan entitas lokal Vantage Markets,&nbsp;menjadikan ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T22:58:20+07:00"
-    },
-    {
-      "id": "17310248f0f2",
-      "title": "Tim SAR gabungan cari dua korban longsor di area glamping Bali",
-      "url": "https://www.antaranews.com/video/5830063/tim-sar-gabungan-cari-dua-korban-longsor-di-area-glamping-bali",
-      "source": "antaranews.com",
-      "summary": "ANTARA -&nbsp;&lrm;Tim Gabungan Pencarian dan Pertolongan (SAR) terus melakukan pencarian dua wisatawan WNI dan WNA ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T22:56:25+07:00"
-    },
-    {
-      "id": "ab836e8b3993",
-      "title": "RANS petik pelajaran dari kekalahan telak lawan Arema",
-      "url": "https://www.antaranews.com/berita/5830075/rans-petik-pelajaran-dari-kekalahan-telak-lawan-arema",
-      "source": "antaranews.com",
-      "summary": "Pelatih RANS Nusantara FC Kas Hartadi menyatakan timnya mengambil banyak pelajaran setelah dikalahkan Arema FC 0-4 ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T22:56:06+07:00"
-    },
-    {
-      "id": "af8385e88a9b",
-      "title": "PLN EPI butuh 120 kargo LNG untuk 2027",
-      "url": "https://www.antaranews.com/berita/5830071/pln-epi-butuh-120-kargo-lng-untuk-2027",
-      "source": "antaranews.com",
-      "summary": "PT PLN Energi Primer Indonesia (PLN EPI) memperkirakan kebutuhan gas alam cair atau liquefied natural gas (LNG) untuk ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T22:54:10+07:00"
-    },
-    {
-      "id": "a380bd32b3f4",
-      "title": "Anggota DPR minta pemerintah kaji ulang PPN produk menstruasi",
-      "url": "https://www.antaranews.com/berita/5830067/anggota-dpr-minta-pemerintah-kaji-ulang-ppn-produk-menstruasi",
-      "source": "antaranews.com",
-      "summary": "Anggota Komisi VIII DPR RI Selly Andriany Gantina meminta pemerintah mengkaji ulang pengenaan pajak pertambahan nilai ...",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T22:51:49+07:00"
-    },
-    {
-      "id": "eb1bc4c31efd",
-      "title": "BI: Kenaikan inflasi produsen perlu diwaspadai jika jangka panjang",
-      "url": "https://www.antaranews.com/berita/5830059/bi-kenaikan-inflasi-produsen-perlu-diwaspadai-jika-jangka-panjang",
-      "source": "antaranews.com",
-      "summary": "Bank Indonesia (BI) menilai, kenaikan inflasi produsen perlu diwaspadai apabila berlangsung dalam jangka menengah ...",
-      "topics": [
-        "ekonomi",
-        "teknologi"
-      ],
-      "published": "2026-11-03T22:50:45+07:00"
-    },
-    {
-      "id": "7a9db3974534",
-      "title": "FOTO: Geger Kasus Penyadapan Presiden Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103211617-14-1422950/foto-geger-kasus-penyadapan-presiden-prabowo",
-      "source": "cnnindonesia.com",
-      "summary": "Tiga jenderal aktif termasuk Listyo Sigit jadi tersangka dalam kasus dugaan kasus penyadapan ilegal terhadap Presiden Prabowo Subianto.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T22:45:53+07:00"
-    },
-    {
-      "id": "a36f174bcec7",
-      "title": "Hampir 5.000 orang ditahan menyusul aksi protes siswa di Prancis",
-      "url": "https://www.antaranews.com/berita/5830055/hampir-5000-orang-ditahan-menyusul-aksi-protes-siswa-di-prancis",
-      "source": "antaranews.com",
-      "summary": "Hampir 5.000 orang di seluruh Prancis ditahan menyusul aksi protes para siswa yang berlangsung sejak 17 Oktober, kata ...",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T22:42:48+07:00"
-    },
-    {
-      "id": "10fdd9020eea",
-      "title": "Yusril Buka Suara soal Kemungkinan Gibran Korban Penyadapan Listyo Cs",
-      "url": "https://www.cnnindonesia.com/nasional/20261103213414-12-1422964/yusril-buka-suara-soal-kemungkinan-gibran-korban-penyadapan-listyo-cs",
-      "source": "cnnindonesia.com",
-      "summary": "Menko Kumham Imipas Yusril Ihza Mahendra belum bisa memastikan apakah Wapres Gibran turut menjadi korban penyadapan atau tidak.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T22:40:58+07:00"
-    },
-    {
-      "id": "9360743ebae3",
-      "title": "Anwar Ibrahim bicara meningkatnya penyelundupan narkoba di Malaysia",
-      "url": "https://www.antaranews.com/berita/5830051/anwar-ibrahim-bicara-meningkatnya-penyelundupan-narkoba-di-malaysia",
-      "source": "antaranews.com",
-      "summary": "Perdana Menteri Malaysia Anwar Ibrahim angkat bicara mengenai meningkatnya aktivitas penyelundupan narkoba di Malaysia, ...",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T22:34:42+07:00"
-    },
-    {
-      "id": "c6af75256c3e",
-      "title": "Polri Masih Periksa Saksi SU di Kasus Penyadapan Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103220528-12-1422972/polri-masih-periksa-saksi-su-di-kasus-penyadapan-prabowo",
-      "source": "cnnindonesia.com",
-      "summary": "Bareskrim Polri memeriksa Jenderal SU dalam kasus penyadapan ilegal terhadap Prabowo. Tiga jenderal aktif sudah jadi tersangka.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T22:14:41+07:00"
-    },
-    {
-      "id": "a43fdf36637a",
-      "title": "Polri: Dugaan Penyadapan Prabowo oleh Listyo Cs Terjadi Sejak 2025",
-      "url": "https://www.cnnindonesia.com/nasional/20261103215505-12-1422969/polri-dugaan-penyadapan-prabowo-oleh-listyo-cs-terjadi-sejak-2025",
-      "source": "cnnindonesia.com",
-      "summary": "Bareskrim Polri menetapkan tiga jenderal aktif, termasuk Listyo Sigit sebagai tersangka penyadapan ilegal terhadap Presiden Prabowo.",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T22:04:34+07:00"
-    },
-    {
-      "id": "5c72f4d02700",
-      "title": "Tiga Jenderal Polisi Jadi Tersangka Kasus Penyadapan Presiden Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103210931-16-1422949/tiga-jenderal-polisi-jadi-tersangka-kasus-penyadapan-presiden-prabowo",
-      "source": "cnnindonesia.com",
-      "summary": "Mabes Polri mengumumkan perkembangan kasus dugaan tindak pidana penyadapan ilegal terhadap Presiden Prabowo oleh tiga perwira polisi.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T21:39:59+07:00"
-    },
-    {
-      "id": "105a049604d9",
-      "title": "Wamendagri Dorong Kepala Daerah Perkuat Visi Pembangunan dan Pelayanan",
-      "url": "https://www.cnnindonesia.com/nasional/20261103210323-25-1422948/wamendagri-dorong-kepala-daerah-perkuat-visi-pembangunan-dan-pelayanan",
-      "source": "cnnindonesia.com",
-      "summary": "Wamendagri Bima Arya mengajak kepala daerah untuk memperkuat visi kepemimpinan selaras dengan pembangunan nasional demi manfaat nyata bagi masyarakat.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T21:36:24+07:00"
-    },
-    {
-      "id": "863059ebfad5",
-      "title": "Profil Irjen Eko Hadi yang Jadi Tersangka Kasus Penyadapan Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103183940-12-1422876/profil-irjen-eko-hadi-yang-jadi-tersangka-kasus-penyadapan-prabowo",
-      "source": "cnnindonesia.com",
-      "summary": "Mabes Polri menetapkan tiga pewira tinggi kepolisian sebagai tersangka dalam kasus penyadapan terhadap Presiden Prabowo Subianto. Tiga jenderal sudah ditahan.",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T21:35:36+07:00"
-    },
-    {
-      "id": "cdbfa8b20dad",
-      "title": "Tito Karnavian Tinjau Tanggul Terdampak Banjir Susulan di Pidie Jaya",
-      "url": "https://www.cnnindonesia.com/nasional/20261103212318-20-1422959/tito-karnavian-tinjau-tanggul-terdampak-banjir-susulan-di-pidie-jaya",
-      "source": "cnnindonesia.com",
-      "summary": "Tito mengatakan, banjir susulan menjadi salah satu kendala dalam percepatan rehabilitasi dan rekonstruksi pascabencana Sumatera.",
-      "topics": [
-        "sosial"
-      ],
-      "published": "2026-11-03T21:24:53+07:00"
-    },
-    {
-      "id": "c49024ede484",
-      "title": "Profil Listyo Sigit, Mantan Kapolri Tersangka Kasus Penyadapan Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103202530-12-1422923/profil-listyo-sigit-mantan-kapolri-tersangka-kasus-penyadapan-prabowo",
-      "source": "cnnindonesia.com",
-      "summary": "Kepala Staf Kepresidenan Listyo Sigit Prabowo ditetapkan tersangka dalam kasus penyadapan ilegal.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T21:19:37+07:00"
-    },
-    {
-      "id": "a30b5353933c",
-      "title": "Revisi Aturan, Pengusaha Mikro Bakal Otomatis Jadi Anggota Kadin",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103180122-92-1422867/revisi-aturan-pengusaha-mikro-bakal-otomatis-jadi-anggota-kadin",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Menteri UMKM Maman Abdurahman mengungkap para pengusaha mikro akan secara otomatis tergabung menjadi anggota Kamar Dagang dan Industri (Kadin) Indonesia.",
-      "topics": [
-        "ekonomi",
-        "politik"
-      ],
-      "published": "2026-11-03T21:15:40+07:00"
-    },
-    {
-      "id": "58d991e6e2e1",
-      "title": "Polri soal Penyadapan Prabowo: Murni Oknum, Bukan Kebijakan Institusi",
-      "url": "https://www.cnnindonesia.com/nasional/20261103204939-12-1422936/polri-soal-penyadapan-prabowo-murni-oknum-bukan-kebijakan-institusi",
-      "source": "cnnindonesia.com",
-      "summary": "Polri memastikan tindak pidana penyadapan Presiden RI Prabowo murni tindakan individu, bukan kebijakan institusi.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T21:14:36+07:00"
-    },
-    {
-      "id": "50a17a4626dd",
-      "title": "Polisi Sudah Periksa 10 Saksi dan 3 Ahli di Kasus Penyadapan Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103205013-12-1422938/polisi-sudah-periksa-10-saksi-dan-3-ahli-di-kasus-penyadapan-prabowo",
-      "source": "cnnindonesia.com",
-      "summary": "Bareskrim sebut periksa 10 saksi dan tiga saksi ahli dalam kasus dugaan penyadapan terhadap sejumlah tokoh salah satunya Presiden Prabowo Subianto.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T21:08:52+07:00"
-    },
-    {
-      "id": "2b1f04120eb6",
-      "title": "Menko Yusril Ungkap Alasan Penyadap Prabowo Belum Dijerat Pasal Makar",
-      "url": "https://www.cnnindonesia.com/nasional/20261103203232-12-1422926/menko-yusril-ungkap-alasan-penyadap-prabowo-belum-dijerat-pasal-makar",
-      "source": "cnnindonesia.com",
-      "summary": "Tiga anggota polisi ditetapkan sebagai tersangka penyadapan, terancam hukuman hingga 10 tahun. Menko Yusril memeri penjelasan",
-      "topics": [
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-11-03T21:03:39+07:00"
-    },
-    {
-      "id": "ce827d9c2a14",
-      "title": "KAI Tambah Pemberhentian KA Jarak Jauh di Jatinegara-Bekasi-Cikarang",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103194450-92-1422909/kai-tambah-pemberhentian-ka-jarak-jauh-di-jatinegara-bekasi-cikarang",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "PT Kereta Api Indonesia (Persero) atau KAI menambah pemberhentian baru kereta api jarak jauh (KAJJ) di Stasiun Jatinegara, Bekasi, dan Cikarang.",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T21:00:51+07:00"
-    },
-    {
-      "id": "bb1b5248c4ab",
-      "title": "Yusril Ungkap Prabowo Tahu Jadi Korban Sadap Jenderal Polri",
-      "url": "https://www.cnnindonesia.com/nasional/20261103204707-12-1422935/yusril-ungkap-prabowo-tahu-jadi-korban-sadap-jenderal-polri",
-      "source": "cnnindonesia.com",
-      "summary": "Menko Kumham Yusril mengungkap Presiden Prabowo tahu tentang penyadapan oleh perwira tinggi Polri, termasuk Listyo Sigit.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T20:58:33+07:00"
-    },
-    {
-      "id": "bd99d25d009d",
-      "title": "Profil Ahrie Sonta Tersangka Kasus Penyadapan Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103170015-12-1422842/profil-ahrie-sonta-tersangka-kasus-penyadapan-prabowo",
-      "source": "cnnindonesia.com",
-      "summary": "Nama Ahrie Sonta dikenal publik ketika menjabat sekretaris pribadi eks Kapolri Jenderal Listyo Sigit Prabowo yang kini menjabat Kepala Staf Kepresidenan.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T20:57:13+07:00"
-    },
-    {
-      "id": "54918ab5753a",
-      "title": "Yusril Ungkap LSP Penyadap Presiden Prabowo Jenderal Polisi Aktif",
-      "url": "https://www.cnnindonesia.com/nasional/20261103203434-12-1422927/yusril-ungkap-lsp-penyadap-presiden-prabowo-jenderal-polisi-aktif",
-      "source": "cnnindonesia.com",
-      "summary": "Yusril Ihza Mahendra menyatakan LSP tersangka kasus dugaan penyadapan terhadap Presiden Prabowo merujuk pada jenderal polisi aktif.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T20:54:27+07:00"
-    },
-    {
-      "id": "e20ef5ec9df2",
-      "title": "Jenderal Listyo Sigit, Ahrie Sonta dan Eko Hadi Tersangka Sadap Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103203456-12-1422928/jenderal-listyo-sigit-ahrie-sonta-eko-hadi-tersangka-sadap-prabowo",
-      "source": "cnnindonesia.com",
-      "summary": "Tiga jenderal aktif dijadikan sebagai tersangka penyadapan ilegal terhadap Presiden Prabowo.",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T20:52:17+07:00"
-    },
-    {
-      "id": "df1fafdb2976",
-      "title": "Polri Sita Handphone hingga Flashdisk di Kasus Penyadapan Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103204259-12-1422931/polri-sita-handphone-hingga-flashdisk-di-kasus-penyadapan-prabowo",
-      "source": "cnnindonesia.com",
-      "summary": "Bareskrim Polri turut menyita sejumlah barang bukti dalam kasus penyadapan terhadap Presiden Prabowo. Barang bukti yang disita di antaranya handphone.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T20:47:49+07:00"
-    },
-    {
-      "id": "5b0669e442c2",
-      "title": "Buruh Minta Gaji Rp7,5 Juta Sebulan Bebas Pajak Penghasilan",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103195534-92-1422914/buruh-minta-gaji-rp75-juta-sebulan-bebas-pajak-penghasilan",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Konfederasi Serikat Pekerja Indonesia (KSPI) dan Partai Buruh mengusulkan pemerintah menaikkan batas Penghasilan Tidak Kena Pajak menjadi Rp7,5 juta per bulan.",
-      "topics": [
-        "ekonomi",
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T20:45:51+07:00"
-    },
-    {
-      "id": "ef65f314ce83",
-      "title": "3 Tersangka Penyadapan Prabowo Terancam hingga 10 Tahun Penjara",
-      "url": "https://www.cnnindonesia.com/nasional/20261103202532-12-1422922/3-tersangka-penyadapan-prabowo-terancam-hingga-10-tahun-penjara",
-      "source": "cnnindonesia.com",
-      "summary": "Tiga anggota polisi yang ditetapkan sebagai tersangka kasus dugaan penyadapan atau dugaan ilegal akses, terancam pidana penjara hingga 10 tahun.",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T20:38:29+07:00"
-    },
-    {
-      "id": "834010da3396",
-      "title": "Kronologi Penyadapan yang Dilakukan 3 Tersangka Terhadap Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103202542-12-1422924/kronologi-penyadapan-yang-dilakukan-3-tersangka-terhadap-prabowo",
-      "source": "cnnindonesia.com",
-      "summary": "Mabes Polri mengungkap kronologi penyadapan yang dilakukan LSP, ASN, EH terhadap Presiden Prabowo, tokoh politik, ormas, media dan pengusaha.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T20:37:31+07:00"
-    },
-    {
-      "id": "1bd71bfc8340",
-      "title": "KAI Siapkan 612 Kereta Baru, Toilet Pria dan Wanita Dipisah",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103195001-92-1422913/kai-siapkan-612-kereta-baru-toilet-pria-dan-wanita-dipisah",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "PT Kereta Api Indonesia (Persero) atau KAI menyiapkan investasi pengadaan 612 unit kereta baru produksi PT INKA hingga 2027 mendatang.",
-      "topics": [
-        "ekonomi",
-        "teknologi"
-      ],
-      "published": "2026-11-03T20:35:01+07:00"
-    },
-    {
-      "id": "cff7cf0c008d",
-      "title": "Daftar Korban Penyadapan LSP: Prabowo, Media, Hingga Pengusaha",
-      "url": "https://www.cnnindonesia.com/nasional/20261103125938-12-1422728/daftar-korban-penyadapan-lsp-prabowo-media-hingga-pengusaha",
-      "source": "cnnindonesia.com",
-      "summary": "Mabes Polri menetapkan tiga anggota polisi sebagai tersangka kasus penyadapan terhadap Presiden Prabowo dan tokoh lainnya. Penyidikan terus berlanjut.",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T20:29:00+07:00"
-    },
-    {
-      "id": "54d50d04e118",
-      "title": "3 Tersangka Penyadapan Presiden Prabowo Ditahan di Rutan Mabes Polri",
-      "url": "https://www.cnnindonesia.com/nasional/20261103175649-12-1422865/3-tersangka-penyadapan-presiden-prabowo-ditahan-di-rutan-mabes-polri",
-      "source": "cnnindonesia.com",
-      "summary": "Tiga tersangka kasus penyadapan penyadapan atau dugaan ilegal akses ditahan di Rumah Tahanan (Rutan) Mabes Polri.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T20:25:58+07:00"
-    },
-    {
-      "id": "b57b2385d97f",
-      "title": "Daftar Tersangka Kasus Penyadapan Presiden, Termasuk LSP",
-      "url": "https://www.cnnindonesia.com/nasional/20261103182041-12-1422869/daftar-tersangka-kasus-penyadapan-presiden-termasuk-lsp",
-      "source": "cnnindonesia.com",
-      "summary": "Polri menetapkan tiga tersangka dalam kasus penyadapan presiden, termasuk LSP dan ASN. Tersangka diduga melanggar prosedur penyadapan yang berlaku.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T20:22:32+07:00"
-    },
-    {
-      "id": "8112306ba6c1",
-      "title": "Bareskrim Tetapkan LSP Sebagai Tersangka Penyadapan Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103201410-12-1422919/bareskrim-tetapkan-lsp-sebagai-tersangka-penyadapan-prabowo",
-      "source": "cnnindonesia.com",
-      "summary": "Polri menetapkan LSP, ASN dan EH sebagai tersangka kasus dugaan penyadapan atau dugaan ilegal akses terhadap Presiden Prabowo Subianto.",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T20:20:35+07:00"
-    },
-    {
-      "id": "f71f286a4467",
-      "title": "Menkeu Bantah Pungut Pajak Baru ke Transfer Antarbank - Dompet Digital",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103200453-532-1422916/menkeu-bantah-pungut-pajak-baru-ke-transfer-antarbank-dompet-digital",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Menteri Keuangan (Menkeu) Suahasil Nazara membantah kabar yang menyebutkan pemerintah akan memungut pajak digital baru pada 9 November 2026.",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T20:20:19+07:00"
-    },
-    {
-      "id": "3fa428ffa181",
-      "title": "Polri Tetapkan 3 Tersangka Penyadapan, Termasuk LSP dan ASN",
-      "url": "https://www.cnnindonesia.com/nasional/20261103124458-12-1422724/polri-tetapkan-3-tersangka-penyadapan-termasuk-lsp-dan-asn",
-      "source": "cnnindonesia.com",
-      "summary": "Polri umumkan tiga anggota polisi sebagai tersangka dalam kasus penyadapan ilegal.",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T20:09:06+07:00"
-    },
-    {
-      "id": "741ad7046578",
-      "title": "Buruh Desak Pajak Pembalut Wanita Jadi Nol Persen: Bukan Barang Mewah",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103192231-92-1422901/buruh-desak-pajak-pembalut-wanita-jadi-nol-persen-bukan-barang-mewah",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "KSPI dan Partai Buruh mendesak pemerintah menghapus pajak pertambahan nilai (PPN) pembalut wanita dari 11 persen menjadi nol persen.",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T20:00:48+07:00"
-    },
-    {
-      "id": "b146c930d64e",
-      "title": "Andito Penggerak Bank Sampah, Ubah Hobi Jadi Sumber Inspirasi",
-      "url": "https://www.cnnindonesia.com/nasional/20261103194059-20-1422908/andito-penggerak-bank-sampah-ubah-hobi-jadi-sumber-inspirasi",
-      "source": "cnnindonesia.com",
-      "summary": "Wahyu Andito, penggerak bank sampah di Cipinang Muara, Jakarta, menginspirasi warga melalui edukasi pengolahan sampah dan konten media sosial.",
-      "topics": [
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-11-03T19:46:24+07:00"
-    },
-    {
-      "id": "8daaab3de337",
-      "title": "OJK Ancam Emiten yang Manipulasi Pasar Modal: Jangan Main-main!",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103193047-92-1422905/ojk-ancam-emiten-yang-manipulasi-pasar-modal-jangan-main-main",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "OJK memperingatkan pelaku pasar modal, termasuk emiten, agar tidak melakukan manipulasi harga saham maupun perdagangan terkoordinasi (coordinated trading).",
-      "topics": [
-        "ekonomi",
-        "teknologi"
-      ],
-      "published": "2026-11-03T19:45:03+07:00"
-    },
-    {
-      "id": "a95af6a27c1b",
-      "title": "Tim Freeport Indonesia Sabet Juara Umum IFRC 2026",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103193317-625-1422907/tim-freeport-indonesia-sabet-juara-umum-ifrc-2026",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "PT Freeport Indonesia dominasi Indonesian Fire dan Rescue Competition 2026. Tim Kamoro juara I, Amungme II, Kompetisi tingkatkan kesiapsiagaan dan keselamatan.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T19:38:01+07:00"
-    },
-    {
-      "id": "174da91a1b0e",
-      "title": "Sultan Najamudin Perkenalkan GREEN 7 untuk Perkuat Demokrasi Hijau",
-      "url": "https://www.cnnindonesia.com/nasional/20261103193130-633-1422906/sultan-najamudin-perkenalkan-green-7-untuk-perkuat-demokrasi-hijau",
-      "source": "cnnindonesia.com",
-      "summary": "Ketua DPD RI Sultan B. Najamudin memperkenalkan konsep GREEN 7 sebagai tujuh pilar implementasi Green Democracy",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T19:34:59+07:00"
-    },
-    {
-      "id": "bc88f39adea5",
-      "title": "Bos BI Beber 3 Faktor Tekan Rupiah hingga Tembus Rp18.145 per Dolar AS",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103190721-78-1422893/bos-bi-beber-3-faktor-tekan-rupiah-hingga-tembus-rp18145-per-dolar-as",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Gubernur BI Destry Damayanti mengungkapkan sejumlah faktor eksternal yang menekan nilai tukar rupiah terhadap dolar AS hingga awal November 2026.",
-      "topics": [
-        "ekonomi",
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T19:30:15+07:00"
-    },
-    {
-      "id": "b2ed66916dde",
-      "title": "Polisi Ungkap Fakta Baru Jejak Digital Rencana Pembunuhan Sadis Madiun",
-      "url": "https://www.cnnindonesia.com/nasional/20261103190857-12-1422895/polisi-ungkap-fakta-baru-jejak-digital-rencana-pembunuhan-sadis-madiun",
-      "source": "cnnindonesia.com",
-      "summary": "Polisi ungkap fakta baru dalam kasus pembunuhan Dini dan anaknya oleh Dwi Bagus. Jejak digital menunjukkan rencana pembunuhan.",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T19:20:18+07:00"
-    },
-    {
-      "id": "0637addb262b",
-      "title": "Menkeu Ungkap Aliran Modal Masuk ke Bursa Saham RI Capai Rp126 T",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103182426-532-1422873/menkeu-ungkap-aliran-modal-masuk-ke-bursa-saham-ri-capai-rp126-t",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Menteri Keuangan (Menkeu) Suahasil Nazara menyampaikan aliran modal masuk (capital inflow) ke bursa saham Indonesia sekitar Rp126 triliun sejak awal 2026.",
-      "topics": [
-        "ekonomi",
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T19:10:02+07:00"
-    },
-    {
-      "id": "c546140cfbbc",
-      "title": "Chevie Mawarti, Peserta Pilah Olah Sampah Heroes Libatkan Disabilitas",
-      "url": "https://www.cnnindonesia.com/nasional/20261103190222-20-1422892/chevie-mawarti-peserta-pilah-olah-sampah-heroes-libatkan-disabilitas",
-      "source": "cnnindonesia.com",
-      "summary": "Chevie Mawarti, peserta Pilah Olah Sampah Heroes 2026, memberdayakan kelompok disabilitas dalam pengelolaan limbah tekstil untuk produk bernilai",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T19:08:25+07:00"
-    },
-    {
-      "id": "49262ae60665",
-      "title": "Tito: Daerah Bencana Susulan di Sumatra Bisa Tetapkan Tanggap Darurat",
-      "url": "https://www.cnnindonesia.com/nasional/20261103182645-25-1422874/tito-daerah-bencana-susulan-di-sumatra-bisa-tetapkan-tanggap-darurat",
-      "source": "cnnindonesia.com",
-      "summary": "Status tanggap darurat diperlukan untuk mempercepat penanganan dampak bencana, terutama perbaikan infrastruktur dan pemulihan kehidupan masyarakat.",
-      "topics": [
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-11-03T19:01:01+07:00"
-    },
-    {
-      "id": "4c88c059d2e2",
-      "title": "Pelindo Catat Arus Peti Kemas Internasional Tembus 10,3 Juta TEUs",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103184228-625-1422879/pelindo-catat-arus-peti-kemas-internasional-tembus-103-juta-teus",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Arus peti kemas PT Pelindo Terminal Petikemas tumbuh 5,80% hingga 10,31 juta TEUs pada 2026, didorong perdagangan internasional dan peningkatan layanan.",
-      "topics": [
-        "internasional"
-      ],
-      "published": "2026-11-03T18:52:29+07:00"
-    },
-    {
-      "id": "cb8835ace7b2",
-      "title": "Perdagangan Tumbuh, Arus Peti Kemas Naik 5,8% Jadi 10,31 Juta TEUs",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103184228-625-1422879/perdagangan-tumbuh-arus-peti-kemas-naik-58-jadi-1031-juta-teus",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Arus peti kemas PT Pelindo Terminal Petikemas tumbuh 5,80% hingga 10,31 juta TEUs pada 2026, didorong perdagangan internasional dan peningkatan layanan.",
-      "topics": [
-        "teknologi",
-        "internasional"
-      ],
-      "published": "2026-11-03T18:52:29+07:00"
-    },
-    {
-      "id": "950b23f6012b",
-      "title": "Farida Soleha, Penggerak Bank Sampah Jadi Sedekah",
-      "url": "https://www.cnnindonesia.com/nasional/20261103184242-20-1422880/farida-soleha-penggerak-bank-sampah-jadi-sedekah",
-      "source": "cnnindonesia.com",
-      "summary": "Farida Soleha, seorang Ketua RT di Jakarta, menggerakkan warga untuk bersedekah dengan menabung sampah. Ia juga mendirikan Bank Sampah Kerabat Rawabadung.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T18:48:59+07:00"
-    },
-    {
-      "id": "6dbd9ca88677",
-      "title": "Belanja Akhir Tahun Negara Rp990 T, Menkeu Ingatkan K/L Tak Jor-joran",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103173202-532-1422852/belanja-akhir-tahun-negara-rp990-t-menkeu-ingatkan-k-l-tak-jor-joran",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Suahasil mengimbau seluruh instansi tetap efisien dalam membelanjakan anggaran jelang akhir tahun. Masih ada Rp990 triliun yang harus dibelanjakan.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T18:40:01+07:00"
-    },
-    {
-      "id": "1682693c8ec9",
-      "title": "Wamendagri Dorong Pembangunan Papua yang Inklusif dan Berkelanjutan",
-      "url": "https://www.cnnindonesia.com/nasional/20261103174551-25-1422854/wamendagri-dorong-pembangunan-papua-yang-inklusif-dan-berkelanjutan",
-      "source": "cnnindonesia.com",
-      "summary": "Wamendagri Ribka Haluk mengingatkan, pembangunan di Tanah Papua harus memperhatikan karakteristik sosial budaya, kondisi geografis, serta kebutuhan masyarakat.",
-      "topics": [
-        "sosial"
-      ],
-      "published": "2026-11-03T18:21:55+07:00"
-    },
-    {
-      "id": "6e77385b59e5",
-      "title": "Bappenas Dukung BRAN Percepat Pemerataan dan Kesejahteraan Rakyat",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103174926-92-1422855/bappenas-dukung-bran-percepat-pemerataan-dan-kesejahteraan-rakyat",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Kepala BRAN Dedi Prasetyo dan Menteri Bappenas Rachmat Pambudy bahas reforma agraria. Fokus pada pemerataan akses tanah untuk kesejahteraan masyarakat.",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T17:56:09+07:00"
-    },
-    {
-      "id": "18e563ed796e",
-      "title": "Perkuat Ketahanan Energi, Pertamina-Toyota Bermitra Hingga 2030",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103172954-625-1422851/perkuat-ketahanan-energi-pertamina-toyota-bermitra-hingga-2030",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Kolaborasi ini mencakup pengembangan bahan bakar rendah karbon, pelumas, teknologi hidrogen, hingga produk petrokimia yang juga mempercepat transisi energi RI.",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T17:54:54+07:00"
-    },
-    {
-      "id": "d52983bce571",
-      "title": "KKP Targetkan Program Minapadi Serap 250 Ribu Tenaga Kerja",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103142243-92-1422772/kkp-targetkan-program-minapadi-serap-250-ribu-tenaga-kerja",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "KKP memperkirakan program budi daya ikan darat tematik melalui model minapadi dapat melibatkan sekitar 250 ribu tenaga kerja.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T17:54:40+07:00"
-    },
-    {
-      "id": "ffa0b7d05151",
-      "title": "Demokrat Tahan Sikap, Tunggu 14 Hari Sejak Putusan MA soal Gibran",
-      "url": "https://www.cnnindonesia.com/nasional/20261103154709-32-1422836/demokrat-tahan-sikap-tunggu-14-hari-sejak-putusan-ma-soal-gibran",
-      "source": "cnnindonesia.com",
-      "summary": "Kapoksi Partai Demokrat di DPR menanggapi putusan MA yang membatalkan suket ijazah Gibran. Partai Demokrat menunggu 14 hari untuk sikap politik.",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T17:36:09+07:00"
-    },
-    {
-      "id": "834ccef9a796",
-      "title": "BRI Hadirkan Layanan Ganti Kartu hingga KPR di JPM Dukuh Atas",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103170633-625-1422844/bri-hadirkan-layanan-ganti-kartu-hingga-kpr-di-jpm-dukuh-atas",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Galeri E-Channel BRI di JPM Dukuh Atas mudahkan komuter Jabodetabek akses layanan perbankan, termasuk pengajuan KPR dan penggantian kartu debit.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T17:33:35+07:00"
-    },
-    {
-      "id": "a3a9223c53c1",
-      "title": "Kapolri Gandeng KWI, Minta Masukan Tokoh Agama soal Kamtibmas",
-      "url": "https://www.cnnindonesia.com/nasional/20261103171305-12-1422848/kapolri-gandeng-kwi-minta-masukan-tokoh-agama-soal-kamtibmas",
-      "source": "cnnindonesia.com",
-      "summary": "Kapolri Suyudi Ario Seto ajak KWI perkuat kerja sama untuk keamanan masyarakat. Kolaborasi ini diharapkan mendukung kehidupan damai dan perekonomian nasional.",
-      "topics": [
-        "ekonomi",
-        "teknologi"
-      ],
-      "published": "2026-11-03T17:26:29+07:00"
-    },
-    {
-      "id": "f512da040cfc",
-      "title": "Maman Minta Publik Tak Salah Tafsir soal Isu Pajak Pedagang Kecil",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103142903-92-1422776/maman-minta-publik-tak-salah-tafsir-soal-isu-pajak-pedagang-kecil",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Menteri UMKM Maman Abdurahman meminta publik tidak menyalahartikan pernyataan Hashim Djojohadikusumo mengenai pajak pedagang kecil.",
-      "topics": [
-        "ekonomi",
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T17:15:32+07:00"
-    },
-    {
-      "id": "865f8f2cd555",
-      "title": "Mutasi Besar-Besaran Kapolri Suyudi, 6 Wakapolda Diganti",
-      "url": "https://www.cnnindonesia.com/nasional/20261103170618-12-1422845/mutasi-besar-besaran-kapolri-suyudi-6-wakapolda-diganti",
-      "source": "cnnindonesia.com",
-      "summary": "Kapolri Suyudi Ario Seto melakukan mutasi besar-besaran dengan mengganti 264 Pati dan Pamen termasuk 6 Wakapolda.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T17:12:54+07:00"
-    },
-    {
-      "id": "a40325b6936e",
-      "title": "Ketua KPK Bicara Pemeriksaan Nusron: Tunggu Saja dalam Waktu Dekat",
-      "url": "https://www.cnnindonesia.com/nasional/20261103163142-12-1422833/ketua-kpk-bicara-pemeriksaan-nusron-tunggu-saja-dalam-waktu-dekat",
-      "source": "cnnindonesia.com",
-      "summary": "Ketua KPK Setyo Budiyanto mengklaim penyidik akan memanggil Menteri ATR/BPN Nusron Wahid dalam waktu dekat.",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T17:01:28+07:00"
-    },
-    {
-      "id": "9bb05308c813",
-      "title": "Jokowi Jadi Saksi di Kasus Roy Suryo Lusa, Sidang Terbuka untuk Umum",
-      "url": "https://www.cnnindonesia.com/nasional/20261103161950-12-1422828/jokowi-jadi-saksi-di-kasus-roy-suryo-lusa-sidang-terbuka-untuk-umum",
-      "source": "cnnindonesia.com",
-      "summary": "Jokowi akan bersaksi dalam sidang kasus fitnah ijazah Roy Suryo pada 5 November. Sidang terbuka untuk umum dengan pengamanan ketat.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T16:55:35+07:00"
-    },
-    {
-      "id": "1bea0d42ffbe",
-      "title": "Rapat DPR-Kejagung Bahas Wacana Perampasan Aset Tanpa Pemidanaan",
-      "url": "https://www.cnnindonesia.com/nasional/20261103162616-32-1422837/rapat-dpr-kejagung-bahas-wacana-perampasan-aset-tanpa-pemidanaan",
-      "source": "cnnindonesia.com",
-      "summary": "Kejaksaan Agung mengingatkan pentingnya kajian mendalam terkait perampasan aset tanpa pemidanaan atau Non-Conviction Based (NCB) dalam RUU Perampasan Aset.",
-      "topics": [
-        "politik",
-        "teknologi"
-      ],
-      "published": "2026-11-03T16:50:37+07:00"
-    },
-    {
-      "id": "e2a83f6af8b5",
-      "title": "FAP Agri Bantah Dipanggil Singapura terkait Penyelidikan Karhutla",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103144056-92-1422783/fap-agri-bantah-dipanggil-singapura-terkait-penyelidikan-karhutla",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Perusahaan sawit PT FAP Agri Tbk (FAPA) buka suara terkait pemberitaan pemanggilan perseroan terkait penyelidikan karhutla oleh Pemerintah Singapura.",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T16:46:55+07:00"
-    },
-    {
-      "id": "89298854e786",
-      "title": "Kasus Gratifikasi, KPK Periksa Anak Eks Pejabat Pajak",
-      "url": "https://www.cnnindonesia.com/nasional/20261103160547-12-1422824/kasus-gratifikasi-kpk-periksa-anak-eks-pejabat-pajak",
-      "source": "cnnindonesia.com",
-      "summary": "KPK memeriksa anak dari mantan pejabat pajak Mohamad Haniv, Feby Paramita terkait penyidikan kasus dugaan gratifikasi.",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T16:35:42+07:00"
-    },
-    {
-      "id": "b93416382b03",
-      "title": "IHSG Melemah 3,78 Persen ke 4.904 Selasa Sore",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103162829-92-1422831/ihsg-melemah-378-persen-ke-4904-selasa-sore",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Indeks Harga Saham Gabungan (IHSG) ditutup melemah 3,78 persen ke 4.904 pada perdagangan Selasa (3/11) sore.",
-      "topics": [
-        "ekonomi"
-      ],
-      "published": "2026-11-03T16:33:53+07:00"
-    },
-    {
-      "id": "06385671b009",
-      "title": "Polri Bakal Blak-blakan soal Kabar Penyadapan Sore Ini",
-      "url": "https://www.cnnindonesia.com/nasional/20261103161556-20-1422825/polri-bakal-blak-blakan-soal-kabar-penyadapan-sore-ini",
-      "source": "cnnindonesia.com",
-      "summary": "Polri menyatakan bakal menyampaikan informasi soal kabar penangkapan sejumlah perwira tinggi Polri atas dugaan penyadapan pada Selasa (3/11) hari ini.",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T16:23:07+07:00"
-    },
-    {
-      "id": "c863d4e1f8b8",
-      "title": "Rupiah Melemah ke Rp18.160 per Dolar AS Sore Ini",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103161814-78-1422827/rupiah-melemah-ke-rp18160-per-dolar-as-sore-ini",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Nilai tukar rupiah ditutup melemah 0,02 persen ke Rp18.160 per dolar AS pada perdagangan Selasa (3/11) sore.",
-      "topics": [
-        "ekonomi",
-        "teknologi"
-      ],
-      "published": "2026-11-03T16:21:49+07:00"
-    },
-    {
-      "id": "cf7b37182ca9",
-      "title": "Mendes Komitmen Selesaikan Akar Masalah Stunting dari Hulu ke Hilir",
-      "url": "https://www.cnnindonesia.com/nasional/20261103160336-20-1422823/mendes-komitmen-selesaikan-akar-masalah-stunting-dari-hulu-ke-hilir",
-      "source": "cnnindonesia.com",
-      "summary": "Mendes PDT Yandri Susanto berkomitmen menurunkan angka stunting dengan menyelesaikan akar masalah dari hulu sampai ke hilir.",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T16:10:59+07:00"
-    },
-    {
-      "id": "56bee7be300a",
-      "title": "BPS Ungkap Inflasi Cabai Rawit Gorontalo dan Sulut Tembus 200 Persen",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103153424-92-1422812/bps-ungkap-inflasi-cabai-rawit-gorontalo-dan-sulut-tembus-200-persen",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Inflasi cabai rawit di sejumlah provinsi di Indonesia masih sangat tinggi. Di Gorontalo, inflasi menembus 262,66 persen.",
-      "topics": [
-        "ekonomi",
-        "teknologi"
-      ],
-      "published": "2026-11-03T15:55:00+07:00"
-    },
-    {
-      "id": "b93722c0a4a2",
-      "title": "264 Pati dan Pamen Polri Dimutasi, Jabatan Strategis Berganti",
-      "url": "https://www.cnnindonesia.com/nasional/20261103154041-20-1422813/264-pati-dan-pamen-polri-dimutasi-jabatan-strategis-berganti",
-      "source": "cnnindonesia.com",
-      "summary": "Polri melakukan mutasi dan rotasi terhadap 264 Perwira Tinggi (Pati) dan Perwira Menengah (Pamen) pada November 2026.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T15:47:34+07:00"
-    },
-    {
-      "id": "7d4f84b8eb1f",
-      "title": "Tak Mau Jual Murah, Bahlil Kendalikan Produksi Batu Bara Lewat RKAB",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103153156-90-1422809/tak-mau-jual-murah-bahlil-kendalikan-produksi-batu-bara-lewat-rkab",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Langkah ini diambil setelah pasokan batu bara RI pada tahun lalu justru memicu kelebihan pasokan, serta menekan profitabilitas industri dan pendapatan negara.",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T15:44:57+07:00"
-    },
-    {
-      "id": "240e23d153b1",
-      "title": "3 Pengedar Sabu dengan Modus Aplikasi AI Dibekuk di Morowali Sulteng",
-      "url": "https://www.cnnindonesia.com/nasional/20261103150333-12-1422805/3-pengedar-sabu-dengan-modus-aplikasi-ai-dibekuk-di-morowali-sulteng",
-      "source": "cnnindonesia.com",
-      "summary": "Polisi tangkap tiga pelaku peredaran sabu di Bahodopi, Morowali, yang memanfaatkan teknologi AI melalui aplikasi METEOR. Jaringan ini masih didalami.",
-      "topics": [
-        "teknologi"
-      ],
-      "published": "2026-11-03T15:44:09+07:00"
-    },
-    {
-      "id": "6b7abe2f9e3a",
-      "title": "Mendag Beber Rencana Rombak Aturan Devisa Hasil Ekspor SDA",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103133155-92-1422737/mendag-beber-rencana-rombak-aturan-devisa-hasil-ekspor-sda",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Mendag Budi Santoso mengumumkan rencana perombakan aturan Devisa Hasil Ekspor Sumber Daya Alam (DHE SDA) untuk meningkatkan likuiditas domestik.",
-      "topics": [
-        "ekonomi"
-      ],
-      "published": "2026-11-03T15:25:55+07:00"
-    },
-    {
-      "id": "7f0d6ddf7be4",
-      "title": "Prabowo Undang Mahasiswa URI ke Istana Kepresidenan Jakarta",
-      "url": "https://www.cnnindonesia.com/nasional/20261103151644-20-1422804/prabowo-undang-mahasiswa-uri-ke-istana-kepresidenan-jakarta",
-      "source": "cnnindonesia.com",
-      "summary": "Presiden RI Prabowo Subianto mengundang mahasiswa Universitas Republik Indonesia (URI) ke Istana Kepresidenan Jakarta, Selasa (3/11).",
-      "topics": [
-        "politik"
-      ],
-      "published": "2026-11-03T15:25:05+07:00"
-    },
-    {
-      "id": "da6742f28c0c",
-      "title": "Relawan Gibran soal Kasasi Suket: Mas Wapres Bukan Tipe Orang Kagetan",
-      "url": "https://www.cnnindonesia.com/nasional/20261103142500-32-1422775/relawan-gibran-soal-kasasi-suket-mas-wapres-bukan-tipe-orang-kagetan",
-      "source": "cnnindonesia.com",
-      "summary": "Kelompok relawan Gibran Rakabuming Raka menyatakan junjungan mereka tak terkejut atas putusan MA yang batalkan surat penyetaraan pendidikan untuk Pilpres 2024.",
-      "topics": [
-        "sosial"
-      ],
-      "published": "2026-11-03T15:14:22+07:00"
-    },
-    {
-      "id": "3a2d037eeb2c",
-      "title": "Gubernur Jateng Turunkan Tim Dampingi Santri Ponpes Sukoharjo",
-      "url": "https://www.cnnindonesia.com/nasional/20261103145602-20-1422797/gubernur-jateng-turunkan-tim-dampingi-santri-ponpes-sukoharjo",
-      "source": "cnnindonesia.com",
-      "summary": "Gubernur Jateng Ahmad Luthfi menurunkan tim dari DP3AKB untuk mendampingi santri Ponpes Sukoharjo untuk perlindungan pendidikan.",
-      "topics": [
-        "politik",
-        "sosial"
-      ],
-      "published": "2026-11-03T15:10:57+07:00"
-    },
-    {
-      "id": "ec8706cf318b",
-      "title": "Pendaftaran Magang Nasional 2026 Ditutup Besok, Ini Syaratnya",
-      "url": "https://www.cnnindonesia.com/ekonomi/20261103144526-92-1422785/pendaftaran-magang-nasional-2026-ditutup-besok-ini-syaratnya",
-      "source": "cnnindonesia.com/ekonomi",
-      "summary": "Pendaftaran Program Magang Nasional atau MagangHub batch 3 angkatan II 2026 akan ditutup pada Rabu (4/11).",
-      "topics": [
-        "umum"
-      ],
-      "published": "2026-11-03T15:05:01+07:00"
-    },
-    {
-      "id": "c69081cbe875",
-      "title": "Eks Pj Gubernur Sulsel Jadi Tersangka Kasus Nanas Lagi, Ada Bukti Baru",
-      "url": "https://www.cnnindonesia.com/nasional/20261103144112-12-1422784/eks-pj-gubernur-sulsel-jadi-tersangka-kasus-nanas-lagi-ada-bukti-baru",
-      "source": "cnnindonesia.com",
-      "summary": "Kejati Sulsel menetapkan kembali Bahtiar Baharuddin sebagai tersangka korupsi pengadaan bibit nanas. Jaksa sebut bukti baru mendukung keputusan tersebut.",
-      "topics": [
-        "politik",
-        "teknologi",
-        "sosial"
-      ],
-      "published": "2026-11-03T15:02:31+07:00"
     }
   ]
 }
